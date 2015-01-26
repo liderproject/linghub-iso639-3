@@ -1,8 +1,8 @@
 var fs = require('fs')
 var parse = require('csv-parse')
 
-// found here: http://andrew.hedges.name/experiments/levenshtein/
-var levenshtein = require('./levenshtein.js') 
+// found here: https://gist.github.com/doorhammer/9957864
+var similarity = require('./similarity.js')
 
 var SIL_INDEX = {};
 
@@ -24,8 +24,7 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
             // here we should build an index
             lang = lang.toLowerCase()
 
-            // split lang into words
-            langs = lang.match(/\w+/g)
+            SIL_INDEX[lang] = id
 
             // ids in the SIL data could spread 4 columns
             var ids = []
@@ -33,10 +32,6 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
                 if(el[y]) ids.push(el[y])
             }
 
-            // add to the index each individual word
-            for(var l in langs) {
-                SIL_INDEX[langs[l]] = id
-            }
             for(var x in ids) {
                 SIL_INDEX[ids[x]] = id
             }
@@ -55,23 +50,22 @@ function language(original, str) {
     str = str.toLowerCase();
 
     // iterate SIL_INDEX - should perhaps be just search (build better index)
-    var closest = {
-        dist: 1000, // large number yuk
+    var obj = {
+        rank: 0,
         original: original
     };
     for(var i in SIL_INDEX) {
         // get distance
-        var distArray = levenshtein.levenshteinenator(str, i);
-        var dist = distArray[ distArray.length - 1 ][ distArray[ distArray.length - 1 ].length - 1 ];
-        // what if multiple 0s?
-        if(dist < closest.dist) {
-            closest.dist = dist
-            closest.input = str
-            closest.id = SIL_INDEX[i]
-            closest.match = i
+        var rank = similarity.similarity(str, i);
+
+        if(rank > obj.rank) {
+            obj.rank = rank
+            obj.input = str
+            obj.id = SIL_INDEX[i]
+            obj.match = i
         }
     }
-    fs.appendFile('results.json', JSON.stringify(closest))
+    fs.appendFile('results.json', JSON.stringify(obj))
 }
 function parseLanguageFile() {
     // clear results file
