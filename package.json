@@ -1,0 +1,23 @@
+{
+  "name": "linghub-iso639-3",
+  "version": "0.0.0",
+  "description": "Code for mapping language strings to ISO 639-3 codes",
+  "main": "main.js",
+  "dependencies": {
+    "csv-parse": "~0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liderproject/linghub-iso639-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liderproject/linghub-iso639-3/issues"
+  },
+  "homepage": "https://github.com/liderproject/linghub-iso639-3"
+}
