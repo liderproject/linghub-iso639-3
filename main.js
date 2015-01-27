@@ -43,55 +43,70 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
 })
 
 // this is called for each row of languages.csv
-function language(original, str) {
-    // run levenshtein algorithm
-    // against the SIL_INDEX
-    // and see which distance is less
-    str = str.toLowerCase();
+// langs is array because a cell in a row can contain
+// multiple languages such as "Italian,English"
+// therefore langs has ['Italian', 'English']
+function language(langs, done) {
+    var strToWrite = ''
+    for(var y=0; y<langs.length; y++) {
+        // run string similarity algorithm
+        // against the SIL_INDEX
+        // and see which ranks the highest
+        var str = langs[y]
+        var original = str
+        str = str.toLowerCase();
 
-    // iterate SIL_INDEX - should perhaps be just search (build better index)
-    var obj = {
-        rank: 0,
-        original: original
-    };
-    for(var i in SIL_INDEX) {
-        // get distance
-        var rank = similarity.similarity(str, i);
+        // iterate SIL_INDEX - should perhaps be just search (build better index)
+        var obj = {
+            rank: 0,
+            original: original
+        };
+        // for each word look at the SIL index
+        for(var i in SIL_INDEX) {
+            // get distance
+            var rank = similarity.similarity(str, i);
 
-        if(rank > obj.rank) {
-            obj.rank = rank
-            obj.input = str
-            obj.id = SIL_INDEX[i]
-            obj.match = i
+            if(rank > obj.rank) {
+                obj.rank = rank
+                obj.input = str
+                obj.id = SIL_INDEX[i]
+                obj.match = i
+            }
         }
+        strToWrite += JSON.stringify(obj) + '\n'
     }
-    fs.appendFile('results.json', JSON.stringify(obj))
+    fs.appendFile('results.json', strToWrite, function(err) {
+        if(err) console.log(err)
+        done()
+    })
 }
+
+function handleRowAt(rows, idx) {
+    // rows is array of arrays (rows)
+    var row = rows[idx];
+    if(!row) return;
+    // second column is the string
+    var langs = row[1]
+    // they're surrounded by double quotes
+    // JSON.parse thinks it's a JSON string
+    langs = JSON.parse(langs)
+    // try splitting by , or ;
+    langs = langs.split(',')
+
+    language(langs, function() {
+        // call recursively after its appended one line to results.json
+        handleRowAt(rows, idx + 1)
+    })
+}
+
 function parseLanguageFile() {
     // clear results file
     fs.writeFile('results.json', '')
     fs.readFile('language.csv', 'utf-8', function(err, data) {
         if(err) return console.log(err)
-        parse(data, function(err, output) {
+        parse(data, function(err, rows) {
             if(err) return console.log(err)
-            // output is array of arrays (rows)
-            for(var i in output) {
-                var row = output[i]
-                // second column is the string
-                var langs = row[1]
-                // they're surrounded by double quotes
-                // JSON.parse thinks it's a JSON string
-                langs = JSON.parse(langs)
-                // try splitting by , or ;
-                langs = langs.split(',')
-                for(var x in langs) {
-                    var arr = langs[x].split(';') 
-                    for(var y in arr) {
-                        // finally trim
-                        language(row[1], arr[y].trim())
-                    }
-                }
-            }
+            handleRowAt(rows, 0)
         })
     })
 }
