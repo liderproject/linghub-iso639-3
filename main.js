@@ -5,6 +5,7 @@ var parse = require('csv-parse')
 var similarity = require('./similarity.js')
 
 var SIL_INDEX = {};
+var LOW_RANKED = [];
 
 // let's read the official SIL data
 // and build an index of it in memory
@@ -54,7 +55,7 @@ function language(langs, done) {
         // and see which ranks the highest
         var str = langs[y]
         var original = str
-        str = str.toLowerCase();
+        str = str.toLowerCase().trim();
 
         // iterate SIL_INDEX - should perhaps be just search (build better index)
         var obj = {
@@ -81,20 +82,39 @@ function language(langs, done) {
     })
 }
 
+function handleSplitContent(rows, idx) {
+    var row = rows[idx];
+    if(!row) return; // finished recursion
+    var langs = row[1]
+    langs = JSON.parse(langs)
+    langs = langs.split(/[,;]+/)
+    language(langs, function() {
+        // call recursively after it has written to results.json
+        handleSplitContent(rows, idx + 1)
+    })
+}
+
 function handleRowAt(rows, idx) {
     // rows is array of arrays (rows)
     var row = rows[idx];
-    if(!row) return;
+    if(!row) { // finished recursion
+        // start handling the content by splitting it 
+        // (could be the ones with commas and ;)
+        handleSplitContent(rows, 0)
+        return;
+    }
     // second column is the string
     var langs = row[1]
     // they're surrounded by double quotes
     // JSON.parse thinks it's a JSON string
     langs = JSON.parse(langs)
-    // try splitting by , or ;
-    langs = langs.split(',')
+    // XXX splitting by , or ; is ok in many occasion
+    // but also not ok in others. best would be to run ranking
+    // and rerun it on split only for the low ranked
+    langs = [langs]
 
     language(langs, function() {
-        // call recursively after its appended one line to results.json
+        // call recursively after it has written to results.json
         handleRowAt(rows, idx + 1)
     })
 }
