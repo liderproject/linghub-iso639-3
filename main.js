@@ -49,6 +49,7 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
 // therefore langs has ['Italian', 'English']
 function language(langs, done) {
     var strToWrite = ''
+    console.log(langs)
     for(var y=0; y<langs.length; y++) {
         // run string similarity algorithm
         // against the SIL_INDEX
@@ -62,6 +63,24 @@ function language(langs, done) {
             rank: 0,
             original: original
         };
+        obj.input = str
+        if(original === "LI") {
+            obj.rank = 2
+            obj.id = "und"
+            obj.match = "LI"
+        } else if(original === "greek") {
+            obj.rank = 2
+            obj.id = "ell"
+            obj.match = "greek"
+        } else if(original == " Castilian") {
+            obj.rank = 2
+            obj.id = "spa"
+            obj.match = "spanish"
+        } else if(original == "flemish") {
+            obj.rank = 2
+            obj.id = "nld-BE"
+            obj.match = "flemish"
+        }
         // for each word look at the SIL index
         for(var i in SIL_INDEX) {
             // get distance
@@ -69,7 +88,6 @@ function language(langs, done) {
 
             if(rank > obj.rank) {
                 obj.rank = rank
-                obj.input = str
                 obj.id = SIL_INDEX[i]
                 obj.match = i
             }
@@ -111,7 +129,9 @@ function handleRowAt(rows, idx) {
     // XXX splitting by , or ; is ok in many occasion
     // but also not ok in others. best would be to run ranking
     // and rerun it on split only for the low ranked
-    langs = [langs]
+    //langs = [langs]
+    langs = langs.split(/[,;]+/)
+    
 
     language(langs, function() {
         // call recursively after it has written to results.json
