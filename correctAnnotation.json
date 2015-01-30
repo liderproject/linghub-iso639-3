@@ -11,7 +11,7 @@
 {"rank":0.4,"original":"en-us","id":"eng","match":"en"}
 {"rank":1,"original":"Serbian","id":"srp","match":"serbian"}
 {"rank":1,"original":"english","id":"eng","match":"english"}
-{"rank":0.5714285714285714,"original":"Bokmål","id":"bok","match":"bok"}
+{"rank":0.5714285714285714,"original":"Bokmål","id":"mob","match":"bok"}
 {"rank":1,"original":"EN","id":"eng","match":"en"}
 {"rank":1,"original":"Esperanto","id":"epo","match":"esperanto"}
 {"rank":0.4,"original":"en-US","id":"eng","match":"en"}
@@ -22,58 +22,58 @@
 {"rank":1,"original":"Syriac","id":"syr","match":"syriac"}
 {"rank":0.8333333333333334,"original":"Setswana","id":"tsn","match":"tswana"}
 {"rank":0.6666666666666666,"original":"Tshivenda","id":"ven","match":"venda"}
-{"rank":0.8333333333333334,"original":"Rumanian","id":"tnh","match":"maiani"}
-{"rank":0.631578947368421,"original":"All european languages","id":"nsp","match":"nepalese sign language"}
-{"rank":0.6666666666666666,"original":"Mooré","id":"moo","match":"moo"}
+{"rank":0.8333333333333334,"original":"Rumanian","id":"ron","match":"maiani"}
+{"rank":0.631578947368421,"original":"All european languages","id":"","match":"nepalese sign language"}
+{"rank":0.6666666666666666,"original":"Mooré","id":"mos","match":"moo"}
 {"rank":1,"original":"Italian Sign Language","id":"ise","match":"italian sign language"}
-{"rank":0.6666666666666666,"original":"other","id":"her","match":"her"}
+{"rank":0.6666666666666666,"original":"other","id":"","match":"her"}
 {"rank":1,"original":"klr","id":"klr","match":"klr"}
 {"rank":1,"original":"Achumawi","id":"acv","match":"achumawi"}
 {"rank":1,"original":"tam","id":"tam","match":"tam"}
-{"rank":0.6470588235294118,"original":"Swiss-French","id":"ssr","match":"swiss-french sign language"}
+{"rank":0.6470588235294118,"original":"Swiss-French","id":"","match":"swiss-french sign language"}
 {"rank":1,"original":"SL","id":"slv","match":"sl"}
-{"rank":0.2857142857142857,"original":"SiGML/HamNoSys","id":"mkx","match":"kinamiging manobo"}
+{"rank":0.2857142857142857,"original":"SiGML/HamNoSys","id":"","match":"kinamiging manobo"}
 {"rank":0.7692307692307693,"original":"Englisch","id":"eng","match":"english"}
-{"rank":0.6666666666666666,"original":"Praat","id":"aat","match":"aat"}
+{"rank":0.6666666666666666,"original":"Praat","id":"","match":"aat"}
 {"rank":1,"original":"Pali","id":"pli","match":"pali"}
-{"rank":0.6666666666666666,"original":"Ngbugu","id":"bgg","match":"bugun"}
-{"rank":0.35294117647058826,"original":"Ñahñú (Otomí)","id":"ttf","match":"tuotomb"}
+{"rank":0.6666666666666666,"original":"Ngbugu","id":"","match":"bugun"}
+{"rank":0.35294117647058826,"original":"Ñahñú (Otomí)","id":"oto","match":"tuotomb"}
 {"rank":0.7692307692307693,"original":"Abkhaz","id":"abk","match":"abkhazian"}
-{"rank":0.8,"original":"Adja","id":"adj","match":"adj"}
+{"rank":0.8,"original":"Adja","id":"ajg","match":"adj"}
 {"rank":1,"original":"Amahuaca","id":"amc","match":"amahuaca"}
 {"rank":0.8571428571428571,"original":"Amuesha-Yanesha","id":"ame","match":"yanesha'"}
 {"rank":1,"original":"Aymara","id":"aym","match":"aymara"}
-{"rank":0.75,"original":"Bemba","id":"agl","match":"fembe"}
-{"rank":0.47368421052631576,"original":"Cakchiquel","id":"ckz","match":"cakchiquel-quiché mixed language"}
+{"rank":0.75,"original":"Bemba","id":"bem","match":"fembe"}
+{"rank":0.47368421052631576,"original":"Cakchiquel","id":"cak","match":"cakchiquel-quiché mixed language"}
 {"rank":0.6086956521739131,"original":"Dhivehi (Maldivian)","id":"div","match":"dhivehi"}
 {"rank":0.875,"original":"Hausa/Haoussa","id":"hau","match":"hausa"}
-{"rank":0.4166666666666667,"original":"Ellinika' (Greek)","id":"xmf","match":"mingrelian"}
+{"rank":0.4166666666666667,"original":"Ellinika' (Greek)","id":"","match":"mingrelian"}
 {"rank":0.8,"original":"Chin Hakha","id":"cnh","match":"haka chin"}
-{"rank":0.5238095238095238,"original":"Haitian Creole (Kreyol)","id":"acf","match":"saint lucian creole french"}
+{"rank":0.5238095238095238,"original":"Haitian Creole (Kreyol)","id":"hat","match":"saint lucian creole french"}
 {"rank":1,"original":"Makonde","id":"kde","match":"makonde"}
-{"rank":0.5555555555555556,"original":"Fiote (Angola)","id":"aoa","match":"angolar"}
+{"rank":0.5555555555555556,"original":"Fiote (Angola)","id":"","match":"angolar"}
 {"rank":1,"original":"Luganda/Ganda","id":"lug","match":"ganda"}
 {"rank":1,"original":"Lingala","id":"lin","match":"lingala"}
 {"rank":1,"original":"Sharanahua","id":"mcd","match":"sharanahua"}
 {"rank":1,"original":"Malagasy","id":"mlg","match":"malagasy"}
 {"rank":0.9523809523809523,"original":"Lamnso' (Lám nso')","id":"lns","match":"lamnso'"}
-{"rank":0.6923076923076923,"original":"Quechua de Cotahuasi (Arequipa)","id":"qxt","match":"santa ana de tusi pasco quechua"}
-{"rank":0.6511627906976745,"original":"Sussu/Soussou/Sosso/Soso/Susu","id":"wib","match":"southern toussian"}
+{"rank":0.6923076923076923,"original":"Quechua de Cotahuasi (Arequipa)","id":"qxu","match":"santa ana de tusi pasco quechua"}
+{"rank":0.6511627906976745,"original":"Sussu/Soussou/Sosso/Soso/Susu","id":"","match":"southern toussian"}
 {"rank":1,"original":"Sundanese","id":"sun","match":"sundanese"}
-{"rank":0.5714285714285714,"original":"Themne (Temne)","id":"emn","match":"emn"}
+{"rank":0.5714285714285714,"original":"Themne (Temne)","id":"tem","match":"emn"}
 {"rank":1,"original":"Toba","id":"tob","match":"toba"}
 {"rank":0.7,"original":"Turkish (Türkçe)","id":"tur","match":"turkish"}
 {"rank":1,"original":"Tzeltal","id":"tzh","match":"tzeltal"}
 {"rank":0.8275862068965517,"original":"Ukrainian (Ukrayins'ka)","id":"ukr","match":"ukrainian"}
 {"rank":0.9230769230769231,"original":"Zapoteco","id":"zap","match":"zapotec"}
-{"rank":0.5306122448979592,"original":"mainly lesser-documented languages","id":"mdl","match":"maltese sign language"}
+{"rank":0.5306122448979592,"original":"mainly lesser-documented languages","id":"","match":"maltese sign language"}
 {"rank":1,"original":"mrj","id":"mrj","match":"mrj"}
 {"rank":0.6666666666666666,"original":"mainly English","id":"eng","match":"english"}
 {"rank":1,"original":"Luxembourgish","id":"ltz","match":"luxembourgish"}
-{"rank":0.4,"original":"Perl Script","id":"tpe","match":"tippera"}
-{"rank":1.1428571428571428,"original":"Ibibio","id":"bib","match":"bib"}
+{"rank":0.4,"original":"Perl Script","id":"","match":"tippera"}
+{"rank":1.1428571428571428,"original":"Ibibio","id":"ibb","match":"bib"}
 {"rank":0.8461538461538461,"original":"Middle High (ca. 1050-1500)","id":"gmh","match":"middle high german (ca. 1050-1500)"}
-{"rank":0.6206896551724138,"original":"German (Austria)","id":"zma","match":"manda (australia)"}
+{"rank":0.6206896551724138,"original":"German (Austria)","id":"","match":"manda (australia)"}
 {"rank":0.7692307692307693,"original":"Romansch","id":"roh","match":"romansh"}
 {"rank":0.5333333333333333,"original":"Flemish Dutch","id":"nld","match":"dutch"}
 {"rank":1,"original":"pl","id":"pol","match":"pl"}
@@ -82,19 +82,19 @@
 {"rank":1,"original":"mus","id":"mus","match":"mus"}
 {"rank":0.8235294117647058,"original":"Portguese","id":"por","match":"portuguese"}
 {"rank":0.9333333333333333,"original":"Japanese…","id":"jpn","match":"japanese"}
-{"rank":0.6666666666666666,"original":"Romance Languages","id":"mis","match":"uncoded languages"}
-{"rank":0.5,"original":"?others","id":"ers","match":"ers"}
+{"rank":0.6666666666666666,"original":"Romance Languages","id":"roa","match":"uncoded languages"}
+{"rank":0.5,"original":"?others","id":"","match":"ers"}
 {"rank":0.5,"original":"English (non-native)","id":"eng","match":"english"}
 {"rank":1,"original":"japanese","id":"jpn","match":"japanese"}
 {"rank":0,"original":"...."}
-{"rank":0.5714285714285714,"original":"others","id":"ers","match":"ers"}
-{"rank":0.5,"original":"Contemporary American English","id":"lir","match":"liberian english"}
+{"rank":0.5714285714285714,"original":"others","id":"","match":"ers"}
+{"rank":0.5,"original":"Contemporary American English","id":"eng-US","match":"liberian english"}
 {"rank":0.6363636363636364,"original":"Castillian Spanish","id":"spa","match":"spanish"}
-{"rank":0.6666666666666666,"original":"Maltan","id":"mfh","match":"matal"}
+{"rank":0.6666666666666666,"original":"Maltan","id":"mlt","match":"matal"}
 {"rank":1,"original":"bul","id":"bul","match":"bul"}
-{"rank":0.5714285714285714,"original":"and many more","id":"mzj","match":"manya"}
+{"rank":0.5714285714285714,"original":"and many more","id":"","match":"manya"}
 {"rank":0.8148148148148148,"original":"Arabic (Algeria)","id":"arq","match":"algerian arabic"}
-{"rank":0.46153846153846156,"original":"Medefaidrin","id":"efa","match":"efai"}
+{"rank":0.46153846153846156,"original":"Medefaidrin","id":"","match":"efai"}
 {"rank":1,"original":"Portuguese(Portugal)","id":"por","match":"portuguese"}
 {"rank":0.5,"original":"Chinese(Simplified)","id":"zho","match":"chinese"}
-{"rank":0.6666666666666666,"original":"Bihari","id":"bxz","match":"binahari"}
+{"rank":0.6666666666666666,"original":"Bihari","id":"bih","match":"binahari"}

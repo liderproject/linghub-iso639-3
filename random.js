@@ -14,8 +14,9 @@ var langs = {}
 rl.on('line', function(line) {
     var obj = JSON.parse(line)
     var original = obj.original || ''
-    if(original)
-        langs[original] = true;
+    if(original) {
+        langs[original] = obj
+    }
 });
 
 rl.on('close', function() {
@@ -38,9 +39,8 @@ rl.on('close', function() {
     fs.writeFile('random.json', '')
     for(var i=0; i<arr.length; i++) {
         var obj = {}
-        obj.lang = arr[i]
-        obj.iso = ''
-        fs.appendFileSync('random.json', JSON.stringify(obj) + '\n')
+        var l = langs[arr[i]]
+        fs.appendFileSync('random.json', JSON.stringify(l) + '\n')
     }
 
 })
