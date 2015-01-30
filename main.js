@@ -49,41 +49,38 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
 // therefore langs has ['Italian', 'English']
 function language(langs, done) {
     var strToWrite = ''
-    console.log(langs)
     for(var y=0; y<langs.length; y++) {
         // run string similarity algorithm
         // against the SIL_INDEX
         // and see which ranks the highest
-        var str = langs[y]
+        var str = langs[y].trim()
         var original = str
-        str = str.toLowerCase().trim();
+        str = str.toLowerCase()
 
         // iterate SIL_INDEX - should perhaps be just search (build better index)
         var obj = {
             rank: 0,
             original: original
         };
-        obj.input = str
         if(original === "LI") {
-            obj.rank = 2
+            obj.rank = 1
             obj.id = "und"
             obj.match = "LI"
         } else if(original === "greek") {
-            obj.rank = 2
+            obj.rank = 1
             obj.id = "ell"
             obj.match = "greek"
-        } else if(original == " Castilian") {
-            obj.rank = 2
+        } else if(original == "Castilian") {
+            obj.rank = 1
             obj.id = "spa"
             obj.match = "spanish"
         } else if(original == "flemish") {
-            obj.rank = 2
+            obj.rank = 1
             obj.id = "nld-BE"
             obj.match = "flemish"
         }
         // for each word look at the SIL index
         for(var i in SIL_INDEX) {
-            // get distance
             var rank = similarity.similarity(str, i);
 
             if(rank > obj.rank) {
@@ -118,7 +115,7 @@ function handleRowAt(rows, idx) {
     if(!row) { // finished recursion
         // start handling the content by splitting it 
         // (could be the ones with commas and ;)
-        handleSplitContent(rows, 0)
+        //handleSplitContent(rows, 0)
         return;
     }
     // second column is the string
