@@ -52,15 +52,16 @@ for(var i=0; i<correct.length; i++) {
         && predictions[obj.original].rank > 0
         && predictions[obj.original].id == obj.id
         ) { // match
-        matches.push(predictions[obj.original])
+        console.log(obj.original, predictions[obj.original])
+        matches.push(predictions[obj.original].rank)
     }
 }
 console.log('Correct set length: ' + correct.length)
 console.log('Matches: ' +matches.length);
 console.log('Accuracy: %' + (matches.length/correct.length) * 100)
-
 var sum = 0;
 for( var i = 0; i < matches.length; i++ ){
-    sum += parseFloat( matches[i].rank, 10 ); //don't forget to add the base
+    sum += parseFloat( matches[i], 10 ); //don't forget to add the base
 }
 console.log('Average correct rank: ' + (sum/matches.length))
+console.log('Smallest correct rank: ' + Math.min.apply(null, matches));
