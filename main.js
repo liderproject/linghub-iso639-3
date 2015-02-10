@@ -11,7 +11,7 @@ var LOW_RANKED = [];
 // let's read the official SIL data
 // and build an index of it in memory
 // so we can search against it
-fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', function(err, data) {
+fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 'utf-8', function(err, data) {
     if(err) return console.log(err)
     parse(data, {delimiter: '\t'}, function(err, output) {
         if(err) return console.log(err)
@@ -22,7 +22,7 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', fu
         for(var i in output) {
             var el = output[i]
             var id = el[0]
-            var lang = el[6]
+            var lang = el[1]
             // here we should build an index
             lang = lang.toLowerCase()
 
