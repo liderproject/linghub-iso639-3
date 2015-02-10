@@ -31,27 +31,36 @@ for(var i=0; i<data.length; i++) {
     }
     if(!obj.id)
         obj.id = ''
-    if(predictions[obj.id]) { // check rank
-        if(obj.rank > predictions[obj.id].rank) {
-            // replace it
-            obj.rank = predictions[obj.id].rank
+    // group by original
+    if(predictions[obj.original]) { // check rank
+        if(obj.rank < predictions[obj.original].rank) {
+            // if current rank smaller than the one saved, continue
+            continue;
         }
     }
-    predictions[obj.id] = {
-        rank: obj.rank,
-        original: obj.original
+    predictions[obj.original] = {
+        id: obj.id,
+        rank: obj.rank
     }
 }
 
 // find how many matches we have
-var matches = 0
+var matches = []
 for(var i=0; i<correct.length; i++) {
     var obj = correct[i]
-    if(predictions[obj.id] && predictions[obj.id].rank > 0) { // match
-        matches++;
-        console.log(predictions[obj.id])
+    if(predictions[obj.original] 
+        && predictions[obj.original].rank > 0
+        && predictions[obj.original].id == obj.id
+        ) { // match
+        matches.push(predictions[obj.original])
     }
 }
 console.log('Correct set length: ' + correct.length)
-console.log('Matches: ' +matches);
-console.log('Accuracy: %' + (matches/correct.length) * 100)
+console.log('Matches: ' +matches.length);
+console.log('Accuracy: %' + (matches.length/correct.length) * 100)
+
+var sum = 0;
+for( var i = 0; i < matches.length; i++ ){
+    sum += parseFloat( matches[i].rank, 10 ); //don't forget to add the base
+}
+console.log('Average correct rank: ' + (sum/matches.length))
