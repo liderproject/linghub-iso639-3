@@ -1,17 +1,17 @@
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
 {"rank":1,"original":"lat","id":"lat","match":"lat"}
-{"rank":0.8,"original":"ger","id":"gew","match":"gera"}
+{"rank":1,"original":"ger","id":"deu","match":"ger"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Arabic","id":"ara","match":"arabic"}
 {"rank":1,"original":"Persian","id":"fas","match":"persian"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
 {"rank":1,"original":"LI","id":"und","match":"LI"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":1,"original":"Italian","id":"ita","match":"italian"}
-{"rank":0.5714285714285714,"original":"fre","id":"fra","match":"french"}
+{"rank":1,"original":"fre","id":"fra","match":"fre"}
 {"rank":1,"original":"ita","id":"ita","match":"ita"}
 {"rank":1,"original":"Finnish","id":"fin","match":"finnish"}
 {"rank":1,"original":"eng","id":"eng","match":"eng"}
@@ -28,7 +28,7 @@
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Not Applicable","id":"zxx","match":"not applicable"}
 {"rank":1,"original":"Icelandic","id":"isl","match":"icelandic"}
-{"rank":0.6666666666666666,"original":"fi","id":"afi","match":"afi"}
+{"rank":1,"original":"fi","id":"fin","match":"fi"}
 {"rank":1,"original":"Romanian","id":"ron","match":"romanian"}
 {"rank":1,"original":"grc","id":"grc","match":"grc"}
 {"rank":1,"original":"Turkish","id":"tur","match":"turkish"}
@@ -42,7 +42,7 @@
 {"rank":1,"original":"Estonian","id":"est","match":"estonian"}
 {"rank":1,"original":"Lithuanian","id":"lit","match":"lithuanian"}
 {"rank":0.5,"original":"unknown","id":"knk","match":"knk"}
-{"rank":0.8,"original":"dut","id":"ndv","match":"ndut"}
+{"rank":1,"original":"dut","id":"nld","match":"dut"}
 {"rank":1,"original":"Catalan","id":"cat","match":"catalan"}
 {"rank":1,"original":"Multiple languages","id":"mul","match":"multiple languages"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
@@ -68,7 +68,7 @@
 {"rank":1,"original":"Norwegian","id":"nor","match":"norwegian"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
 {"rank":1,"original":"Castilian","id":"spa","match":"spanish"}
-{"rank":0.4,"original":"en-us","id":"enc","match":"en"}
+{"rank":0.4,"original":"en-us","id":"eng","match":"en"}
 {"rank":1,"original":"Slovenian","id":"slv","match":"slovenian"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":1,"original":"Serbian","id":"srp","match":"serbian"}
@@ -93,8 +93,8 @@
 {"rank":1,"original":"Norwegian Nynorsk","id":"nno","match":"norwegian nynorsk"}
 {"rank":0.5714285714285714,"original":"Nynorsk","id":"nno","match":"norwegian nynorsk"}
 {"rank":1,"original":"Norwegian","id":"nor","match":"norwegian"}
-{"rank":0.5,"original":"baq","id":"aaq","match":"aaq"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
+{"rank":1,"original":"baq","id":"eus","match":"baq"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
 {"rank":1,"original":"Italian","id":"ita","match":"italian"}
 {"rank":1,"original":"Catalan","id":"cat","match":"catalan"}
 {"rank":1,"original":"Valencian","id":"cat","match":"valencian"}
@@ -134,8 +134,8 @@
 {"rank":1,"original":"Japanese","id":"jpn","match":"japanese"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Hindi","id":"hin","match":"hindi"}
-{"rank":1,"original":"EN","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
+{"rank":1,"original":"EN","id":"eng","match":"en"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
 {"rank":1,"original":"Chagatai","id":"chg","match":"chagatai"}
 {"rank":1,"original":"Standard Arabic","id":"arb","match":"standard arabic"}
 {"rank":1,"original":"Polish","id":"pol","match":"polish"}
@@ -178,7 +178,7 @@
 {"rank":1,"original":"italian","id":"ita","match":"italian"}
 {"rank":1,"original":"english","id":"eng","match":"english"}
 {"rank":1,"original":"Hausa","id":"hau","match":"hausa"}
-{"rank":0.4,"original":"en-US","id":"enc","match":"en"}
+{"rank":0.4,"original":"en-US","id":"eng","match":"en"}
 {"rank":1,"original":"Danish","id":"dan","match":"danish"}
 {"rank":1,"original":"Czech","id":"ces","match":"czech"}
 {"rank":1,"original":"American Sign Language","id":"ase","match":"american sign language"}
@@ -186,14 +186,14 @@
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":0.7142857142857143,"original":"Slovene","id":"slv","match":"slovenian"}
-{"rank":0.3333333333333333,"original":"pt-BR","id":"abr","match":"abr"}
+{"rank":0.4,"original":"pt-BR","id":"bre","match":"br"}
 {"rank":1,"original":"portuguese","id":"por","match":"portuguese"}
 {"rank":0.8125,"original":"Modern Standard Arabic","id":"arb","match":"standard arabic"}
 {"rank":1,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
 {"rank":1,"original":"Malayalam","id":"lkm","match":"kalaamaya"}
 {"rank":1,"original":"Irish","id":"gle","match":"irish"}
 {"rank":1,"original":"heb","id":"heb","match":"heb"}
-{"rank":0.6666666666666666,"original":"gre","id":"grb","match":"grebo"}
+{"rank":1,"original":"gre","id":"ell","match":"gre"}
 {"rank":1,"original":"German Sign Language","id":"gsg","match":"german sign language"}
 {"rank":1,"original":"Georgian","id":"kat","match":"georgian"}
 {"rank":1,"original":"french","id":"fra","match":"french"}
@@ -225,7 +225,7 @@
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
 {"rank":0.6486486486486487,"original":"Old (ca. 842-1400)","id":"fro","match":"French, Old (842-ca. 1400)"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
 {"rank":1,"original":"Estonian","id":"est","match":"estonian"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
@@ -303,7 +303,7 @@
 {"rank":0.42105263157894735,"original":"Valbonnais dialect","id":"vae","match":"vale"}
 {"rank":1,"original":"Uighur","id":"uig","match":"uighur"}
 {"rank":1,"original":"Syriac","id":"syr","match":"syriac"}
-{"rank":0.6666666666666666,"original":"sr","id":"asr","match":"asr"}
+{"rank":1,"original":"sr","id":"srp","match":"sr"}
 {"rank":0,"original":""}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
 {"rank":0,"original":""}
@@ -329,11 +329,11 @@
 {"rank":1,"original":"Russian","id":"rus","match":"russian"}
 {"rank":1,"original":"Romanian","id":"ron","match":"romanian"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
-{"rank":0.6666666666666666,"original":"ro","id":"aro","match":"aro"}
+{"rank":1,"original":"ro","id":"ron","match":"ro"}
 {"rank":0.8235294117647058,"original":"Quranic Arabic","id":"ara","match":"arabic"}
-{"rank":0.5,"original":"qhe","id":"bhe","match":"bhe"}
+{"rank":0.6666666666666666,"original":"qhe","id":"heb","match":"he"}
 {"rank":1,"original":"Pushto","id":"pus","match":"pushto"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
 {"rank":1,"original":"Portuguese","id":"por","match":"portuguese"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
@@ -400,7 +400,7 @@
 {"rank":1,"original":"english","id":"eng","match":"english"}
 {"rank":1,"original":"Finnish Sign Language","id":"fse","match":"finnish sign language"}
 {"rank":1,"original":"Erzya","id":"myv","match":"erzya"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
 {"rank":0.9230769230769231,"original":"Englishu","id":"eng","match":"english"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
@@ -459,12 +459,12 @@
 {"rank":1,"original":"nep","id":"nep","match":"nep"}
 {"rank":1,"original":"eng","id":"eng","match":"eng"}
 {"rank":1,"original":"deu","id":"deu","match":"deu"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"sv","id":"asv","match":"asv"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"sv","id":"swe","match":"sv"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
 {"rank":0.4444444444444444,"original":"and others in progress","id":"ind","match":"indonesian"}
-{"rank":1,"original":"En","id":"enc","match":"en"}
+{"rank":1,"original":"En","id":"eng","match":"en"}
 {"rank":0.45454545454545453,"original":"Early New High German","id":"deu","match":"german"}
 {"rank":1,"original":"Dutch","id":"nld","match":"dutch"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
@@ -586,7 +586,7 @@
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":0.8571428571428571,"original":"Swahili","id":"swh","match":"kiswahili"}
 {"rank":1,"original":"Arabic","id":"ara","match":"arabic"}
-{"rank":0.6666666666666666,"original":"sv","id":"asv","match":"asv"}
+{"rank":1,"original":"sv","id":"swe","match":"sv"}
 {"rank":0.43478260869565216,"original":"Surrey (England)","id":"lre","match":"laurentian"}
 {"rank":0.7142857142857143,"original":"Standard Chinese","id":"cmn","match":"mandarin chinese"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}
@@ -633,8 +633,8 @@
 {"rank":0.5853658536585366,"original":"South African English","id":"sfs","match":"south african sign language"}
 {"rank":0.7272727272727273,"original":"isiXhosa","id":"xho","match":"xhosa"}
 {"rank":0.6666666666666666,"original":"Sorani Kurdish","id":"kur","match":"kurdish"}
-{"rank":0.5,"original":"smi","id":"amy","match":"ami"}
-{"rank":0.6666666666666666,"original":"SL","id":"asl","match":"asl"}
+{"rank":0.6666666666666666,"original":"smi","id":"mri","match":"mi"}
+{"rank":1,"original":"SL","id":"slv","match":"sl"}
 {"rank":0.2857142857142857,"original":"SiGML/HamNoSys","id":"mkx","match":"kinamiging manobo"}
 {"rank":1,"original":"Slovenian","id":"slv","match":"slovenian"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
@@ -652,7 +652,7 @@
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
-{"rank":0.6666666666666666,"original":"ru","id":"aru","match":"aru"}
+{"rank":1,"original":"ru","id":"rus","match":"ru"}
 {"rank":1,"original":"Romansh","id":"roh","match":"romansh"}
 {"rank":1,"original":"Romanian","id":"ron","match":"romanian"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
@@ -677,7 +677,7 @@
 {"rank":1,"original":"persian","id":"fas","match":"persian"}
 {"rank":1,"original":"english","id":"eng","match":"english"}
 {"rank":1,"original":"persian","id":"fas","match":"persian"}
-{"rank":0.8,"original":"per","id":"pip","match":"pero"}
+{"rank":1,"original":"per","id":"fas","match":"per"}
 {"rank":0.5263157894736842,"original":"Papuan-Australian (Other)","id":"zma","match":"manda (australia)"}
 {"rank":1,"original":"Panjabi","id":"pan","match":"panjabi"}
 {"rank":1,"original":"Punjabi","id":"pan","match":"punjabi"}
@@ -739,7 +739,7 @@
 {"rank":1,"original":"Bambara","id":"bam","match":"bambara"}
 {"rank":1,"original":"Breton","id":"bre","match":"breton"}
 {"rank":0.5263157894736842,"original":"Basque (Euskara)","id":"eus","match":"basque"}
-{"rank":0.4,"original":"Béti","id":"aba","match":"abé"}
+{"rank":0.5,"original":"Béti","id":"tir","match":"ti"}
 {"rank":1,"original":"Balinese","id":"ban","match":"balinese"}
 {"rank":1,"original":"Garifuna","id":"cab","match":"garifuna"}
 {"rank":1,"original":"Cakchiquel","id":"cak","match":"cakchiquel"}
@@ -792,7 +792,7 @@
 {"rank":1,"original":"Pulaar","id":"fuc","match":"pulaar"}
 {"rank":0.4,"original":"Peuhl","id":"pai","match":"pe"}
 {"rank":0.9090909090909091,"original":"Dangme","id":"ada","match":"adangme"}
-{"rank":1,"original":"Ga","id":"gaa","match":"ga"}
+{"rank":1,"original":"Ga","id":"gle","match":"ga"}
 {"rank":1,"original":"Gagauz","id":"gag","match":"gagauz"}
 {"rank":0.6153846153846154,"original":"Afaan Oromo (Oromiffa)","id":"tno","match":"toromono"}
 {"rank":0.875,"original":"Hausa/Haoussa","id":"hau","match":"hausa"}
@@ -1062,8 +1062,8 @@
 {"rank":1,"original":"Japanese","id":"jpn","match":"japanese"}
 {"rank":1,"original":"Chinese","id":"zho","match":"chinese"}
 {"rank":0.8461538461538461,"original":"Japanese (and Chinese)","id":"jpn","match":"japanese"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
 {"rank":1,"original":"Italian","id":"ita","match":"italian"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
@@ -1074,7 +1074,7 @@
 {"rank":0.8,"original":"Italian Dialects","id":"ita","match":"italian"}
 {"rank":1,"original":"italian","id":"ita","match":"italian"}
 {"rank":1,"original":"arabic","id":"ara","match":"arabic"}
-{"rank":0.6666666666666666,"original":"is","id":"ais","match":"ais"}
+{"rank":1,"original":"is","id":"isl","match":"is"}
 {"rank":1,"original":"Irish Sign Language","id":"isg","match":"irish sign language"}
 {"rank":0.8,"original":"Iraqi Arabic","id":"ara","match":"arabic"}
 {"rank":0.8484848484848485,"original":"Levantine Arabic","id":"ajp","match":"south levantine arabic"}
@@ -1180,17 +1180,17 @@
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":0.7692307692307693,"original":"Gallegan","id":"tan","match":"tangale"}
 {"rank":0.64,"original":"Gaelic (Scots)","id":"gla","match":"scottish gaelic"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"fi","id":"afi","match":"afi"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"sv","id":"asv","match":"asv"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"da","id":"ada","match":"ada"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"fi","id":"fin","match":"fi"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"sv","id":"swe","match":"sv"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"da","id":"dan","match":"da"}
 {"rank":0.5,"original":"French (this work)","id":"fra","match":"french"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Chinese","id":"zho","match":"chinese"}
@@ -1287,27 +1287,27 @@
 {"rank":1,"original":"Finnish","id":"fin","match":"finnish"}
 {"rank":1,"original":"Finnish","id":"fin","match":"finnish"}
 {"rank":1,"original":"Filipino","id":"fil","match":"filipino"}
-{"rank":0.6666666666666666,"original":"Fi","id":"afi","match":"afi"}
+{"rank":1,"original":"Fi","id":"fin","match":"fi"}
 {"rank":0.5714285714285714,"original":"Faetar","id":"far","match":"far"}
 {"rank":0.6,"original":"European Portuguese (EP)","id":"por","match":"portuguese"}
 {"rank":0.5294117647058824,"original":"European Portuguese Dialects","id":"por","match":"portuguese"}
 {"rank":0.6923076923076923,"original":"European Portuguese","id":"por","match":"portuguese"}
 {"rank":0.625,"original":"European Language","id":"kvk","match":"korean sign language"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
 {"rank":0.4444444444444444,"original":"en.fr","id":"fra","match":"french"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
-{"rank":0.6666666666666666,"original":"pl","id":"apl","match":"apl"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
+{"rank":1,"original":"pl","id":"pol","match":"pl"}
 {"rank":1,"original":"cat","id":"cat","match":"cat"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"la","id":"ala","match":"ala"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"la","id":"lat","match":"la"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
 {"rank":1,"original":"eng","id":"eng","match":"eng"}
 {"rank":1,"original":"spa","id":"spa","match":"spa"}
 {"rank":1,"original":"eng","id":"eng","match":"eng"}
@@ -1760,49 +1760,49 @@
 {"rank":0,"original":"?"}
 {"rank":1,"original":"eng","id":"eng","match":"eng"}
 {"rank":1,"original":"fra","id":"fra","match":"fra"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"ru","id":"aru","match":"aru"}
-{"rank":0.6666666666666666,"original":"cs","id":"acs","match":"acs"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"sk","id":"ask","match":"ask"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
-{"rank":0.6666666666666666,"original":"gl","id":"agl","match":"agl"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"ca","id":"aca","match":"aca"}
-{"rank":0.6666666666666666,"original":"eu","id":"aeu","match":"aeu"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"ru","id":"rus","match":"ru"}
+{"rank":1,"original":"cs","id":"ces","match":"cs"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"sk","id":"slk","match":"sk"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
+{"rank":1,"original":"gl","id":"glg","match":"gl"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"ca","id":"cat","match":"ca"}
+{"rank":1,"original":"eu","id":"eus","match":"eu"}
 {"rank":0.6666666666666666,"original":"al","id":"aal","match":"aal"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"cs","id":"acs","match":"acs"}
-{"rank":0.6666666666666666,"original":"bg","id":"abg","match":"abg"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"ja","id":"aja","match":"aja"}
-{"rank":0.6666666666666666,"original":"zh","id":"bzh","match":"bzh"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"cs","id":"ces","match":"cs"}
+{"rank":1,"original":"bg","id":"bul","match":"bg"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"ja","id":"jpn","match":"ja"}
+{"rank":1,"original":"zh","id":"zho","match":"zh"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
 {"rank":1,"original":"id","id":"Id","match":"Id"}
-{"rank":1,"original":"ko","id":"fuj","match":"ko"}
-{"rank":0.6666666666666666,"original":"zh","id":"bzh","match":"bzh"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"ja","id":"aja","match":"aja"}
-{"rank":0.6666666666666666,"original":"no","id":"ano","match":"ano"}
+{"rank":1,"original":"ko","id":"kor","match":"ko"}
+{"rank":1,"original":"zh","id":"zho","match":"zh"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"ja","id":"jpn","match":"ja"}
+{"rank":1,"original":"no","id":"nor","match":"no"}
 {"rank":0.6666666666666666,"original":"Emglish","id":"eng","match":"english"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
 {"rank":0.7,"original":"Egyptian","id":"arz","match":"egyptian arabic"}
@@ -1889,28 +1889,28 @@
 {"rank":1,"original":"Arabic","id":"ara","match":"arabic"}
 {"rank":1,"original":"dan","id":"dnj","match":"dan"}
 {"rank":1,"original":"Dagbani","id":"dag","match":"dagbani"}
-{"rank":0.6666666666666666,"original":"da","id":"ada","match":"ada"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"fi","id":"afi","match":"afi"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
-{"rank":0.6666666666666666,"original":"sv","id":"asv","match":"asv"}
-{"rank":0.6666666666666666,"original":"da","id":"ada","match":"ada"}
-{"rank":0.6666666666666666,"original":"de","id":"ade","match":"ade"}
-{"rank":0.6666666666666666,"original":"el","id":"ael","match":"ael"}
-{"rank":1,"original":"en","id":"enc","match":"en"}
-{"rank":0.6666666666666666,"original":"es","id":"aes","match":"aes"}
-{"rank":0.6666666666666666,"original":"fi","id":"afi","match":"afi"}
-{"rank":0.6666666666666666,"original":"fr","id":"afr","match":"afr"}
-{"rank":0.6666666666666666,"original":"it","id":"ait","match":"ait"}
-{"rank":0.6666666666666666,"original":"nl","id":"anl","match":"anl"}
-{"rank":0.6666666666666666,"original":"pt","id":"apt","match":"apt"}
-{"rank":0.6666666666666666,"original":"sv","id":"asv","match":"asv"}
-{"rank":0.6666666666666666,"original":"da","id":"ada","match":"ada"}
+{"rank":1,"original":"da","id":"dan","match":"da"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"fi","id":"fin","match":"fi"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
+{"rank":1,"original":"sv","id":"swe","match":"sv"}
+{"rank":1,"original":"da","id":"dan","match":"da"}
+{"rank":1,"original":"de","id":"deu","match":"de"}
+{"rank":1,"original":"el","id":"ell","match":"el"}
+{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"es","id":"spa","match":"es"}
+{"rank":1,"original":"fi","id":"fin","match":"fi"}
+{"rank":1,"original":"fr","id":"fra","match":"fr"}
+{"rank":1,"original":"it","id":"ita","match":"it"}
+{"rank":1,"original":"nl","id":"nld","match":"nl"}
+{"rank":1,"original":"pt","id":"por","match":"pt"}
+{"rank":1,"original":"sv","id":"swe","match":"sv"}
+{"rank":1,"original":"da","id":"dan","match":"da"}
 {"rank":1,"original":"Czech","id":"ces","match":"czech"}
 {"rank":1,"original":"English","id":"eng","match":"english"}
 {"rank":1,"original":"Zulu","id":"zul","match":"zulu"}
@@ -2034,7 +2034,7 @@
 {"rank":0.6666666666666666,"original":"Cantonese","id":"mzs","match":"macanese"}
 {"rank":0.9230769230769231,"original":"Mandarin","id":"mqu","match":"mandari"}
 {"rank":1,"original":"Cahuilla","id":"chl","match":"cahuilla"}
-{"rank":0.6666666666666666,"original":"ca","id":"aca","match":"aca"}
+{"rank":1,"original":"ca","id":"cat","match":"ca"}
 {"rank":0,"original":"c++"}
 {"rank":1,"original":"Bulgarian","id":"bul","match":"bulgarian"}
 {"rank":1,"original":"Spanish","id":"spa","match":"spanish"}

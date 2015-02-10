@@ -39,10 +39,44 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 
             }
         }
         // only here SIL_INDEX is filled
-        //fs.writeFile('log.json', JSON.stringify(SIL_INDEX, null, 4))
-        parseLanguageFile()
+        // fill the index with the other SIL file
+        otherSILfile()
     })
 })
+function otherSILfile() {
+    fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', function(err, data) {
+        if(err) return console.log(err)
+        parse(data, {delimiter: '\t'}, function(err, output) {
+            if(err) return console.log(err)
+            // each output is of this form 
+            // [ 'zul', 'zul', 'zul', 'zu', 'I', 'L', 'Zulu', '' ],
+            // the iso code is at 0 idx
+            // the language string is at 6 idx
+            for(var i in output) {
+                var el = output[i]
+                var id = el[0]
+                var lang = el[6]
+                // here we should build an index
+                lang = lang.toLowerCase()
+
+                SIL_INDEX[lang] = id
+
+                // ids in the SIL data could spread 4 columns
+                var ids = []
+                for(var y=0; y<4; y++) {
+                    if(el[y]) ids.push(el[y])
+                }
+
+                for(var x in ids) {
+                    SIL_INDEX[ids[x]] = id
+                }
+            }
+            // only here SIL_INDEX is filled
+            parseLanguageFile()
+        })
+    })
+
+}
 
 // this is called for each row of languages.csv
 // langs is array because a cell in a row can contain
