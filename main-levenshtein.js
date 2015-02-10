@@ -60,32 +60,33 @@ function language(langs, done) {
 
         // iterate SIL_INDEX - should perhaps be just search (build better index)
         var obj = {
-            rank: 0,
+            rank: 10000,
             original: original
         };
         if(original === "LI") {
-            obj.rank = 1
+            obj.rank = 0
             obj.id = "und"
             obj.match = "LI"
         } else if(original === "greek") {
-            obj.rank = 1
+            obj.rank = 0
             obj.id = "ell"
             obj.match = "greek"
         } else if(original == "Castilian") {
-            obj.rank = 1
+            obj.rank = 0
             obj.id = "spa"
             obj.match = "spanish"
         } else if(original == "flemish") {
-            obj.rank = 1
+            obj.rank = 0
             obj.id = "nld-BE"
             obj.match = "flemish"
         }
         // for each word look at the SIL index
         for(var i in SIL_INDEX) {
-            var rank = similarity.similarity(str, i);
-            //var rank = levenshteinenator.levenshteinenator(str, i);
+            //var rank = similarity.similarity(str, i);
+            var distArray = levenshteinenator.levenshteinenator(str, i);
+            var rank = distArray[ distArray.length - 1 ][ distArray[ distArray.length - 1 ].length - 1 ];
 
-            if(rank > obj.rank) {
+            if(rank < obj.rank) {
                 obj.rank = rank
                 obj.id = SIL_INDEX[i]
                 obj.match = i

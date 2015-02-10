@@ -1,0 +1,2479 @@
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"lat","id":"lat","match":"lat"}
+{"rank":0,"original":"ger","id":"deu","match":"ger"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"LI","id":"und","match":"LI"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"fre","id":"fra","match":"fre"}
+{"rank":0,"original":"ita","id":"ita","match":"ita"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":1,"original":"","id":"eee","match":"e"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Not Applicable","id":"nap","match":"neapolitan"}
+{"rank":0,"original":"Icelandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"fi","id":"fin","match":"fi"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"grc","id":"grc","match":"grc"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":8,"original":"Ottoman (1500-1928)","id":"ota","match":"ottoman turkish (1500-1928)"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"pol","id":"pol","match":"pol"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":4,"original":"unknown","id":"abb","match":"bankon"}
+{"rank":0,"original":"dut","id":"nld","match":"dut"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Multiple languages","id":"mul","match":"multiple languages"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Castilian","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":6,"original":"Modern (1453-)","id":"ell","match":"modern greek (1453-)"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":3,"original":"Ancient","id":"any","match":"anyin"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":6,"original":"Ancient (to 1453)","id":"grc","match":"ancient greek (to 1453)"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Maltese","id":"mlt","match":"maltese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":4,"original":"American English","id":"lir","match":"liberian english"}
+{"rank":0,"original":"Judeo-Persian","id":"jpr","match":"judeo-persian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Middle (1100-1500)","id":"enm","match":"middle english (1100-1500)"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Castilian","id":"spa","match":"spanish"}
+{"rank":2,"original":"en-us","id":"and","match":"ansus"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":3,"original":"Flemish","id":"dei","match":"demisa"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":4,"original":"Middle High","id":"wlm","match":"middle welsh"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":3,"original":"Flemish","id":"dei","match":"demisa"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":3,"original":"Bokmål","id":"bdt","match":"bokoto"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Norwegian Bokmål","id":"nob","match":"norwegian bokmål"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Norwegian Nynorsk","id":"nno","match":"norwegian nynorsk"}
+{"rank":3,"original":"Nynorsk","id":"nyd","match":"nyore"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"baq","id":"eus","match":"baq"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":3,"original":"Valencian","id":"glg","match":"galician"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"spa","id":"spa","match":"spa"}
+{"rank":0,"original":"nds","id":"nds","match":"nds"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Old (ca. 450-1100)","id":"ang","match":"old english (ca. 450-1100)"}
+{"rank":0,"original":"Scots","id":"sco","match":"scots"}
+{"rank":0,"original":"Faroese","id":"fao","match":"faroese"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":3,"original":"Valencian","id":"glg","match":"galician"}
+{"rank":0,"original":"Pular","id":"fuf","match":"pular"}
+{"rank":0,"original":"Judeo-Arabic","id":"jrb","match":"judeo-arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Wolof","id":"wol","match":"wolof"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Irish","id":"gle","match":"irish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"Yue Chinese","id":"yue","match":"yue chinese"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"Tamil","id":"tam","match":"tamil"}
+{"rank":0,"original":"Sanskrit","id":"san","match":"sanskrit"}
+{"rank":0,"original":"North Levantine Arabic","id":"apc","match":"north levantine arabic"}
+{"rank":0,"original":"Mandinka","id":"mnk","match":"mandinka"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"EN","id":"eng","match":"en"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"Chagatai","id":"chg","match":"chagatai"}
+{"rank":0,"original":"Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Esperanto","id":"epo","match":"esperanto"}
+{"rank":0,"original":"Egyptian Arabic","id":"arz","match":"egyptian arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Ukrainian","id":"ukr","match":"ukrainian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Old","id":"old","match":"old"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"British","id":"bnw","match":"bisis"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Coptic","id":"cop","match":"coptic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Abkhazian","id":"abk","match":"abkhazian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":0,"original":"Kurdish","id":"kur","match":"kurdish"}
+{"rank":0,"original":"Iranian Persian","id":"pes","match":"iranian persian"}
+{"rank":0,"original":"Greek Sign Language","id":"gss","match":"greek sign language"}
+{"rank":0,"original":"glg","id":"glg","match":"glg"}
+{"rank":1,"original":"Fula","id":"fax","match":"fala"}
+{"rank":0,"original":"deu","id":"deu","match":"deu"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"Hausa","id":"hau","match":"hausa"}
+{"rank":2,"original":"en-US","id":"and","match":"ansus"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"American Sign Language","id":"ase","match":"american sign language"}
+{"rank":8,"original":"Traditional Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"Slovene","id":"lbo","match":"laven"}
+{"rank":2,"original":"pt-BR","id":"pbr","match":"pbr"}
+{"rank":0,"original":"portuguese","id":"por","match":"portuguese"}
+{"rank":7,"original":"Modern Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":0,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Malayalam","id":"mal","match":"malayalam"}
+{"rank":0,"original":"Irish","id":"gle","match":"irish"}
+{"rank":0,"original":"heb","id":"heb","match":"heb"}
+{"rank":0,"original":"gre","id":"ell","match":"gre"}
+{"rank":0,"original":"German Sign Language","id":"gsg","match":"german sign language"}
+{"rank":0,"original":"Georgian","id":"kat","match":"georgian"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":3,"original":"Espanol","id":"des","match":"desano"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"American Sign Language","id":"ase","match":"american sign language"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":19,"original":"Alpine Provençal or North-Occitan","id":"pro","match":"old provençal (to 1500)"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":8,"original":"Romance (Other)","id":"com","match":"comanche"}
+{"rank":0,"original":"Norwegian Nynorsk","id":"nno","match":"norwegian nynorsk"}
+{"rank":0,"original":"Northern Sami","id":"sme","match":"northern sami"}
+{"rank":6,"original":"multilingual","id":"tit","match":"tinigua"}
+{"rank":0,"original":"mul","id":"mul","match":"mul"}
+{"rank":0,"original":"Lojban","id":"jbo","match":"lojban"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Karelian","id":"krl","match":"karelian"}
+{"rank":0,"original":"Kannada","id":"kan","match":"kannada"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":4,"original":"Hill Mari","id":"brw","match":"bellari"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":11,"original":"Old (ca. 842-1400)","id":"fro","match":"old french (842-ca. 1400)"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":9,"original":"Brazilian Portuguese","id":"idb","match":"indo-portuguese"}
+{"rank":0,"original":"Armenian","id":"hye","match":"armenian"}
+{"rank":4,"original":"American English","id":"lir","match":"liberian english"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":1,"original":"Uyghur","id":"uig","match":"uighur"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"swe","id":"swe","match":"swe"}
+{"rank":0,"original":"Serbo-Croatian","id":"hbs","match":"serbo-croatian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"romanian","id":"ron","match":"romanian"}
+{"rank":4,"original":"Provençal (to 1500)","id":"pro","match":"old provençal (to 1500)"}
+{"rank":4,"original":"Provençal","id":"pdn","match":"podena"}
+{"rank":6,"original":"Modern Greek","id":"bxc","match":"molengue"}
+{"rank":0,"original":"Manipuri","id":"mni","match":"manipuri"}
+{"rank":1,"original":"Java","id":"ava","match":"ava"}
+{"rank":0,"original":"Iranian Persian","id":"pes","match":"iranian persian"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Fulah","id":"ful","match":"fulah"}
+{"rank":6,"original":"French Sign Language (LSF)","id":"fsl","match":"french sign language"}
+{"rank":0,"original":"French Sign Language","id":"fsl","match":"french sign language"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":2,"original":"Middle","id":"mqo","match":"modole"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"American","id":"hye","match":"armenian"}
+{"rank":0,"original":"ENGLISH","id":"eng","match":"english"}
+{"rank":2,"original":"England","id":"eno","match":"enggano"}
+{"rank":16,"original":"Early Modern German (1650-1800)","id":"ell","match":"modern greek (1453-)"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Burmese","id":"mya","match":"burmese"}
+{"rank":10,"original":"Brazillian Portuguese","id":"idb","match":"indo-portuguese"}
+{"rank":0,"original":"Bambara","id":"bam","match":"bambara"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Yemba","id":"ybb","match":"yemba"}
+{"rank":7,"original":"Veps language","id":"mue","match":"media lengua"}
+{"rank":11,"original":"Valbonnais dialect","id":"abs","match":"ambonese malay"}
+{"rank":0,"original":"Uighur","id":"uig","match":"uighur"}
+{"rank":0,"original":"Syriac","id":"syr","match":"syriac"}
+{"rank":0,"original":"sr","id":"srp","match":"sr"}
+{"rank":1,"original":"","id":"eee","match":"e"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":1,"original":"","id":"eee","match":"e"}
+{"rank":0,"original":"spanish","id":"spa","match":"spanish"}
+{"rank":9,"original":"South African English","id":"lir","match":"liberian english"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":2,"original":"isiZulu","id":"asl","match":"asilulu"}
+{"rank":3,"original":"isiXhosa","id":"xho","match":"xhosa"}
+{"rank":5,"original":"isiNdebele","id":"beb","match":"bebele"}
+{"rank":2,"original":"SiSwati","id":"siw","match":"siwai"}
+{"rank":10,"original":"Southern Sotho (Sesotho)","id":"sot","match":"southern sotho"}
+{"rank":24,"original":"Northern Sotho (Sesotho sa Leboa/Sepedi)","id":"bmm","match":"northern betsimisaraka malagasy"}
+{"rank":2,"original":"Setswana","id":"tsn","match":"tswana"}
+{"rank":2,"original":"Xitsonga","id":"toh","match":"gitonga"}
+{"rank":4,"original":"Tshivenda","id":"scl","match":"shina"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":2,"original":"Slovakian","id":"slv","match":"slovenian"}
+{"rank":7,"original":"Sami languages","id":"mis","match":"uncoded languages"}
+{"rank":1,"original":"Rumanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"ro","id":"ron","match":"ro"}
+{"rank":4,"original":"Quranic Arabic","id":"acx","match":"omani arabic"}
+{"rank":1,"original":"qhe","id":"bhe","match":"bhe"}
+{"rank":0,"original":"Pushto","id":"pus","match":"pushto"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"por","id":"por","match":"por"}
+{"rank":6,"original":"perl script","id":"fas","match":"persian"}
+{"rank":3,"original":"Olonets","id":"wok","match":"longto"}
+{"rank":4,"original":"Old French","id":"fra","match":"french"}
+{"rank":3,"original":"Occitan","id":"bkn","match":"bukitan"}
+{"rank":1,"original":"Norvegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"North Mesopotamian Arabic","id":"ayp","match":"north mesopotamian arabic"}
+{"rank":11,"original":"Northern Sotho (Sepedi)","id":"bbo","match":"northern bobo madaré"}
+{"rank":7,"original":"Non-linguistic","id":"lnj","match":"leningitij"}
+{"rank":2,"original":"Nepali","id":"ena","match":"apali"}
+{"rank":0,"original":"Nenets","id":"yrk","match":"nenets"}
+{"rank":15,"original":"multiple languages (currently 55)","id":"mul","match":"multiple languages"}
+{"rank":0,"original":"multiple languages","id":"mul","match":"multiple languages"}
+{"rank":6,"original":"multilingual","id":"tit","match":"tinigua"}
+{"rank":10,"original":"All european languages","id":"mdl","match":"maltese sign language"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":2,"original":"Mooré","id":"bvf","match":"boor"}
+{"rank":0,"original":"Moksha","id":"mdf","match":"moksha"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":2,"original":"rural","id":"bhs","match":"buwal"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":0,"original":"Mapudungun","id":"arn","match":"mapudungun"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":1,"original":"Mandarin","id":"mqu","match":"mandari"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":1,"original":"LSF","id":"asf","match":"asf"}
+{"rank":3,"original":"Livonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Kashmiri","id":"kas","match":"kashmiri"}
+{"rank":0,"original":"Kalaallisut","id":"kal","match":"kalaallisut"}
+{"rank":4,"original":"Greenlandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Italian Sign Language","id":"ise","match":"italian sign language"}
+{"rank":3,"original":"Iraqi Arabic","id":"acw","match":"hijazi arabic"}
+{"rank":0,"original":"Iban","id":"iba","match":"iban"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Gulf Arabic","id":"afb","match":"gulf arabic"}
+{"rank":0,"original":"got","id":"got","match":"got"}
+{"rank":5,"original":"Germanic languages","id":"gsg","match":"german sign language"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":7,"original":"Middle (ca. 1400-1600)","id":"frm","match":"middle french (ca. 1400-1600)"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish Sign Language","id":"fse","match":"finnish sign language"}
+{"rank":0,"original":"Erzya","id":"myv","match":"erzya"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"Englishu","id":"eng","match":"english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":2,"original":"other","id":"her","match":"her"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"klr","id":"klr","match":"klr"}
+{"rank":0,"original":"nep","id":"nep","match":"nep"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"deu","id":"deu","match":"deu"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"sv","id":"swe","match":"sv"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":12,"original":"and others in progress","id":"gbo","match":"northern grebo"}
+{"rank":0,"original":"En","id":"eng","match":"en"}
+{"rank":12,"original":"Early New High German","id":"gct","match":"colonia tovar german"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Faroese","id":"fao","match":"faroese"}
+{"rank":0,"original":"Icelandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":4,"original":"Classical Arabic","id":"myz","match":"classical mandaic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":5,"original":"Chinese and English","id":"cpi","match":"chinese pidgin english"}
+{"rank":0,"original":"cat","id":"cat","match":"cat"}
+{"rank":2,"original":"C++","id":"caa","match":"caa"}
+{"rank":0,"original":"British Sign Language","id":"bfi","match":"british sign language"}
+{"rank":0,"original":"Breton","id":"bre","match":"breton"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Bosnian","id":"bos","match":"bosnian"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"Gujarati","id":"guj","match":"gujarati"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":1,"original":"Punjabi","id":"pan","match":"panjabi"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":4,"original":"Singhalese","id":"pif","match":"pingelapese"}
+{"rank":0,"original":"Tamil","id":"tam","match":"tamil"}
+{"rank":0,"original":"Belarusian","id":"bel","match":"belarusian"}
+{"rank":0,"original":"Asturian","id":"ast","match":"asturian"}
+{"rank":2,"original":"Aramaic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":3,"original":"Malaysian","id":"ims","match":"marsian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":5,"original":"Ancient Greek","id":"hbo","match":"ancient hebrew"}
+{"rank":0,"original":"Amharic","id":"amh","match":"amharic"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":5,"original":"isiNdebele","id":"beb","match":"bebele"}
+{"rank":3,"original":"isiXhosa","id":"xho","match":"xhosa"}
+{"rank":2,"original":"isiZulu","id":"asl","match":"asilulu"}
+{"rank":2,"original":"Sepedi","id":"nso","match":"pedi"}
+{"rank":3,"original":"Sesotho","id":"lto","match":"tsotso"}
+{"rank":2,"original":"Setswana","id":"tsn","match":"tswana"}
+{"rank":2,"original":"Siswati","id":"siw","match":"siwai"}
+{"rank":13,"original":"Tshivenda and Xitsonga.","id":"ekk","match":"standard estonian"}
+{"rank":0,"original":"Achumawi","id":"acv","match":"achumawi"}
+{"rank":8,"original":"about 200 languages","id":"mul","match":"multiple languages"}
+{"rank":0,"original":"Yoruba","id":"yor","match":"yoruba"}
+{"rank":0,"original":"Xhosa","id":"xho","match":"xhosa"}
+{"rank":0,"original":"Zulu","id":"zul","match":"zulu"}
+{"rank":4,"original":"S. Sotho","id":"lto","match":"tsotso"}
+{"rank":2,"original":"Ndebele","id":"beb","match":"bebele"}
+{"rank":3,"original":"Khwedam","id":"grw","match":"gweda"}
+{"rank":9,"original":"Wolof (Niger-Congo","id":"klk","match":"kono (nigeria)"}
+{"rank":3,"original":"Senegal)","id":"ben","match":"bengali"}
+{"rank":1,"original":"Wide","id":"ide","match":"ide"}
+{"rank":20,"original":"constantly expanding range of languages","id":"csr","match":"costa rican sign language"}
+{"rank":15,"original":"Wenzhou dialect in China","id":"czn","match":"zenzontepec chatino"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Walmajarri","id":"wmt","match":"walmajarri"}
+{"rank":10,"original":"Viennese varieties","id":"apd","match":"sudanese arabic"}
+{"rank":2,"original":"veneto","id":"bav","match":"vengo"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":1,"original":"Venetan","id":"vec","match":"venetian"}
+{"rank":1,"original":"Uyghur","id":"uig","match":"uighur"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":3,"original":"US English","id":"eng","match":"english"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Undetermined","id":"und","match":"undetermined"}
+{"rank":0,"original":"Ukrainian","id":"ukr","match":"ukrainian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Uighur","id":"uig","match":"uighur"}
+{"rank":1,"original":"Uyghur","id":"uig","match":"uighur"}
+{"rank":0,"original":"Tigrinya","id":"tir","match":"tigrinya"}
+{"rank":0,"original":"Amharic","id":"amh","match":"amharic"}
+{"rank":0,"original":"Quechua","id":"que","match":"quechua"}
+{"rank":0,"original":"K'iche'","id":"quc","match":"k'iche'"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":0,"original":"Lao","id":"lao","match":"lao"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"Burmese","id":"mya","match":"burmese"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Mongol","id":"mgt","match":"mongol"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"Sinhala","id":"sin","match":"sinhala"}
+{"rank":1,"original":"test","id":"est","match":"est"}
+{"rank":0,"original":"tam","id":"tam","match":"tam"}
+{"rank":0,"original":"Tagalog","id":"tgl","match":"tagalog"}
+{"rank":0,"original":"syr","id":"syr","match":"syr"}
+{"rank":1,"original":"Swiss-German","id":"gsw","match":"swiss german"}
+{"rank":6,"original":"Swiss-French","id":"fra","match":"french"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":3,"original":"Old Swedish","id":"osp","match":"old spanish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":8,"original":"Finnish & Estonian","id":"ekk","match":"standard estonian"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"sv","id":"swe","match":"sv"}
+{"rank":9,"original":"Surrey (England)","id":"bwu","match":"buli (ghana)"}
+{"rank":4,"original":"Standard Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Spanish Sign Language","id":"ssp","match":"spanish sign language"}
+{"rank":0,"original":"LSE","id":"lse","match":"lse"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"French.","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Asturian","id":"ast","match":"asturian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Asturian","id":"ast","match":"asturian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"spa","id":"spa","match":"spa"}
+{"rank":0,"original":"agr","id":"agr","match":"agr"}
+{"rank":8,"original":"South African Zulu","id":"nxl","match":"south nuaulu"}
+{"rank":0,"original":"South African Sign Language","id":"sfs","match":"south african sign language"}
+{"rank":9,"original":"South African English","id":"lir","match":"liberian english"}
+{"rank":3,"original":"isiXhosa","id":"xho","match":"xhosa"}
+{"rank":6,"original":"Sorani Kurdish","id":"ckb","match":"central kurdish"}
+{"rank":1,"original":"smi","id":"amy","match":"ami"}
+{"rank":0,"original":"SL","id":"slv","match":"sl"}
+{"rank":9,"original":"SiGML/HamNoSys","id":"hil","match":"hiligaynon"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Simplified Chinese","id":"cpx","match":"pu-xian chinese"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Russian Sign Language","id":"rsl","match":"russian sign language"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"ru","id":"rus","match":"ru"}
+{"rank":0,"original":"Romansh","id":"roh","match":"romansh"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Englisch","id":"eng","match":"english"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":8,"original":"Rhine Franconian","id":"ctg","match":"chittagonian"}
+{"rank":1,"original":"R","id":"ara","match":"ar"}
+{"rank":1,"original":"Punjabi","id":"pan","match":"panjabi"}
+{"rank":4,"original":"Provençal","id":"pdn","match":"podena"}
+{"rank":8,"original":"Old (to 1500)","id":"non","match":"old norse"}
+{"rank":2,"original":"Praat","id":"aat","match":"aat"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"persian","id":"fas","match":"persian"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"persian","id":"fas","match":"persian"}
+{"rank":0,"original":"per","id":"fas","match":"per"}
+{"rank":13,"original":"Papuan-Australian (Other)","id":"zma","match":"manda (australia)"}
+{"rank":0,"original":"Panjabi","id":"pan","match":"panjabi"}
+{"rank":1,"original":"Punjabi","id":"pan","match":"panjabi"}
+{"rank":2,"original":"Palula","id":"bco","match":"kaluli"}
+{"rank":0,"original":"Pali","id":"pli","match":"pali"}
+{"rank":16,"original":"Official Languages of India","id":"mul","match":"multiple languages"}
+{"rank":3,"original":"North Sámi","id":"fll","match":"north fali"}
+{"rank":1,"original":"Lule Sámi","id":"smj","match":"lule sami"}
+{"rank":3,"original":"South Sámi","id":"fal","match":"south fali"}
+{"rank":0,"original":"Faroese","id":"fao","match":"faroese"}
+{"rank":0,"original":"North Levantine Arabic","id":"apc","match":"north levantine arabic"}
+{"rank":2,"original":"Northern Sotho","id":"sot","match":"southern sotho"}
+{"rank":0,"original":"Zulu","id":"zul","match":"zulu"}
+{"rank":0,"original":"No linguistic content","id":"zxx","match":"no linguistic content"}
+{"rank":0,"original":"Ngomba","id":"jgo","match":"ngomba"}
+{"rank":2,"original":"Ngbugu","id":"mhd","match":"mbugu"}
+{"rank":0,"original":"Nganasan","id":"nio","match":"nganasan"}
+{"rank":7,"original":"Ñahñú (Otomí)","id":"las","match":"lama (togo)"}
+{"rank":2,"original":"Purhépecha","id":"tsz","match":"purepecha"}
+{"rank":10,"original":"Oshiwambo (Ndonga)","id":"kam","match":"kamba (kenya)"}
+{"rank":0,"original":"Esperanto","id":"epo","match":"esperanto"}
+{"rank":7,"original":"Q'echi/Kekchi","id":"xoc","match":"o'chi'chi'"}
+{"rank":9,"original":"K'iche' (Quiché)","id":"quc","match":"k'iche'"}
+{"rank":9,"original":"Tének (Huasteco)","id":"hus","match":"huastec"}
+{"rank":1,"original":"Interlingua","id":"ile","match":"interlingue"}
+{"rank":0,"original":"Ido","id":"ido","match":"ido"}
+{"rank":2,"original":"Forro","id":"bor","match":"borôro"}
+{"rank":2,"original":"Abkhaz","id":"ahk","match":"akha"}
+{"rank":0,"original":"Achuar-Shiwiar","id":"acu","match":"achuar-shiwiar"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"Aguaruna","id":"agr","match":"aguaruna"}
+{"rank":1,"original":"Adja","id":"ada","match":"ada"}
+{"rank":1,"original":"Wama","id":"ama","match":"ama"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Amahuaca","id":"amc","match":"amahuaca"}
+{"rank":8,"original":"Amuesha-Yanesha","id":"aah","match":"abu' arapesh"}
+{"rank":0,"original":"Amarakaeri","id":"amr","match":"amarakaeri"}
+{"rank":0,"original":"Arabela","id":"arl","match":"arabela"}
+{"rank":0,"original":"Armenian","id":"hye","match":"armenian"}
+{"rank":11,"original":"Mapudungun (Mapuzgun)","id":"arn","match":"mapudungun"}
+{"rank":8,"original":"Arabic (Alarabia)","id":"rbp","match":"barababaraba"}
+{"rank":2,"original":"Asante","id":"aha","match":"ahanta"}
+{"rank":2,"original":"Achehnese","id":"ace","match":"achinese"}
+{"rank":8,"original":"Asturian (Bable)","id":"arq","match":"algerian arabic"}
+{"rank":9,"original":"Occitan Auvergnat","id":"bxu","match":"china buriat"}
+{"rank":0,"original":"Aymara","id":"aym","match":"aymara"}
+{"rank":7,"original":"Batonu (Bariba)","id":"aib","match":"ainu (china)"}
+{"rank":6,"original":"Baoulé/Baule","id":"bci","match":"baoulé"}
+{"rank":4,"original":"Bichelamar","id":"bis","match":"bislama"}
+{"rank":1,"original":"Bemba","id":"bfp","match":"beba"}
+{"rank":0,"original":"Bhojpuri","id":"bho","match":"bhojpuri"}
+{"rank":7,"original":"Bikol/Bicolano","id":"klc","match":"kolbila"}
+{"rank":11,"original":"Bulgarian (Balgarski)","id":"arq","match":"algerian arabic"}
+{"rank":5,"original":"Hmong (Miao)","id":"hmf","match":"hmong don"}
+{"rank":14,"original":"Sichuan-Guizhou-Yunnan","id":"iii","match":"sichuan yi"}
+{"rank":8,"original":"Burmese/Myanmar","id":"mya","match":"burmese"}
+{"rank":0,"original":"Bora","id":"boa","match":"bora"}
+{"rank":1,"original":"Bugisnese","id":"bug","match":"buginese"}
+{"rank":0,"original":"Bambara","id":"bam","match":"bambara"}
+{"rank":0,"original":"Breton","id":"bre","match":"breton"}
+{"rank":9,"original":"Basque (Euskara)","id":"asa","match":"asu (tanzania)"}
+{"rank":1,"original":"Béti","id":"bti","match":"bti"}
+{"rank":0,"original":"Balinese","id":"ban","match":"balinese"}
+{"rank":0,"original":"Garifuna","id":"cab","match":"garifuna"}
+{"rank":4,"original":"Cakchiquel","id":"cak","match":"kaqchikel"}
+{"rank":0,"original":"Cashibo-Cacataibo","id":"cbr","match":"cashibo-cacataibo"}
+{"rank":0,"original":"Cashinahua","id":"cbs","match":"cashinahua"}
+{"rank":0,"original":"Chayahuita","id":"cbt","match":"chayahuita"}
+{"rank":0,"original":"Candoshi-Shapra","id":"cbu","match":"candoshi-shapra"}
+{"rank":0,"original":"Zhuang","id":"zha","match":"zhuang"}
+{"rank":0,"original":"Cebuano","id":"ceb","match":"cebuano"}
+{"rank":4,"original":"Chinanteco","id":"cip","match":"chiapanec"}
+{"rank":3,"original":"Ajitlán","id":"aio","match":"aiton"}
+{"rank":10,"original":"Chinese (Mandarin)","id":"ain","match":"ainu (japan)"}
+{"rank":0,"original":"Chickasaw","id":"cic","match":"chickasaw"}
+{"rank":0,"original":"Chamorro","id":"cha","match":"chamorro"}
+{"rank":1,"original":"Cokwe","id":"cjk","match":"chokwe"}
+{"rank":8,"original":"Catalan (Català)","id":"tma","match":"tama (chad)"}
+{"rank":2,"original":"Ashàninca","id":"cni","match":"asháninka"}
+{"rank":0,"original":"Corsican","id":"cos","match":"corsican"}
+{"rank":0,"original":"Caquinte","id":"cot","match":"caquinte"}
+{"rank":8,"original":"Campa pajonalino","id":"cml","match":"campalagian"}
+{"rank":2,"original":"Ashéninca","id":"cni","match":"asháninka"}
+{"rank":0,"original":"Seselwa Creole French","id":"crs","match":"seselwa creole french"}
+{"rank":4,"original":"Chinanteco","id":"cip","match":"chiapanec"}
+{"rank":8,"original":"Czech (Cesky)","id":"ces","match":"czech"}
+{"rank":0,"original":"Dagbani","id":"dag","match":"dagbani"}
+{"rank":1,"original":"Dendi","id":"bct","match":"bendi"}
+{"rank":2,"original":"Dagaare","id":"dbr","match":"dabarre"}
+{"rank":27,"original":"Dinka Padang ( Thu ɔ ŋjäŋ ) ( Jaang )","id":"bmn","match":"bina (papua new guinea)"}
+{"rank":10,"original":"Dhivehi (Maldivian)","id":"nyr","match":"nyiha (malawi)"}
+{"rank":8,"original":"Danish (Dansk)","id":"ain","match":"ainu (japan)"}
+{"rank":0,"original":"Gonja","id":"gjn","match":"gonja"}
+{"rank":10,"original":"Dutch (Nederlands)","id":"bqw","match":"buru (nigeria)"}
+{"rank":9,"original":"Diola (Jola-Fogny)","id":"dyo","match":"jola-fonyi"}
+{"rank":1,"original":"Edo","id":"ado","match":"ado"}
+{"rank":5,"original":"Sammarinese","id":"ace","match":"achinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":13,"original":"Greenlandic (Inuktikut)","id":"ike","match":"eastern canadian inuktitut"}
+{"rank":8,"original":"Estonian (Eesti)","id":"est","match":"estonian"}
+{"rank":4,"original":"Ewe/Eve","id":"beb","match":"bebele"}
+{"rank":0,"original":"Faroese","id":"fao","match":"faroese"}
+{"rank":4,"original":"Chin Falam","id":"cih","match":"chinali"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Fijian","id":"fij","match":"fijian"}
+{"rank":0,"original":"Fon","id":"fon","match":"fon"}
+{"rank":2,"original":"Frisian","id":"fij","match":"fijian"}
+{"rank":10,"original":"Friulian (Friulano)","id":"zlq","match":"liuqian zhuang"}
+{"rank":6,"original":"Walloon/Wallon","id":"waa","match":"walla walla"}
+{"rank":0,"original":"Picard","id":"pcd","match":"picard"}
+{"rank":9,"original":"French (Français)","id":"bez","match":"bena (tanzania)"}
+{"rank":0,"original":"Pulaar","id":"fuc","match":"pulaar"}
+{"rank":2,"original":"Peuhl","id":"pay","match":"pech"}
+{"rank":1,"original":"Dangme","id":"ada","match":"adangme"}
+{"rank":0,"original":"Ga","id":"gle","match":"ga"}
+{"rank":0,"original":"Gagauz","id":"gag","match":"gagauz"}
+{"rank":14,"original":"Afaan Oromo (Oromiffa)","id":"arr","match":"karo (brazil)"}
+{"rank":7,"original":"Hausa/Haoussa","id":"atc","match":"atsahuaca"}
+{"rank":0,"original":"Georgian","id":"kat","match":"georgian"}
+{"rank":8,"original":"Deutsch (German)","id":"gsw","match":"swiss german"}
+{"rank":2,"original":"Kpelewo","id":"cpo","match":"kpeego"}
+{"rank":12,"original":"Gaeilge (Irish Gaelic)","id":"gla","match":"scottish gaelic"}
+{"rank":9,"original":"Galician (Galego)","id":"glg","match":"galician"}
+{"rank":17,"original":"Gàidhlig Albanach (Scottish Gaelic)","id":"ghc","match":"hiberno-scottish gaelic"}
+{"rank":9,"original":"Ellinika' (Greek)","id":"gmy","match":"mycenaean greek"}
+{"rank":1,"original":"Guarayo","id":"gyr","match":"guarayu"}
+{"rank":0,"original":"Wayuu","id":"guc","match":"wayuu"}
+{"rank":0,"original":"Guarani","id":"grn","match":"guarani"}
+{"rank":4,"original":"Chin Hakha","id":"ctm","match":"chitimacha"}
+{"rank":12,"original":"Haitian Creole (popular)","id":"ccm","match":"malaccan creole malay"}
+{"rank":11,"original":"Haitian Creole (Kreyol)","id":"lou","match":"louisiana creole french"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":21,"original":"Hmong (Miao) Northern East-Guizhou","id":"crl","match":"northern east cree"}
+{"rank":0,"original":"Hiligaynon","id":"hil","match":"hiligaynon"}
+{"rank":21,"original":"Hmong (Miao) Southern East-Guizhou","id":"crj","match":"southern east cree"}
+{"rank":6,"original":"Guen (Mina)","id":"aib","match":"ainu (china)"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Hani","id":"hni","match":"hani"}
+{"rank":7,"original":"Huitoto Murui","id":"tih","match":"timugon murut"}
+{"rank":1,"original":"Huasteco","id":"hus","match":"huastec"}
+{"rank":0,"original":"Hawaiian","id":"haw","match":"hawaiian"}
+{"rank":7,"original":"Efik (Ibibio)","id":"ibb","match":"ibibio"}
+{"rank":10,"original":"Icelandic (Yslenska)","id":"icl","match":"icelandic sign language"}
+{"rank":0,"original":"Igbo","id":"ibo","match":"igbo"}
+{"rank":7,"original":"Iloko/Ilocano","id":"svm","match":"slavomolisano"}
+{"rank":5,"original":"Bahasa Indonesia","id":"bhz","match":"bada (indonesia)"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Javanese","id":"jav","match":"javanese"}
+{"rank":9,"original":"Japanese (Nihongo)","id":"iyx","match":"yaka (congo)"}
+{"rank":0,"original":"Kasem","id":"xsm","match":"kasem"}
+{"rank":1,"original":"Kabyè","id":"kbp","match":"kabiyè"}
+{"rank":0,"original":"Kurdish","id":"kur","match":"kurdish"}
+{"rank":0,"original":"Makonde","id":"kde","match":"makonde"}
+{"rank":3,"original":"Kyrgyz","id":"kgy","match":"kgy"}
+{"rank":12,"original":"Crioulo (Cabo Verde)","id":"biw","match":"kol (cameroon)"}
+{"rank":5,"original":"Khalkha (Mongolian)","id":"khk","match":"halh mongolian"}
+{"rank":7,"original":"Hankuko (Korean)","id":"zra","match":"kara (korea)"}
+{"rank":7,"original":"Fiote (Angola)","id":"kfe","match":"kota (india)"}
+{"rank":23,"original":"Kikongo ya L'Etat (Kikongo/Kituba)","id":"kfe","match":"kota (india)"}
+{"rank":8,"original":"Rukonzo (Konjo)","id":"iyx","match":"yaka (congo)"}
+{"rank":5,"original":"Kanuri Yerwa","id":"vka","match":"kariyarra"}
+{"rank":0,"original":"Kaonde","id":"kqn","match":"kaonde"}
+{"rank":0,"original":"Krio","id":"kri","match":"krio"}
+{"rank":6,"original":"Karen (S'gaw)","id":"eaa","match":"karenggapa"}
+{"rank":5,"original":"Luganda/Ganda","id":"bpd","match":"banda-banda"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lozi","id":"loz","match":"lozi"}
+{"rank":1,"original":"Limba","id":"lam","match":"lamba"}
+{"rank":0,"original":"Lingala","id":"lin","match":"lingala"}
+{"rank":12,"original":"Lithuanian (Lietuviskai)","id":"lls","match":"lithuanian sign language"}
+{"rank":6,"original":"Sami/Lappish","id":"slx","match":"salampasu"}
+{"rank":6,"original":"Latin (Latina)","id":"aib","match":"ainu (china)"}
+{"rank":6,"original":"Latin (Latina)","id":"aib","match":"ainu (china)"}
+{"rank":12,"original":"Luba-Kasai (Tshiluba)","id":"bdh","match":"baka (sudan)"}
+{"rank":0,"original":"Luvale","id":"lue","match":"luvale"}
+{"rank":18,"original":"Luxembourgish (Lëtzebuergeusch)","id":"ltz","match":"luxembourgish"}
+{"rank":0,"original":"Mam","id":"mam","match":"mam"}
+{"rank":3,"original":"Mazateco","id":"yua","match":"yucateco"}
+{"rank":7,"original":"Jñatrjo (Mazahua)","id":"maz","match":"central mazahua"}
+{"rank":0,"original":"Maori","id":"mri","match":"maori"}
+{"rank":0,"original":"Sharanahua","id":"mcd","match":"sharanahua"}
+{"rank":0,"original":"Matsés","id":"mcf","match":"matsés"}
+{"rank":0,"original":"Malagasy","id":"mlg","match":"malagasy"}
+{"rank":1,"original":"Mende","id":"bdp","match":"bende"}
+{"rank":0,"original":"Madurese","id":"mad","match":"madurese"}
+{"rank":5,"original":"Mooré/More","id":"mok","match":"morori"}
+{"rank":8,"original":"Mikmaq/Micmac","id":"dju","match":"kapriman"}
+{"rank":1,"original":"Miskito","id":"miq","match":"mískito"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":11,"original":"Bahasa Melayu (Malay)","id":"btj","match":"bacanese malay"}
+{"rank":10,"original":"Lunda/Chokwe-lunda","id":"vmg","match":"lungalunga"}
+{"rank":0,"original":"Kimbundu","id":"kmb","match":"kimbundu"}
+{"rank":0,"original":"Maltese","id":"mlt","match":"maltese"}
+{"rank":0,"original":"Umbundu","id":"umb","match":"umbundu"}
+{"rank":1,"original":"Maninka","id":"mnk","match":"mandinka"}
+{"rank":8,"original":"Mozarabic (Ajami)","id":"mxi","match":"mozarabic"}
+{"rank":0,"original":"Minangkabau","id":"min","match":"minangkabau"}
+{"rank":0,"original":"Magahi","id":"mag","match":"magahi"}
+{"rank":4,"original":"Mixteco","id":"biu","match":"biete"}
+{"rank":0,"original":"Marshallese","id":"mah","match":"marshallese"}
+{"rank":8,"original":"Ngangela (Nyemba)","id":"tog","match":"tonga (nyasa)"}
+{"rank":2,"original":"Ndebele","id":"beb","match":"bebele"}
+{"rank":3,"original":"Nahuatl","id":"agw","match":"kahua"}
+{"rank":0,"original":"Nomatsiguenga","id":"not","match":"nomatsiguenga"}
+{"rank":9,"original":"Norwegian (Nynorsk) (Norsk","id":"nno","match":"norwegian nynorsk"}
+{"rank":4,"original":"Nynorsk)","id":"nyd","match":"nyore"}
+{"rank":9,"original":"Norwegian (Bokmål) (Norsk","id":"nob","match":"norwegian bokmål"}
+{"rank":4,"original":"Bokmål)","id":"bbq","match":"bamali"}
+{"rank":10,"original":"Lamnso' (Lám nso')","id":"laj","match":"lango (uganda)"}
+{"rank":8,"original":"Chechewa (Nyanja)","id":"mjh","match":"mwera (nyasa)"}
+{"rank":9,"original":"Nyanja/Chinyanja","id":"ant","match":"antakarinya"}
+{"rank":18,"original":"Runyankore-rukiga/Nkore-kiga","id":"kfd","match":"korra koraga"}
+{"rank":12,"original":"Kinyamwezi (Nyamwezi)","id":"kmi","match":"kami (nigeria)"}
+{"rank":1,"original":"Nzema","id":"nzi","match":"nzima"}
+{"rank":9,"original":"Osetin (Ossetian)","id":"blm","match":"beli (sudan)"}
+{"rank":1,"original":"Paez","id":"aez","match":"aez"}
+{"rank":5,"original":"Nigerian Pidgin English","id":"gpe","match":"ghanaian pidgin english"}
+{"rank":0,"original":"Tok Pisin","id":"tpi","match":"tok pisin"}
+{"rank":0,"original":"Tajik","id":"tgk","match":"tajik"}
+{"rank":12,"original":"Pijin (Solomons Pidgin)","id":"mte","match":"mono (solomon islands)"}
+{"rank":0,"original":"Palauan","id":"pau","match":"palauan"}
+{"rank":3,"original":"Kapampangan","id":"pam","match":"pampanga"}
+{"rank":3,"original":"Ponapean","id":"inm","match":"minaean"}
+{"rank":8,"original":"Punjabi/Panjabi","id":"pan","match":"panjabi"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Pipil","id":"ppl","match":"pipil"}
+{"rank":9,"original":"Polish (Polski)","id":"bzn","match":"boano (maluku)"}
+{"rank":4,"original":"Provençal","id":"pdn","match":"podena"}
+{"rank":11,"original":"Occitan Languedocien","id":"xmk","match":"ancient macedonian"}
+{"rank":6,"original":"Karen (Pwo)","id":"eaa","match":"karenggapa"}
+{"rank":19,"original":"Quechua del Callejon de Huaylas","id":"nhq","match":"huaxcaleca nahuatl"}
+{"rank":20,"original":"Quechua de Cotahuasi (Arequipa)","id":"sim","match":"mende (papua new guinea)"}
+{"rank":0,"original":"Quechua","id":"que","match":"quechua"}
+{"rank":18,"original":"Quechua de Pomabamba (Ancash)","id":"zpg","match":"guevea de humboldt zapotec"}
+{"rank":13,"original":"Quechua de Ambo-Pasco","id":"mvg","match":"yucuañe mixtec"}
+{"rank":27,"original":"Quechua de Margos (Sur de Dios de Mayo","id":"cld","match":"chaldean neo-aramaic"}
+{"rank":3,"original":"Huanuco)","id":"hnn","match":"hanunoo"}
+{"rank":18,"original":"Quechua de Huamalies (Huanuco)","id":"zpg","match":"guevea de humboldt zapotec"}
+{"rank":17,"original":"Quechua del Norte de Junin","id":"dtu","match":"tebul ure dogon"}
+{"rank":12,"original":"Quechua de Cajamarca","id":"ayr","match":"central aymara"}
+{"rank":1,"original":"Quichua","id":"que","match":"quechua"}
+{"rank":11,"original":"Quechua de Ayacucho","id":"dun","match":"dusun deyah"}
+{"rank":10,"original":"Quechua del Cusco","id":"que","match":"quechua"}
+{"rank":16,"original":"Rhaeto-Romance (Rumantsch)","id":"rup","match":"macedo-romanian"}
+{"rank":1,"original":"Romani","id":"rom","match":"romany"}
+{"rank":2,"original":"Vlach","id":"ach","match":"ach"}
+{"rank":18,"original":"Maori (Cook Islands) (Rarotongan)","id":"mhz","match":"mor (mor islands)"}
+{"rank":0,"original":"Kinyarwanda","id":"kin","match":"kinyarwanda"}
+{"rank":7,"original":"Rundi/Kirundi","id":"gbf","match":"gaikundi"}
+{"rank":9,"original":"Romanian (Româna)","id":"chm","match":"mari (russia)"}
+{"rank":6,"original":"Russian (Russky)","id":"qwm","match":"kuman (russia)"}
+{"rank":10,"original":"Belorus (Belaruski)","id":"bzl","match":"boano (sulawesi)"}
+{"rank":6,"original":"Sango (Sangho)","id":"laj","match":"lango (uganda)"}
+{"rank":0,"original":"Scots","id":"sco","match":"scots"}
+{"rank":2,"original":"Seereer","id":"srr","match":"serer"}
+{"rank":0,"original":"Shona","id":"sna","match":"shona"}
+{"rank":0,"original":"Shipibo-Conibo","id":"shp","match":"shipibo-conibo"}
+{"rank":0,"original":"Shan","id":"shn","match":"shan"}
+{"rank":0,"original":"Sanskrit","id":"san","match":"sanskrit"}
+{"rank":9,"original":"Slovak (Slovencina)","id":"lom","match":"loma (liberia)"}
+{"rank":13,"original":"Slovenian (Slovenscina)","id":"den","match":"slave (athapascan)"}
+{"rank":0,"original":"Samoan","id":"smo","match":"samoan"}
+{"rank":14,"original":"Soninké (Soninkanxaane)","id":"kno","match":"kono (sierra leone)"}
+{"rank":0,"original":"Somali","id":"som","match":"somali"}
+{"rank":8,"original":"Español (Spanish)","id":"osp","match":"old spanish"}
+{"rank":13,"original":"Bosnian (Latin script)","id":"bez","match":"bena (tanzania)"}
+{"rank":15,"original":"Serbian (Latin) (Srpski)","id":"kbv","match":"dera (indonesia)"}
+{"rank":16,"original":"Bosnian (Cyrillic script)","id":"bnd","match":"banda (indonesia)"}
+{"rank":18,"original":"Serbian (Cyrillic) (Srpski)","id":"brc","match":"berbice creole dutch"}
+{"rank":0,"original":"Sardinian","id":"srd","match":"sardinian"}
+{"rank":14,"original":"Northern Sotho/Pedi/Sepedi","id":"bbo","match":"northern bobo madaré"}
+{"rank":25,"original":"Southern Sotho/Sotho/Sesotho/Sutu/Sesutu","id":"qxo","match":"southern conchucos ancash quechua"}
+{"rank":0,"original":"Sukuma","id":"suk","match":"sukuma"}
+{"rank":22,"original":"Sussu/Soussou/Sosso/Soso/Susu","id":"mte","match":"mono (solomon islands)"}
+{"rank":0,"original":"Sundanese","id":"sun","match":"sundanese"}
+{"rank":9,"original":"Swahili/Kiswahili","id":"ccl","match":"cutchi-swahili"}
+{"rank":10,"original":"Swedish (Svenska)","id":"ddn","match":"dendi (benin)"}
+{"rank":2,"original":"Siswati","id":"siw","match":"siwai"}
+{"rank":0,"original":"Ditammari","id":"tbz","match":"ditammari"}
+{"rank":0,"original":"Turkmen","id":"tuk","match":"turkmen"}
+{"rank":7,"original":"Themne (Temne)","id":"tbt","match":"tembo (kitembo)"}
+{"rank":10,"original":"Filipino (Tagalog)","id":"fil","match":"filipino"}
+{"rank":9,"original":"Tigrinya (Tigrigna)","id":"byj","match":"bina (nigeria)"}
+{"rank":0,"original":"Tahitian","id":"tah","match":"tahitian"}
+{"rank":0,"original":"Tibetan","id":"bod","match":"tibetan"}
+{"rank":6,"original":"Chin Tiddim","id":"cih","match":"chinali"}
+{"rank":0,"original":"Tiv","id":"tiv","match":"tiv"}
+{"rank":0,"original":"Toba","id":"tob","match":"toba"}
+{"rank":1,"original":"Tonga","id":"rng","match":"ronga"}
+{"rank":3,"original":"Tojol-a'b'al","id":"toj","match":"tojolabal"}
+{"rank":3,"original":"Totonaco","id":"tlm","match":"tolomako"}
+{"rank":9,"original":"Turkish (Türkçe)","id":"tur","match":"turkish"}
+{"rank":7,"original":"Chuuk (Trukese)","id":"chk","match":"chuukese"}
+{"rank":4,"original":"Tshivenda","id":"scl","match":"shina"}
+{"rank":10,"original":"Changane (Mozambique)","id":"toi","match":"tonga (zambia)"}
+{"rank":16,"original":"Western Sotho/Tswana/Setswana","id":"gnw","match":"western bolivian guaraní"}
+{"rank":0,"original":"Tetum","id":"tet","match":"tetum"}
+{"rank":6,"original":"Akuapem Twi","id":"kht","match":"khamti"}
+{"rank":1,"original":"Fante","id":"fat","match":"fanti"}
+{"rank":0,"original":"Tzeltal","id":"tzh","match":"tzeltal"}
+{"rank":0,"original":"Tzotzil","id":"tzo","match":"tzotzil"}
+{"rank":11,"original":"Tamazight (Beraber)","id":"nza","match":"tigon mbembe"}
+{"rank":12,"original":"Ukrainian (Ukrayins'ka)","id":"ukl","match":"ukrainian sign language"}
+{"rank":0,"original":"Urarina","id":"ura","match":"urarina"}
+{"rank":8,"original":"Uzbek (Cyrillic)","id":"auz","match":"uzbeki arabic"}
+{"rank":6,"original":"Uzbek (Latin)","id":"auz","match":"uzbeki arabic"}
+{"rank":8,"original":"Makua (Mozambique)","id":"mho","match":"mashi (zambia)"}
+{"rank":1,"original":"Sorbian","id":"srp","match":"serbian"}
+{"rank":8,"original":"Cymraeg (Welsh)","id":"wlm","match":"middle welsh"}
+{"rank":0,"original":"Wolof","id":"wol","match":"wolof"}
+{"rank":1,"original":"Waray","id":"wba","match":"warao"}
+{"rank":0,"original":"Xhosa","id":"xho","match":"xhosa"}
+{"rank":0,"original":"Yagua","id":"yad","match":"yagua"}
+{"rank":0,"original":"Yao","id":"yao","match":"yao"}
+{"rank":7,"original":"Yoruba (Yorùbá)","id":"xyy","match":"yorta yorta"}
+{"rank":0,"original":"Yapese","id":"yap","match":"yapese"}
+{"rank":8,"original":"Mayan (Yucateco)","id":"mxu","match":"mada (cameroon)"}
+{"rank":1,"original":"Zapoteco","id":"zap","match":"zapotec"}
+{"rank":1,"original":"Zapoteco","id":"zap","match":"zapotec"}
+{"rank":9,"original":"San Lucas Quiaviní","id":"cuk","match":"san blas kuna"}
+{"rank":0,"original":"Zulu","id":"zul","match":"zulu"}
+{"rank":2,"original":"Myanmar","id":"mdr","match":"mandar"}
+{"rank":9,"original":"Musical Notation","id":"hto","match":"minica huitoto"}
+{"rank":0,"original":"Murrinh-Patha","id":"mwf","match":"murrinh-patha"}
+{"rank":20,"original":"multiple language pairs (currently 72)","id":"mul","match":"multiple languages"}
+{"rank":15,"original":"multilingual (over 200)","id":"bbu","match":"kulung (nigeria)"}
+{"rank":7,"original":"multi-lingual","id":"ile","match":"interlingue"}
+{"rank":18,"original":"mainly lesser-documented languages","id":"mdl","match":"maltese sign language"}
+{"rank":6,"original":"Multilingual","id":"tit","match":"tinigua"}
+{"rank":0,"original":"MSA","id":"msa","match":"msa"}
+{"rank":0,"original":"mrj","id":"mrj","match":"mrj"}
+{"rank":16,"original":"More than one thousand languages","id":"jos","match":"jordanian sign language"}
+{"rank":3,"original":"Mơ Piu","id":"mpo","match":"miu"}
+{"rank":3,"original":"Mo Piu","id":"bri","match":"mokpwe"}
+{"rank":0,"original":"Mongolian","id":"mon","match":"mongolian"}
+{"rank":7,"original":"Modern Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":8,"original":"Egyptian Cariene Arabic","id":"arz","match":"egyptian arabic"}
+{"rank":6,"original":"Modern Greek","id":"bxc","match":"molengue"}
+{"rank":0,"original":"Mesopotamian Arabic","id":"acm","match":"mesopotamian arabic"}
+{"rank":10,"original":"Matheysin dialect","id":"bgd","match":"rathwi bareli"}
+{"rank":17,"original":"many (with varying coverage)","id":"hob","match":"mari (madang province)"}
+{"rank":0,"original":"Manipuri","id":"mni","match":"manipuri"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"Mandarin","id":"mqu","match":"mandari"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Mal Paharia","id":"mkb","match":"mal paharia"}
+{"rank":7,"original":"mainly English","id":"eng","match":"english"}
+{"rank":0,"original":"Mahou","id":"mxx","match":"mahou"}
+{"rank":0,"original":"Luxembourgish","id":"ltz","match":"luxembourgish"}
+{"rank":0,"original":"Luo","id":"luo","match":"luo"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Luo","id":"luo","match":"luo"}
+{"rank":2,"original":"Dholuo","id":"aaa","match":"ghotuo"}
+{"rank":0,"original":"LSE","id":"lse","match":"lse"}
+{"rank":0,"original":"LIS","id":"lis","match":"lis"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Gothic","id":"got","match":"gothic"}
+{"rank":0,"original":"Armenian","id":"hye","match":"armenian"}
+{"rank":6,"original":"Old Church Slavonic","id":"chu","match":"church slavic"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":5,"original":"Koine Greek","id":"crm","match":"moose cree"}
+{"rank":0,"original":"Kirghiz","id":"kir","match":"kirghiz"}
+{"rank":0,"original":"Kazakh","id":"kaz","match":"kazakh"}
+{"rank":5,"original":"Kattu Nayaka","id":"mpj","match":"martu wangka"}
+{"rank":0,"original":"kat","id":"kat","match":"kat"}
+{"rank":6,"original":"java script","id":"ava","match":"avaric"}
+{"rank":1,"original":"Java","id":"ava","match":"ava"}
+{"rank":6,"original":"Perl Script","id":"fas","match":"persian"}
+{"rank":1,"original":"JAPE","id":"ape","match":"ape"}
+{"rank":0,"original":"Japanese Sign Language","id":"jsl","match":"japanese sign language"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":10,"original":"Japanese (and Chinese)","id":"nan","match":"min nan chinese"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":4,"original":"Italian English","id":"lir","match":"liberian english"}
+{"rank":7,"original":"Italian<->English","id":"lir","match":"liberian english"}
+{"rank":9,"original":"Italian Dialects","id":"isl","match":"icelandic"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"is","id":"isl","match":"is"}
+{"rank":0,"original":"Irish Sign Language","id":"isg","match":"irish sign language"}
+{"rank":3,"original":"Iraqi Arabic","id":"acw","match":"hijazi arabic"}
+{"rank":6,"original":"Levantine Arabic","id":"acx","match":"omani arabic"}
+{"rank":1,"original":"Pashto","id":"pus","match":"pushto"}
+{"rank":15,"original":"Institute of Linguistics","id":"iks","match":"inuit sign language"}
+{"rank":3,"original":"Ingles","id":"anc","match":"ngas"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":38,"original":"index contains all languages represented in Wikipedia","id":"inl","match":"indonesian sign language"}
+{"rank":0,"original":"Igbo","id":"ibo","match":"igbo"}
+{"rank":3,"original":"IceNLP","id":"cen","match":"cen"}
+{"rank":0,"original":"Icelandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"Ibibio","id":"ibb","match":"ibibio"}
+{"rank":0,"original":"Iban","id":"iba","match":"iban"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":0,"original":"Iban","id":"iba","match":"iban"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":10,"original":"Hungarian-Slovenian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":39,"original":"Hungarian -- but the algorithm used is language independent","id":"hsh","match":"hungarian sign language"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":6,"original":"Hindi-Gujarati","id":"guj","match":"gujarati"}
+{"rank":6,"original":"Gujarati-Hindi","id":"guj","match":"gujarati"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":1,"original":"Bangla","id":"bbe","match":"bangba"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":1,"original":"Bangla","id":"bbe","match":"bangba"}
+{"rank":1,"original":"Punjabi","id":"pan","match":"panjabi"}
+{"rank":1,"original":"Oriya","id":"ury","match":"orya"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":1,"original":"Gujrati","id":"guj","match":"gujarati"}
+{"rank":2,"original":"Konkani","id":"kma","match":"konni"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Tamil","id":"tam","match":"tamil"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"Malayalam","id":"mal","match":"malayalam"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Maltese","id":"mlt","match":"maltese"}
+{"rank":4,"original":"Hanga (Ghana)","id":"wlx","match":"wali (ghana)"}
+{"rank":0,"original":"Gujarati","id":"guj","match":"gujarati"}
+{"rank":0,"original":"guh","id":"guh","match":"guh"}
+{"rank":0,"original":"spa","id":"spa","match":"spa"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":4,"original":"G?k?y?","id":"aky","match":"aky"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German Sign Language","id":"gsg","match":"german sign language"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":6,"original":"German Sign Language (DGS)","id":"gsg","match":"german sign language"}
+{"rank":0,"original":"German Sign Language","id":"gsg","match":"german sign language"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":8,"original":"Old High (ca.750-1050)","id":"goh","match":"old high german (ca. 750-1050)"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":6,"original":"Middle High (ca. 1050-1500)","id":"dum","match":"middle dutch (ca. 1050-1350)"}
+{"rank":9,"original":"Germanic (Other)","id":"thr","match":"rana tharu"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"englisch","id":"eng","match":"english"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Ega","id":"ega","match":"ega"}
+{"rank":1,"original":"Anyi","id":"ani","match":"andi"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":7,"original":"British English","id":"bzt","match":"brithenig"}
+{"rank":4,"original":"American English","id":"lir","match":"liberian english"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":6,"original":"German (Austria)","id":"qwm","match":"kuman (russia)"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Anyi","id":"ani","match":"andi"}
+{"rank":0,"original":"Ega","id":"ega","match":"ega"}
+{"rank":0,"original":"german","id":"deu","match":"german"}
+{"rank":0,"original":"Georgian","id":"kat","match":"georgian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":3,"original":"Gallegan","id":"alj","match":"alangan"}
+{"rank":7,"original":"Gaelic (Scots)","id":"blm","match":"beli (sudan)"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"fi","id":"fin","match":"fi"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"sv","id":"swe","match":"sv"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"da","id":"dan","match":"da"}
+{"rank":10,"original":"French (this work)","id":"mwe","match":"mwera (chimwera)"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":2,"original":"Swiss","id":"bwz","match":"bwisi"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"french sign language","id":"fsl","match":"french sign language"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":4,"original":"all sign languages","id":"lso","match":"laos sign language"}
+{"rank":8,"original":"all writen languages","id":"lso","match":"laos sign language"}
+{"rank":0,"original":"French Sign Language","id":"fsl","match":"french sign language"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"French Sign Language","id":"fsl","match":"french sign language"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":7,"original":"Greek and Finnish","id":"fkv","match":"kven finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":1,"original":"Romansch","id":"roh","match":"romansh"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":5,"original":"English soon","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":3,"original":"...","id":"Id","match":"Id"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"german","id":"deu","match":"german"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"spanish","id":"spa","match":"spanish"}
+{"rank":7,"original":"French-English","id":"eng","match":"english"}
+{"rank":7,"original":"English-French","id":"eng","match":"english"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":3,"original":"Belgium","id":"beg","match":"belait"}
+{"rank":6,"original":"Flemish Dutch","id":"odt","match":"old dutch"}
+{"rank":0,"original":"Finnish Sign Language","id":"fse","match":"finnish sign language"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Filipino","id":"fil","match":"filipino"}
+{"rank":0,"original":"Fi","id":"fin","match":"fi"}
+{"rank":2,"original":"Faetar","id":"faj","match":"faita"}
+{"rank":13,"original":"European Portuguese (EP)","id":"idb","match":"indo-portuguese"}
+{"rank":17,"original":"European Portuguese Dialects","id":"idb","match":"indo-portuguese"}
+{"rank":8,"original":"European Portuguese","id":"idb","match":"indo-portuguese"}
+{"rank":7,"original":"European Language","id":"csf","match":"cuba sign language"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":2,"original":"en.fr","id":"enf","match":"enf"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"pl","id":"pol","match":"pl"}
+{"rank":0,"original":"cat","id":"cat","match":"cat"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"la","id":"lat","match":"la"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"spa","id":"spa","match":"spa"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"nav","id":"nav","match":"nav"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"naf","id":"naf","match":"naf"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"mus","id":"mus","match":"mus"}
+{"rank":2,"original":"Englsih","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":7,"original":"French and Greek","id":"gmy","match":"mycenaean greek"}
+{"rank":5,"original":"English (US)","id":"eng","match":"english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":17,"original":"Urdu collection in progress","id":"jas","match":"new caledonian javanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Traditional Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"etc","id":"etc","match":"etc"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":8,"original":"Traditional Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":18,"original":"Swedish (and others not used)","id":"swl","match":"swedish sign language"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":15,"original":"English spoken by Japanese","id":"jas","match":"new caledonian javanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":1,"original":"Portguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Asturian","id":"ast","match":"asturian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":1,"original":"Japanese…","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":7,"original":"English-Spanish","id":"osp","match":"old spanish"}
+{"rank":6,"original":"English-Dutch","id":"eng","match":"english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":11,"original":"Spanish and others","id":"aij","match":"lishanid noshan"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"sanskrit","id":"san","match":"sanskrit"}
+{"rank":2,"original":"nepali","id":"ena","match":"apali"}
+{"rank":3,"original":"...","id":"Id","match":"Id"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":7,"original":"Romance Languages","id":"mis","match":"uncoded languages"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":8,"original":"English portion","id":"eng","match":"english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":12,"original":"English patent domain","id":"lsd","match":"lishana deni"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":4,"original":"?others","id":"bhm","match":"bathari"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":7,"original":"other non-english","id":"lir","match":"liberian english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":3,"original":"?other","id":"bly","match":"notre"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"Oromoo","id":"orm","match":"oromo"}
+{"rank":12,"original":"English (non-native)","id":"nih","match":"nyiha (tanzania)"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":2,"original":"Myanmar","id":"mdr","match":"mandar"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":6,"original":"multilingual","id":"tit","match":"tinigua"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":7,"original":"Modern Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":0,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":2,"original":"Middle","id":"mqo","match":"modole"}
+{"rank":20,"original":"English (Medical Terminologies)","id":"bzj","match":"belize kriol english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":7,"original":"Modern Standard Arabic","id":"arb","match":"standard arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":6,"original":"Mandarin and Arabic","id":"xaa","match":"andalusian arabic"}
+{"rank":8,"original":"English (mainly)","id":"yso","match":"nisi (china)"}
+{"rank":1,"original":"WSDL","id":"sdl","match":"sdl"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":5,"original":"lots of.","id":"dol","match":"doso"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":3,"original":"Slovene","id":"lbo","match":"laven"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Tamil","id":"tam","match":"tamil"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Gujarati","id":"guj","match":"gujarati"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Georgian","id":"kat","match":"georgian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Malayalam","id":"mal","match":"malayalam"}
+{"rank":0,"original":"Tagalog","id":"tgl","match":"tagalog"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Filipino","id":"fil","match":"filipino"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Bosnian","id":"bos","match":"bosnian"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":6,"original":"English/Hindi","id":"eng","match":"english"}
+{"rank":7,"original":"English/Arabic","id":"abh","match":"tajiki arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":1,"original":"","id":"eee","match":"e"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":14,"original":"progressively extended","id":"kjp","match":"pwo eastern karen"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":1,"original":"","id":"eee","match":"e"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":8,"original":"Czech and Russian","id":"orv","match":"old russian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":3,"original":"...","id":"Id","match":"Id"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":2,"original":"Acadian","id":"akk","match":"akkadian"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":2,"original":"Armenic","id":"hye","match":"armenian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":1,"original":"Roumanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":12,"original":"extendible to others","id":"otz","match":"ixtenco otomi"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":4,"original":"....","id":"Id","match":"Id"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"Chinse","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":3,"original":"others","id":"ers","match":"ers"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":7,"original":"Chinese and Arabic","id":"aeb","match":"tunisian arabic"}
+{"rank":16,"original":"English biomedical domain","id":"aij","match":"lishanid noshan"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":1,"original":"Oriya","id":"ury","match":"orya"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":26,"original":"English (annotated + unannotated data)","id":"env","match":"enwan (edu state)"}
+{"rank":32,"original":"Europarl languages (unannotated bilingual data)","id":"mqg","match":"kota bangun kutai malay"}
+{"rank":8,"original":"English and Wolof","id":"wof","match":"gambian wolof"}
+{"rank":67,"original":"English and any language for which a wordnet aligned to Princeton WordNet2.0 is available","id":"sfb","match":"langue des signes de belgique francophone"}
+{"rank":8,"original":"English-Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":8,"original":"English-isiZulu","id":"eng","match":"english"}
+{"rank":16,"original":"English-Sesotho sa Leboa","id":"tnd","match":"angosturas tunebo"}
+{"rank":6,"original":"English (95%)","id":"eng","match":"english"}
+{"rank":1,"original":"WSDL","id":"sdl","match":"sdl"}
+{"rank":4,"original":"RDF-XML","id":"dml","match":"dml"}
+{"rank":1,"original":"English'","id":"eng","match":"english"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"?","id":"eee","match":"e"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"fra","id":"fra","match":"fra"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"ru","id":"rus","match":"ru"}
+{"rank":0,"original":"cs","id":"ces","match":"cs"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"sk","id":"slk","match":"sk"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"gl","id":"glg","match":"gl"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"ca","id":"cat","match":"ca"}
+{"rank":0,"original":"eu","id":"eus","match":"eu"}
+{"rank":1,"original":"al","id":"aal","match":"aal"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"cs","id":"ces","match":"cs"}
+{"rank":0,"original":"bg","id":"bul","match":"bg"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"ja","id":"jpn","match":"ja"}
+{"rank":0,"original":"zh","id":"zho","match":"zh"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"id","id":"ind","match":"id"}
+{"rank":0,"original":"ko","id":"kor","match":"ko"}
+{"rank":0,"original":"zh","id":"zho","match":"zh"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"ja","id":"jpn","match":"ja"}
+{"rank":0,"original":"no","id":"nor","match":"no"}
+{"rank":1,"original":"Emglish","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":3,"original":"Egyptian","id":"xly","match":"elymian"}
+{"rank":1,"original":"Iraqi","id":"irk","match":"iraqw"}
+{"rank":4,"original":"Levantine","id":"avn","match":"avatime"}
+{"rank":3,"original":"Moroccan","id":"cos","match":"corsican"}
+{"rank":3,"original":"Egyptian","id":"xly","match":"elymian"}
+{"rank":1,"original":"Iraqi","id":"irk","match":"iraqw"}
+{"rank":4,"original":"Levantine","id":"avn","match":"avatime"}
+{"rank":1,"original":"Gulf","id":"gly","match":"gule"}
+{"rank":6,"original":"Moroccan dialects","id":"ary","match":"moroccan arabic"}
+{"rank":0,"original":"Egyptian Arabic","id":"arz","match":"egyptian arabic"}
+{"rank":0,"original":"Dyula","id":"dyu","match":"dyula"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":3,"original":"...","id":"Id","match":"Id"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":16,"original":"Vietnamese and many to come","id":"mkx","match":"kinamiging manobo"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"german","id":"deu","match":"german"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":3,"original":"Moroccan","id":"cos","match":"corsican"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":9,"original":"Dutch (BE and NL)","id":"ddn","match":"dendi (benin)"}
+{"rank":11,"original":"English (UK and US)","id":"laj","match":"lango (uganda)"}
+{"rank":0,"original":"dsb","id":"dsb","match":"dsb"}
+{"rank":1,"original":"Dreents","id":"drt","match":"drents"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"DGS","id":"dgs","match":"dgs"}
+{"rank":0,"original":"deu","id":"deu","match":"deu"}
+{"rank":0,"original":"eng","id":"eng","match":"eng"}
+{"rank":0,"original":"Dari","id":"prs","match":"dari"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"dan","id":"dnj","match":"dan"}
+{"rank":0,"original":"Dagbani","id":"dag","match":"dagbani"}
+{"rank":0,"original":"da","id":"dan","match":"da"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"fi","id":"fin","match":"fi"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"sv","id":"swe","match":"sv"}
+{"rank":0,"original":"da","id":"dan","match":"da"}
+{"rank":0,"original":"de","id":"deu","match":"de"}
+{"rank":0,"original":"el","id":"ell","match":"el"}
+{"rank":0,"original":"en","id":"eng","match":"en"}
+{"rank":0,"original":"es","id":"spa","match":"es"}
+{"rank":0,"original":"fi","id":"fin","match":"fi"}
+{"rank":0,"original":"fr","id":"fra","match":"fr"}
+{"rank":0,"original":"it","id":"ita","match":"it"}
+{"rank":0,"original":"nl","id":"nld","match":"nl"}
+{"rank":0,"original":"pt","id":"por","match":"pt"}
+{"rank":0,"original":"sv","id":"swe","match":"sv"}
+{"rank":0,"original":"da","id":"dan","match":"da"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Zulu","id":"zul","match":"zulu"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"czech","id":"ces","match":"czech"}
+{"rank":0,"original":"english","id":"eng","match":"english"}
+{"rank":0,"original":"french","id":"fra","match":"french"}
+{"rank":0,"original":"german","id":"deu","match":"german"}
+{"rank":0,"original":"spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"Finish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":1,"original":"Cuzco Quechua","id":"quz","match":"cusco quechua"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":7,"original":"Creole dialect","id":"crd","match":"coeur d'alene"}
+{"rank":16,"original":"Contemporary American English","id":"bzk","match":"nicaragua creole english"}
+{"rank":1,"original":"C#","id":"cat","match":"ca"}
+{"rank":1,"original":"Java","id":"ava","match":"ava"}
+{"rank":22,"original":"Chinese with a few Siddham Sanskrit","id":"cpi","match":"chinese pidgin english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Haitian","id":"hat","match":"haitian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":32,"original":"The method is applicable to other language pairs.","id":"eth","match":"ethiopian sign language"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Cebuano","id":"ceb","match":"cebuano"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Cebuano","id":"ceb","match":"cebuano"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Asturian","id":"ast","match":"asturian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Catalan Sign Language","id":"csc","match":"catalan sign language"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"catalan","id":"cat","match":"catalan"}
+{"rank":9,"original":"Castillian Spanish","id":"osp","match":"old spanish"}
+{"rank":4,"original":"Cantonese","id":"ace","match":"achinese"}
+{"rank":1,"original":"Mandarin","id":"mqu","match":"mandari"}
+{"rank":0,"original":"Cahuilla","id":"chl","match":"cahuilla"}
+{"rank":0,"original":"ca","id":"cat","match":"ca"}
+{"rank":2,"original":"c++","id":"caa","match":"caa"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":2,"original":"Maltan","id":"imy","match":"milyan"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":1,"original":"Portugese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":2,"original":"Slovakian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":1,"original":"Finish","id":"fin","match":"finnish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Ukrainian","id":"ukr","match":"ukrainian"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":3,"original":"Slovene","id":"lbo","match":"laven"}
+{"rank":2,"original":"Resian","id":"fas","match":"persian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"bul","id":"bul","match":"bul"}
+{"rank":22,"original":"BSL signing with English subtitles","id":"bzj","match":"belize kriol english"}
+{"rank":7,"original":"British English","id":"bzt","match":"brithenig"}
+{"rank":0,"original":"Bosnian","id":"bos","match":"bosnian"}
+{"rank":17,"original":"Biscayan (a Basque dialect)","id":"bdh","match":"baka (sudan)"}
+{"rank":15,"original":"bilingual Portuguese-English","id":"bzk","match":"nicaragua creole english"}
+{"rank":15,"original":"bilingual English-Portuguese","id":"idb","match":"indo-portuguese"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"bel","id":"bel","match":"bel"}
+{"rank":7,"original":"Behavior Language","id":"cse","match":"czech sign language"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":4,"original":"barverenc","id":"boi","match":"barbareño"}
+{"rank":1,"original":"Bangla","id":"bbe","match":"bangba"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":4,"original":"Bamanankan","id":"aaf","match":"aranadan"}
+{"rank":0,"original":"Aymara","id":"aym","match":"aymara"}
+{"rank":0,"original":"Avestan","id":"ave","match":"avestan"}
+{"rank":5,"original":"Austronesian languages","id":"asq","match":"austrian sign language"}
+{"rank":6,"original":"Australian English","id":"lir","match":"liberian english"}
+{"rank":9,"original":"Auslan (Australian Sign Language)","id":"asf","match":"australian sign language"}
+{"rank":0,"original":"Aragonese","id":"arg","match":"aragonese"}
+{"rank":21,"original":"Arabic (Modern Standard variety)","id":"arb","match":"standard arabic"}
+{"rank":52,"original":"Arabic Language (semitic language based on a root-and-pattern structure)","id":"ina","match":"interlingua (international auxiliary language association)"}
+{"rank":7,"original":"Arabic Sign Language (ArSL)","id":"hps","match":"hawai'i sign language (hsl)"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":12,"original":"Arabic.English.Czech","id":"rrt","match":"arritinngithigh"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Tagalog","id":"tgl","match":"tagalog"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":1,"original":"Farsi","id":"prp","match":"parsi"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":3,"original":"Slovene","id":"lbo","match":"laven"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":6,"original":"and many more","id":"amx","match":"anmatyerre"}
+{"rank":6,"original":"Arabic (Algeria)","id":"bcn","match":"bali (nigeria)"}
+{"rank":0,"original":"ara","id":"ara","match":"ara"}
+{"rank":1,"original":"Anyi","id":"ani","match":"andi"}
+{"rank":1,"original":"Baule","id":"brg","match":"baure"}
+{"rank":0,"original":"Ega","id":"ega","match":"ega"}
+{"rank":0,"original":"Ibibio","id":"ibb","match":"ibibio"}
+{"rank":6,"original":"Medefaidrin","id":"idd","match":"ede idaca"}
+{"rank":0,"original":"Amharic","id":"amh","match":"amharic"}
+{"rank":0,"original":"Tigrinya","id":"tir","match":"tigrinya"}
+{"rank":0,"original":"Amharic","id":"amh","match":"amharic"}
+{"rank":2,"original":"Tigrigna","id":"tir","match":"tigrinya"}
+{"rank":1,"original":"Ge'ez","id":"gez","match":"geez"}
+{"rank":6,"original":"American Sign Language (ASL)","id":"ase","match":"american sign language"}
+{"rank":4,"original":"American English","id":"lir","match":"liberian english"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":7,"original":"Mexican Spanish","id":"osp","match":"old spanish"}
+{"rank":3,"original":"American","id":"hye","match":"armenian"}
+{"rank":0,"original":"Amele","id":"aey","match":"amele"}
+{"rank":3,"original":"amazigh","id":"aew","match":"ambakich"}
+{"rank":5,"original":"all variants","id":"ald","match":"alladian"}
+{"rank":24,"original":"All eleven official South African languages","id":"okl","match":"old kentish sign language"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":2,"original":"Gaelic","id":"gce","match":"galice"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Latin","id":"lat","match":"latin"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Mandarin Chinese","id":"cmn","match":"mandarin chinese"}
+{"rank":6,"original":"Modern Greek","id":"bxc","match":"molengue"}
+{"rank":0,"original":"Northern Uzbek","id":"uzn","match":"northern uzbek"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":2,"original":"Norwegian Bokmaal","id":"nob","match":"norwegian bokmål"}
+{"rank":0,"original":"Norwegian Nynorsk","id":"nno","match":"norwegian nynorsk"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Standard Malay","id":"zsm","match":"standard malay"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Chinese","id":"zho","match":"chinese"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":5,"original":"isiNdebele","id":"beb","match":"bebele"}
+{"rank":3,"original":"isiXhosa","id":"xho","match":"xhosa"}
+{"rank":2,"original":"isiZulu","id":"asl","match":"asilulu"}
+{"rank":2,"original":"Sepedi","id":"nso","match":"pedi"}
+{"rank":3,"original":"Sesotho","id":"lto","match":"tsotso"}
+{"rank":2,"original":"Setswana","id":"tsn","match":"tswana"}
+{"rank":2,"original":"Siswati","id":"siw","match":"siwai"}
+{"rank":13,"original":"Tshivenda and Xitsonga.","id":"ekk","match":"standard estonian"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":2,"original":"isiZulu","id":"asl","match":"asilulu"}
+{"rank":3,"original":"isiXhosa","id":"xho","match":"xhosa"}
+{"rank":5,"original":"isiNdebele","id":"beb","match":"bebele"}
+{"rank":2,"original":"Siswati","id":"siw","match":"siwai"}
+{"rank":4,"original":"Tshivenda","id":"scl","match":"shina"}
+{"rank":2,"original":"Xitsonga","id":"toh","match":"gitonga"}
+{"rank":2,"original":"Setswana","id":"tsn","match":"tswana"}
+{"rank":3,"original":"Sesotho","id":"lto","match":"tsotso"}
+{"rank":9,"original":"Sesotho sa Leboa","id":"mss","match":"west masela"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":14,"original":"Byelorussian (Belarussian)","id":"qwm","match":"kuman (russia)"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":9,"original":"Irish (Irish Gaelic)","id":"gla","match":"scottish gaelic"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Icelandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":8,"original":"Latvian Lettish","id":"lav","match":"latvian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":0,"original":"Maltese","id":"mlt","match":"maltese"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":10,"original":"Portuguese(Portugal)","id":"por","match":"portuguese"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":0,"original":"Tagalog","id":"tgl","match":"tagalog"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":0,"original":"Ukrainian","id":"ukr","match":"ukrainian"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Yiddish","id":"yid","match":"yiddish"}
+{"rank":11,"original":"Chinese(Simplified)","id":"csl","match":"chinese sign language"}
+{"rank":12,"original":"Chinese(Traditional)","id":"cdr","match":"cinda-regi-tiyal"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"Albanian","id":"sqi","match":"albanian"}
+{"rank":0,"original":"Amharic","id":"amh","match":"amharic"}
+{"rank":0,"original":"Arabic","id":"ara","match":"arabic"}
+{"rank":0,"original":"Armenian","id":"hye","match":"armenian"}
+{"rank":0,"original":"Azerbaijani","id":"aze","match":"azerbaijani"}
+{"rank":0,"original":"Basque","id":"eus","match":"basque"}
+{"rank":0,"original":"Belarusian","id":"bel","match":"belarusian"}
+{"rank":0,"original":"Bengali","id":"ben","match":"bengali"}
+{"rank":2,"original":"Bihari","id":"beh","match":"biali"}
+{"rank":0,"original":"Bulgarian","id":"bul","match":"bulgarian"}
+{"rank":0,"original":"Burmese","id":"mya","match":"burmese"}
+{"rank":0,"original":"Catalan","id":"cat","match":"catalan"}
+{"rank":0,"original":"Cherokee","id":"chr","match":"cherokee"}
+{"rank":21,"original":"Chinese (Simplified and Traditional)","id":"nkv","match":"nyika (malawi and zambia)"}
+{"rank":0,"original":"Croatian","id":"hrv","match":"croatian"}
+{"rank":0,"original":"Czech","id":"ces","match":"czech"}
+{"rank":0,"original":"Danish","id":"dan","match":"danish"}
+{"rank":0,"original":"Dhivehi","id":"div","match":"dhivehi"}
+{"rank":0,"original":"Dutch","id":"nld","match":"dutch"}
+{"rank":0,"original":"English","id":"eng","match":"english"}
+{"rank":0,"original":"Esperanto","id":"epo","match":"esperanto"}
+{"rank":0,"original":"Estonian","id":"est","match":"estonian"}
+{"rank":0,"original":"Filipino","id":"fil","match":"filipino"}
+{"rank":0,"original":"Finnish","id":"fin","match":"finnish"}
+{"rank":0,"original":"French","id":"fra","match":"french"}
+{"rank":0,"original":"Galician","id":"glg","match":"galician"}
+{"rank":0,"original":"Georgian","id":"kat","match":"georgian"}
+{"rank":0,"original":"German","id":"deu","match":"german"}
+{"rank":1,"original":"Greek","id":"mus","match":"creek"}
+{"rank":0,"original":"Guarani","id":"grn","match":"guarani"}
+{"rank":0,"original":"Gujarati","id":"guj","match":"gujarati"}
+{"rank":0,"original":"Hebrew","id":"heb","match":"hebrew"}
+{"rank":0,"original":"Hindi","id":"hin","match":"hindi"}
+{"rank":0,"original":"Hungarian","id":"hun","match":"hungarian"}
+{"rank":0,"original":"Icelandic","id":"isl","match":"icelandic"}
+{"rank":0,"original":"Indonesian","id":"ind","match":"indonesian"}
+{"rank":0,"original":"Inuktitut","id":"iku","match":"inuktitut"}
+{"rank":0,"original":"Irish","id":"gle","match":"irish"}
+{"rank":0,"original":"Italian","id":"ita","match":"italian"}
+{"rank":0,"original":"Japanese","id":"jpn","match":"japanese"}
+{"rank":0,"original":"Kannada","id":"kan","match":"kannada"}
+{"rank":0,"original":"Kazakh","id":"kaz","match":"kazakh"}
+{"rank":2,"original":"Khmer","id":"her","match":"her"}
+{"rank":0,"original":"Korean","id":"kor","match":"korean"}
+{"rank":0,"original":"Kurdish","id":"kur","match":"kurdish"}
+{"rank":3,"original":"Kyrgyz","id":"kgy","match":"kgy"}
+{"rank":0,"original":"Lao","id":"lao","match":"lao"}
+{"rank":0,"original":"Latvian","id":"lav","match":"latvian"}
+{"rank":0,"original":"Lithuanian","id":"lit","match":"lithuanian"}
+{"rank":0,"original":"Macedonian","id":"mkd","match":"macedonian"}
+{"rank":1,"original":"Malay","id":"mbp","match":"malayo"}
+{"rank":0,"original":"Malayalam","id":"mal","match":"malayalam"}
+{"rank":0,"original":"Maltese","id":"mlt","match":"maltese"}
+{"rank":0,"original":"Marathi","id":"mar","match":"marathi"}
+{"rank":0,"original":"Mongolian","id":"mon","match":"mongolian"}
+{"rank":2,"original":"Nepali","id":"ena","match":"apali"}
+{"rank":0,"original":"Norwegian","id":"nor","match":"norwegian"}
+{"rank":1,"original":"Oriya","id":"ury","match":"orya"}
+{"rank":1,"original":"Pashto","id":"pus","match":"pushto"}
+{"rank":0,"original":"Persian","id":"fas","match":"persian"}
+{"rank":0,"original":"Polish","id":"pol","match":"polish"}
+{"rank":0,"original":"Portuguese","id":"por","match":"portuguese"}
+{"rank":1,"original":"Punjabi","id":"pan","match":"panjabi"}
+{"rank":0,"original":"Romanian","id":"ron","match":"romanian"}
+{"rank":0,"original":"Russian","id":"rus","match":"russian"}
+{"rank":0,"original":"Sanskrit","id":"san","match":"sanskrit"}
+{"rank":0,"original":"Serbian","id":"srp","match":"serbian"}
+{"rank":0,"original":"Sindhi","id":"snd","match":"sindhi"}
+{"rank":3,"original":"Sinhalese","id":"sin","match":"sinhala"}
+{"rank":0,"original":"Slovak","id":"slk","match":"slovak"}
+{"rank":0,"original":"Slovenian","id":"slv","match":"slovenian"}
+{"rank":0,"original":"Spanish","id":"spa","match":"spanish"}
+{"rank":3,"original":"Swahili","id":"bhb","match":"bhili"}
+{"rank":0,"original":"Swedish","id":"swe","match":"swedish"}
+{"rank":0,"original":"Tajik","id":"tgk","match":"tajik"}
+{"rank":0,"original":"Tamil","id":"tam","match":"tamil"}
+{"rank":0,"original":"Telugu","id":"tel","match":"telugu"}
+{"rank":0,"original":"Thai","id":"tha","match":"thai"}
+{"rank":0,"original":"Tibetan","id":"bod","match":"tibetan"}
+{"rank":0,"original":"Turkish","id":"tur","match":"turkish"}
+{"rank":1,"original":"Ukranian","id":"ukr","match":"ukrainian"}
+{"rank":0,"original":"Urdu","id":"urd","match":"urdu"}
+{"rank":0,"original":"Uzbek","id":"uzb","match":"uzbek"}
+{"rank":0,"original":"Uighur","id":"uig","match":"uighur"}
+{"rank":0,"original":"Vietnamese","id":"vie","match":"vietnamese"}
+{"rank":0,"original":"Welsh","id":"cym","match":"welsh"}
+{"rank":0,"original":"Yiddish","id":"yid","match":"yiddish"}
+{"rank":0,"original":"Afrikaans","id":"afr","match":"afrikaans"}
+{"rank":0,"original":"Achinese","id":"ace","match":"achinese"}
+{"rank":1,"original":"ABSL","id":"abl","match":"abl"}
+{"rank":0,"original":"ISL","id":"isl","match":"isl"}
+{"rank":7,"original":"70 languages","id":"alj","match":"alangan"}
+{"rank":1,"original":"2","id":"eee","match":"e"}
+{"rank":18,"original":"600 languages--not independent","id":"zxx","match":"no linguistic content"}
+{"rank":11,"original":"22 european union languages","id":"ase","match":"american sign language"}
+{"rank":4,"original":"1978","id":"Id","match":"Id"}
