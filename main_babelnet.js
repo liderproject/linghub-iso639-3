@@ -15,49 +15,52 @@ parseLanguageFile();
 // langs is array because a cell in a row can contain
 // multiple languages such as "Italian,English"
 // therefore langs has ['Italian', 'English']
-var done = {};
-function language(langs, done) {
-    var strToWrite = ''
-    for(var y=0; y<langs.length; y++) {
-        // run string similarity algorithm
-        // against the SIL_INDEX
-        // and see which ranks the highest
-        var str = langs[y].trim()
-        var original = str
-        str = str.toLowerCase()
+var doneStr = {};
+function language(str, done) {
+    // run string similarity algorithm
+    // against the SIL_INDEX
+    // and see which ranks the highest
+    var original = str
+    str = str.toLowerCase()
 
-        // iterate SIL_INDEX - should perhaps be just search (build better index)
-        var obj = {
-            original: original
-        };
-        // for each word look in babelnet
-        if(!done[str]) {
-            request('http://babelnet.ns0.it/v1/getSenses?word='+str+'%20language&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
+    // iterate SIL_INDEX - should perhaps be just search (build better index)
+    var obj = {
+        original: original
+    };
+    // for each word look in babelnet
+    if(!doneStr[str]) {
+        request('http://babelnet.ns0.it/v1/getSenses?word='+str+'%20language&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
+            try {
                 var arr = JSON.parse(body)
-                var ids = {}
-                for(var i in arr) {
-                    var lemma = arr[i].lemma
-                    if(lemma.indexOf('ISO_639') == 0) {
-                        var l = lemma.split(':')
-                        if(l.length > 1) {
-                            var id = l[1]
-                            if(ids[id]) continue;
-                            ids[id] = true;
-                            done[str] = id;
+            } catch(e) {
+                return done();
+            }
+            var ids = {}
+            var strToWrite = ''
+            for(var i in arr) {
+                var lemma = arr[i].lemma
+                if(!lemma) continue
+                if(lemma.indexOf('ISO_639') == 0) {
+                    var l = lemma.split(':')
+                    if(l.length > 1) {
+                        var id = l[1]
+                        if(ids[id]) continue;
+                        ids[id] = true;
+                        doneStr[str] = id;
 
-                            obj.id = id
-                            obj.match = str
-
-                            fs.appendFile('results.json', JSON.stringify(obj) + '\n', function(err) {
-                                if(err) console.log(err)
-                                //done()
-                            })
-                        }
-
+                        obj.id = id
+                        obj.match = str
+                        strToWrite += JSON.stringify(obj) + '\n'
                     }
                 }
+            }
+            fs.appendFile('results.json', strToWrite, function(err) {
+                if(err) console.log(err)
+                done()
             })
-        }
+        })
+    } else {
+        done();
     }
 }
 
@@ -80,11 +83,18 @@ function handleRowAt(rows, idx) {
     // and rerun it on split only for the low ranked
     //langs = [langs]
     langs = langs.split(/[,;]+/)
-    
 
-    language(langs, function() {
+    handleLangAt(langs, 0, rows, idx);
+
+}
+function handleLangAt(langs, idx, rows, rowIdx) {
+    var lang = langs[idx]
+    if(!lang) 
+        return handleRowAt(rows, rowIdx + 1)
+
+    language(lang, function() {
         // call recursively after it has written to results.json
-        handleRowAt(rows, idx + 1)
+        handleLangAt(langs, idx + 1, rows, rowIdx)
     })
 }
 
