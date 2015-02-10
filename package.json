@@ -4,7 +4,8 @@
   "description": "Code for mapping language strings to ISO 639-3 codes",
   "main": "main.js",
   "dependencies": {
-    "csv-parse": "~0.0.6"
+    "csv-parse": "~0.0.6",
+    "request": "^2.53.0"
   },
   "devDependencies": {},
   "scripts": {
