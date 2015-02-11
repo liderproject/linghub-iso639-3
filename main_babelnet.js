@@ -9,13 +9,122 @@ var levenshteinenator = require('./levenshtein.js')
 var SIL_INDEX = {};
 var LOW_RANKED = [];
 
-parseLanguageFile();
+
+// let's read the official SIL data
+// and build an index of it in memory
+// so we can search against it
+fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 'utf-8', function(err, data) {
+    if(err) return console.log(err)
+    parse(data, {delimiter: '\t'}, function(err, output) {
+        if(err) return console.log(err)
+        // each output is of this form 
+        // [ aaa  ,  Ghotuo , Ghotuo ],
+        // the iso code is at 0 idx
+        // the language string is at 6 idx
+        for(var i in output) {
+            var el = output[i]
+            var id = el[0]
+            var lang = el[1]
+            // here we should build an index
+
+            SIL_INDEX[lang] = id
+            //SIL_INDEX[id] = lang
+
+        }
+        // only here SIL_INDEX is filled
+        // fill the index with the other SIL file
+        otherSILfile()
+    })
+})
+function otherSILfile() {
+    fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_20150112.tab', 'utf-8', function(err, data) {
+        if(err) return console.log(err)
+        parse(data, {delimiter: '\t'}, function(err, output) {
+            if(err) return console.log(err)
+            // each output is of this form 
+            // [ 'zul', 'zul', 'zul', 'zu', 'I', 'L', 'Zulu', '' ],
+            // the iso code is at 0 idx
+            // the language string is at 6 idx
+            for(var i in output) {
+                var el = output[i]
+                var id = el[0]
+                var lang = el[6]
+
+                SIL_INDEX[lang] = id
+
+                // ids in the SIL data could spread 4 columns
+                /*
+                var ids = []
+                for(var y=0; y<4; y++) {
+                    if(el[y]) ids.push(el[y])
+                }
+
+                for(var x in ids) {
+                    SIL_INDEX[ids[x]] = id
+                }
+                */
+            }
+            // only here SIL_INDEX is filled
+            handleSILat(0)
+            fs.writeFile('results.json', '')
+        })
+    })
+
+}
+
+// this is called when the SIL index is full of information
+var doneStr = {};
+function handleSILat(idx) {
+    var key = Object.keys(SIL_INDEX)[idx];
+    if(!key) return;
+
+    var str = key
+    //var id = SIL_INDEX[key]
+    if(!doneStr[str]) {
+        request('http://babelnet.ns0.it/v1/getSenses?word='+str+'%20language&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
+            doneStr[str] = id;
+            try {
+                var arr = JSON.parse(body)
+            } catch(e) {
+                return handleSILat(idx + 1);
+            }
+            var ids = {}
+            for(var i in arr) {
+                var lemma = arr[i].lemma
+                if(!lemma) continue
+                if(lemma.indexOf('ISO_639') == 0) {
+                    var l = lemma.split(':')
+                    if(l.length > 1) {
+                        var id = l[1]
+                        if(ids[id]) continue;
+                        ids[id] = true;
+
+                    }
+                }
+            }
+            // re-loop and add the isocode to each object
+            var strToWrite = ''
+            for(var x in arr) {
+                var lemma = arr[x].lemma
+                if(!lemma) continue;
+                arr[x].isoCode = ids 
+                strToWrite += JSON.stringify(arr[x]) + '\n'
+            }
+            fs.appendFile('results.json', strToWrite, function(err) {
+                if(err) console.log(err)
+                handleSILat(idx + 1);
+            })
+        })
+    } else {
+        handleSILat(idx + 1);
+    }
+
+}
 
 // this is called for each row of languages.csv
 // langs is array because a cell in a row can contain
 // multiple languages such as "Italian,English"
 // therefore langs has ['Italian', 'English']
-var doneStr = {};
 function language(str, done) {
     // run string similarity algorithm
     // against the SIL_INDEX
@@ -28,40 +137,6 @@ function language(str, done) {
         original: original
     };
     // for each word look in babelnet
-    if(!doneStr[str]) {
-        request('http://babelnet.ns0.it/v1/getSenses?word='+str+'%20language&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
-            try {
-                var arr = JSON.parse(body)
-            } catch(e) {
-                return done();
-            }
-            var ids = {}
-            var strToWrite = ''
-            for(var i in arr) {
-                var lemma = arr[i].lemma
-                if(!lemma) continue
-                if(lemma.indexOf('ISO_639') == 0) {
-                    var l = lemma.split(':')
-                    if(l.length > 1) {
-                        var id = l[1]
-                        if(ids[id]) continue;
-                        ids[id] = true;
-                        doneStr[str] = id;
-
-                        obj.id = id
-                        obj.match = str
-                        strToWrite += JSON.stringify(obj) + '\n'
-                    }
-                }
-            }
-            fs.appendFile('results.json', strToWrite, function(err) {
-                if(err) console.log(err)
-                done()
-            })
-        })
-    } else {
-        done();
-    }
 }
 
 function handleRowAt(rows, idx) {
