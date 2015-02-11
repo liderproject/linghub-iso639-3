@@ -19,7 +19,7 @@ for(var i=0; i<data.length; i++) {
 }
 
 var predictions = {}
-var data = fs.readFileSync('babelnet_predictions.json', 'utf-8')
+var data = fs.readFileSync('babelnet_all_predictions_dice.json', 'utf-8')
 data = data.split('\n')
 for(var i=0; i<data.length; i++) {
     var line = data[i]
@@ -28,14 +28,11 @@ for(var i=0; i<data.length; i++) {
     } catch(e) {
         continue;
     }
-    if(!obj.id)
-        obj.id = ''
     // group by original
-    if(!predictions[obj.original]) { 
-        // there could be multiple ISO codes
-        predictions[obj.original] = []
+    predictions[obj.original] = []
+    for(var x in obj.lemma.isoCode) {
+        predictions[obj.original].push(x)
     }
-    predictions[obj.original].push(obj.id)
 }
 
 // find how many matches we have
