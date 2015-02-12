@@ -17,7 +17,7 @@ for(var i=0; i<data.length; i++) {
 }
 
 var predictions = {}
-var data = fs.readFileSync('babelnet_all_predictions_dice.json', 'utf-8')
+var data = fs.readFileSync('babelnet_all_predictions_levenshtein.json', 'utf-8')
 data = data.split('\n')
 for(var i=0; i<data.length; i++) {
     var line = data[i]
