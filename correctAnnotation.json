@@ -1,5 +1,5 @@
-{"rank":1,"original":"de","id":"deu","match":"de"}
-{"rank":1,"original":"en","id":"eng","match":"en"}
+{"rank":1,"original":"Russian","id":"rus","match":"de"}
+{"rank":1,"original":"Kurdish","id":"kur","match":"en"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
 {"rank":1,"original":"Swedish","id":"swe","match":"swedish"}
@@ -8,13 +8,12 @@
 {"rank":1,"original":"Danish","id":"dan","match":"danish"}
 {"rank":1,"original":"Lithuanian","id":"lit","match":"lithuanian"}
 {"rank":1,"original":"Judeo-Persian","id":"jpr","match":"judeo-persian"}
-{"rank":0.4,"original":"en-us","id":"eng","match":"en"}
+{"rank":0.4,"original":"Kinyarwanda","id":"kin","match":"en"}
 {"rank":1,"original":"Serbian","id":"srp","match":"serbian"}
 {"rank":1,"original":"english","id":"eng","match":"english"}
 {"rank":0.5714285714285714,"original":"Bokmål","id":"nob","match":"bok"}
-{"rank":1,"original":"EN","id":"eng","match":"en"}
-{"rank":1,"original":"Esperanto","id":"epo","match":"esperanto"}
-{"rank":0.4,"original":"en-US","id":"eng","match":"en"}
+{"rank":1,"original":"Hebrew","id":"heb","match":"en"}
+{"rank":1,"original":"Wolof","id":"wol","match":"esperanto"}
 {"rank":1,"original":"Lojban","id":"jbo","match":"lojban"}
 {"rank":1,"original":"Karelian","id":"krl","match":"karelian"}
 {"rank":1,"original":"Burmese","id":"mya","match":"burmese"}
@@ -25,10 +24,10 @@
 {"rank":0.8333333333333334,"original":"Rumanian","id":"ron","match":"maiani"}
 {"rank":0.6666666666666666,"original":"Mooré","id":"mos","match":"moo"}
 {"rank":1,"original":"Italian Sign Language","id":"ise","match":"italian sign language"}
-{"rank":1,"original":"klr","id":"klr","match":"klr"}
+{"rank":1,"original":"Yue Chinese","id":"yue","match":"klr"}
 {"rank":1,"original":"Achumawi","id":"acv","match":"achumawi"}
-{"rank":1,"original":"tam","id":"tam","match":"tam"}
-{"rank":1,"original":"SL","id":"slv","match":"sl"}
+{"rank":1,"original":"Malayalam","id":"mal","match":"tam"}
+{"rank":1,"original":"Achinese","id":"ace","match":"sl"}
 {"rank":0.7692307692307693,"original":"Englisch","id":"eng","match":"english"}
 {"rank":1,"original":"Pali","id":"pli","match":"pali"}
 {"rank":0.35294117647058826,"original":"Ñahñú (Otomí)","id":"oto","match":"tuotomb"}
@@ -57,17 +56,17 @@
 {"rank":1,"original":"Tzeltal","id":"tzh","match":"tzeltal"}
 {"rank":0.8275862068965517,"original":"Ukrainian (Ukrayins'ka)","id":"ukr","match":"ukrainian"}
 {"rank":0.9230769230769231,"original":"Zapoteco","id":"zap","match":"zapotec"}
-{"rank":1,"original":"mrj","id":"mrj","match":"mrj"}
+{"rank":1,"original":"Myanmar","id":"mya","match":"mrj"}
 {"rank":0.6666666666666666,"original":"mainly English","id":"eng","match":"english"}
 {"rank":1,"original":"Luxembourgish","id":"ltz","match":"luxembourgish"}
 {"rank":1.1428571428571428,"original":"Ibibio","id":"ibb","match":"bib"}
 {"rank":0.8461538461538461,"original":"Middle High (ca. 1050-1500)","id":"gmh","match":"middle high german (ca. 1050-1500)"}
 {"rank":0.7692307692307693,"original":"Romansch","id":"roh","match":"romansh"}
 {"rank":0.5333333333333333,"original":"Flemish Dutch","id":"nld","match":"dutch"}
-{"rank":1,"original":"pl","id":"pol","match":"pl"}
-{"rank":1,"original":"la","id":"lat","match":"la"}
-{"rank":1,"original":"naf","id":"naf","match":"naf"}
-{"rank":1,"original":"mus","id":"mus","match":"mus"}
+{"rank":1,"original":"Mesopotamian Arabic","id":"acm","match":"pl"}
+{"rank":1,"original":"Palula","id":"phl","match":"la"}
+{"rank":1,"original":"Ngomba","id":"jgo","match":"naf"}
+{"rank":1,"original":"Papuan-Australian (Other)","id":"paa","match":"mus"}
 {"rank":0.8235294117647058,"original":"Portguese","id":"por","match":"portuguese"}
 {"rank":0.9333333333333333,"original":"Japanese…","id":"jpn","match":"japanese"}
 {"rank":0.6666666666666666,"original":"Romance Languages","id":"roa","match":"uncoded languages"}
@@ -76,7 +75,7 @@
 {"rank":0.5,"original":"Contemporary American English","id":"eng-US","match":"liberian english"}
 {"rank":0.6363636363636364,"original":"Castillian Spanish","id":"spa","match":"spanish"}
 {"rank":0.6666666666666666,"original":"Maltan","id":"mlt","match":"matal"}
-{"rank":1,"original":"bul","id":"bul","match":"bul"}
+{"rank":1,"original":"Provençal, Old (to 1500)","id":"pro","match":"bul"}
 {"rank":0.8148148148148148,"original":"Arabic (Algeria)","id":"arq","match":"algerian arabic"}
 {"rank":1,"original":"Portuguese(Portugal)","id":"por","match":"portuguese"}
 {"rank":0.5,"original":"Chinese(Simplified)","id":"zho","match":"chinese"}
