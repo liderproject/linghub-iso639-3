@@ -11,6 +11,10 @@ parseLanguageFile()
 var count = 0;
 var languagesDone = {};
 function language(str, done) {
+    str = str.toLowerCase().trim()
+    if(languagesDone[str])
+        return done();
+    languagesDone[str] = true
     count++;
     console.log(count);
     done()
