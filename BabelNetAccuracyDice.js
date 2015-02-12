@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var correct = []
+var correct = {}
 var data = fs.readFileSync('correctAnnotation.json', 'utf-8')
 data = data.split('\n')
 for(var i=0; i<data.length; i++) {
@@ -10,12 +10,10 @@ for(var i=0; i<data.length; i++) {
     } catch(e) {
         continue;
     }
+    obj.original = obj.original.trim().toLowerCase()
     if(!obj.id)
         obj.id = ''
-    correct.push({
-        original: obj.original,
-        id: obj.id
-    })
+    correct[obj.original] = obj.id
 }
 
 var predictions = {}
@@ -29,6 +27,7 @@ for(var i=0; i<data.length; i++) {
         continue;
     }
     // group by original
+    obj.original = obj.original.trim().toLowerCase()
     predictions[obj.original] = []
     for(var x in obj.lemma.isoCode) {
         predictions[obj.original].push(x)
@@ -37,15 +36,24 @@ for(var i=0; i<data.length; i++) {
 
 // find how many matches we have
 var matches = []
-for(var i=0; i<correct.length; i++) {
-    var obj = correct[i]
-    if(predictions[obj.original]) { // match
-        if(predictions[obj.original].indexOf(obj.id) != -1) {
-            // id found in array
-            matches.push(predictions[obj.original])
+var notMatched = []
+for(var prop in correct) {
+    if(predictions[prop]) {
+        // match object now let's check if ISO code is found
+        var id = correct[prop]
+        if(predictions[prop].indexOf(id) != -1) {
+            // match!
+            matches.push(prop)
+        } else {
+            notMatched.push(prop)
         }
+    } else {
+        notMatched.push(prop)
     }
 }
-console.log('Correct set length: ' + correct.length)
+
+var correctLength = Object.keys(correct).length
+console.log('Correct set length: ' + correctLength)
 console.log('Matches: ' +matches.length);
-console.log('Accuracy: %' + (matches.length/correct.length) * 100)
+console.log('Not matched: ', notMatched)
+console.log('Accuracy: %' + (matches.length/correctLength) * 100)

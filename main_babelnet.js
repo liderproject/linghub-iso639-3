@@ -66,7 +66,7 @@ function otherSILfile() {
             }
             // only here SIL_INDEX is filled
             handleSILat(0)
-            fs.writeFile('results.json', '')
+            fs.writeFile('babelnet_all_senses.json', '')
         })
     })
 
@@ -81,7 +81,7 @@ function handleSILat(idx) {
     var str = key
     //var id = SIL_INDEX[key]
     if(!doneStr[str]) {
-        request('http://babelnet.ns0.it/v1/getSenses?word='+str+'%20language&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
+        request('http://babelnet.ns0.it/v1/getSenses?word='+str+'&lang=EN&key=ABF-6Y6NRDquIsfmcJcdOEaQ6cYghxjt', function(err, res, body) {
             doneStr[str] = id;
             try {
                 var arr = JSON.parse(body)
@@ -102,6 +102,11 @@ function handleSILat(idx) {
                     }
                 }
             }
+            // check whether this lemma contains an ISO code
+            var idsLength = Object.keys(ids).length
+            if(!idsLength)
+                return handleSILat(idx + 1);
+
             // re-loop and add the isocode to each object
             var strToWrite = ''
             for(var x in arr) {
@@ -110,7 +115,7 @@ function handleSILat(idx) {
                 arr[x].isoCode = ids 
                 strToWrite += JSON.stringify(arr[x]) + '\n'
             }
-            fs.appendFile('results.json', strToWrite, function(err) {
+            fs.appendFile('babelnet_all_senses.json', strToWrite, function(err) {
                 if(err) console.log(err)
                 handleSILat(idx + 1);
             })
@@ -175,7 +180,7 @@ function handleLangAt(langs, idx, rows, rowIdx) {
 
 function parseLanguageFile() {
     // clear results file
-    fs.writeFile('results.json', '')
+    fs.writeFile('babelnet_all_senses.json', '')
     fs.readFile('language.csv', 'utf-8', function(err, data) {
         if(err) return console.log(err)
         parse(data, function(err, rows) {
