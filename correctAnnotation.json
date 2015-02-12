@@ -98,3 +98,6 @@
 {"rank":1,"original":"Portuguese(Portugal)","id":"por","match":"portuguese"}
 {"rank":0.5,"original":"Chinese(Simplified)","id":"zho","match":"chinese"}
 {"rank":0.6666666666666666,"original":"Bihari","id":"bih","match":"binahari"}
+{"rank":1,"original":"Afrikaans","id":"afr","match":"zuh"}
+{"rank":1,"original":"Amele","id":"aey","match":"aey"}
+{"rank":1,"original":"Telugu","id":"tel","match":"tel"}
