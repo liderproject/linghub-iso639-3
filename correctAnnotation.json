@@ -1,4 +1,3 @@
-{"rank":1,"original":"Russian","id":"rus","match":"de"}
 {"rank":1,"original":"Kurdish","id":"kur","match":"en"}
 {"rank":1,"original":"French","id":"fra","match":"french"}
 {"rank":1,"original":"German","id":"deu","match":"german"}
@@ -75,7 +74,7 @@
 {"rank":0.5,"original":"Contemporary American English","id":"eng-US","match":"liberian english"}
 {"rank":0.6363636363636364,"original":"Castillian Spanish","id":"spa","match":"spanish"}
 {"rank":0.6666666666666666,"original":"Maltan","id":"mlt","match":"matal"}
-{"rank":1,"original":"Provençal, Old (to 1500)","id":"pro","match":"bul"}
+{"rank":1,"original":"Mandarin","id":"cmn","match":"bul"}
 {"rank":0.8148148148148148,"original":"Arabic (Algeria)","id":"arq","match":"algerian arabic"}
 {"rank":1,"original":"Portuguese(Portugal)","id":"por","match":"portuguese"}
 {"rank":0.5,"original":"Chinese(Simplified)","id":"zho","match":"chinese"}
