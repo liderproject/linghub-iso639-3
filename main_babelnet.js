@@ -90,9 +90,9 @@ function handleSILat(idx) {
             }
             var ids = {}
             for(var i in arr) {
-                var lemma = arr[i].lemma
+                var lemma = arr[i].lemma.trim()
                 if(!lemma) continue
-                if(lemma.indexOf('ISO_639') == 0) {
+                if(lemma.indexOf('ISO_639') == 0 || lemma.indexOf('ISO 639') == 0) {
                     var l = lemma.split(':')
                     if(l.length > 1) {
                         var id = l[1]

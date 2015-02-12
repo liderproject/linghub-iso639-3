@@ -12,7 +12,7 @@ for(var i=0; i<data.length; i++) {
     }
     obj.original = obj.original.trim().toLowerCase()
     if(!obj.id)
-        obj.id = ''
+        continue;
     correct[obj.original] = obj.id
 }
 
