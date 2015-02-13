@@ -59,7 +59,7 @@ for(var prop in correct) {
 var correctLength = Object.keys(correct).length
 console.log('Correct set length: ' + correctLength)
 console.log('Matches: ' +matches.length);
-console.log('Not matched: ', notMatched)
+console.log('Not matched: '+ notMatched)
 console.log('Accuracy: %' + (matches.length/correctLength) * 100)
 var sum = 0;
 for( var i = 0; i < matches.length; i++ ){
