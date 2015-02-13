@@ -79,7 +79,7 @@ function otherSILfile() {
 }
 function createBabelNetIndex() {
     var rd = readline.createInterface({
-        input: fs.createReadStream('2results.json'),
+        input: fs.createReadStream('babelnetIsoCodes.json'),
         output: process.stdout,
         terminal: false
     });
@@ -182,6 +182,7 @@ BN.levenshtein = function(input) {
 
 
 function main() {
+
 
     var results = []
 
