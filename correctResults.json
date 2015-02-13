@@ -1,0 +1,3050 @@
+[
+  {
+    "input": "Kurdish",
+    "expected": "kur",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "kur",
+      "label": "kurdish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "kur",
+      "label": "Kurdish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:kur",
+        "ISO_639:kmr",
+        "ISO_639:ku"
+      ],
+      "label": "Kurdish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:kur",
+        "ISO_639:kmr",
+        "ISO_639:ku"
+      ],
+      "label": "Kurdish"
+    }
+  },
+  {
+    "input": "French",
+    "expected": "fra",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "fra",
+      "label": "french"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "fra",
+      "label": "French"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:fra",
+        "ISO_639:fr"
+      ],
+      "label": "French"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:fra",
+        "ISO_639:fr"
+      ],
+      "label": "French"
+    }
+  },
+  {
+    "input": "German",
+    "expected": "deu",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "deu",
+      "label": "german"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "deu",
+      "label": "German"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:de",
+        "ISO_639:deu"
+      ],
+      "label": "German"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:de",
+        "ISO_639:deu"
+      ],
+      "label": "German"
+    }
+  },
+  {
+    "input": "Swedish",
+    "expected": "swe",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "swe",
+      "label": "swedish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "swe",
+      "label": "Swedish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:sv",
+        "ISO_639:swe"
+      ],
+      "label": "Swedish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:sv",
+        "ISO_639:swe"
+      ],
+      "label": "Swedish"
+    }
+  },
+  {
+    "input": "Polish",
+    "expected": "pol",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "pol",
+      "label": "polish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "pol",
+      "label": "Polish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:pol",
+        "ISO_639:pl"
+      ],
+      "label": "Polish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:pol",
+        "ISO_639:pl"
+      ],
+      "label": "Polish"
+    }
+  },
+  {
+    "input": "Japanese",
+    "expected": "jpn",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "jpn",
+      "label": "japanese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "jpn",
+      "label": "Japanese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "Japanese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "Japanese"
+    }
+  },
+  {
+    "input": "Danish",
+    "expected": "dan",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "dan",
+      "label": "danish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "dan",
+      "label": "Danish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:dan",
+        "ISO_639:da"
+      ],
+      "label": "Danish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:dan",
+        "ISO_639:da"
+      ],
+      "label": "Danish"
+    }
+  },
+  {
+    "input": "Lithuanian",
+    "expected": "lit",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "lit",
+      "label": "lithuanian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "lit",
+      "label": "Lithuanian"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:lit",
+        "ISO_639:olt",
+        "ISO_639:lt"
+      ],
+      "label": "Lithuanian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:lit",
+        "ISO_639:olt",
+        "ISO_639:lt"
+      ],
+      "label": "Lithuanian"
+    }
+  },
+  {
+    "input": "Judeo-Persian",
+    "expected": "jpr",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "jpr",
+      "label": "judeo-persian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "jpr",
+      "label": "Judeo-Persian"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:jpr"
+      ],
+      "label": "Judeo-Persian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:jpr"
+      ],
+      "label": "Judeo-Persian"
+    }
+  },
+  {
+    "input": "Kinyarwanda",
+    "expected": "kin",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "kin",
+      "label": "kinyarwanda"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "kin",
+      "label": "Kinyarwanda"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:rw",
+        "ISO_639:kin"
+      ],
+      "label": "kinyarwanda"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:rw",
+        "ISO_639:kin"
+      ],
+      "label": "Kinyarwanda"
+    }
+  },
+  {
+    "input": "Serbian",
+    "expected": "srp",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "srp",
+      "label": "serbian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "srp",
+      "label": "Serbian"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:scc",
+        "ISO_639:srp",
+        "ISO_639:sr"
+      ],
+      "label": "Serbian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:scc",
+        "ISO_639:srp",
+        "ISO_639:sr"
+      ],
+      "label": "Serbian"
+    }
+  },
+  {
+    "input": "english",
+    "expected": "eng",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "eng",
+      "label": "english"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "eng",
+      "label": "english"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:id",
+        "ISO_639:ind"
+      ],
+      "label": "english"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:id",
+        "ISO_639:ind"
+      ],
+      "label": "english"
+    }
+  },
+  {
+    "input": "Bokmål",
+    "expected": "nob",
+    "got_SIL_dice": {
+      "rank": 0.5714285714285714,
+      "iso": "bok",
+      "label": "bok"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 3,
+      "iso": "bdt",
+      "label": "Bokoto"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:nb",
+        "ISO_639:nob"
+      ],
+      "label": "Bokmål"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:nb",
+        "ISO_639:nob"
+      ],
+      "label": "Bokmål"
+    }
+  },
+  {
+    "input": "Hebrew",
+    "expected": "heb",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "heb",
+      "label": "hebrew"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "heb",
+      "label": "Hebrew"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:he",
+        "ISO_639:heb"
+      ],
+      "label": "Hebrew"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:he",
+        "ISO_639:heb"
+      ],
+      "label": "Hebrew"
+    }
+  },
+  {
+    "input": "Wolof",
+    "expected": "wol",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "wol",
+      "label": "wolof"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "wol",
+      "label": "Wolof"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:wol",
+        "ISO_639:wof",
+        "ISO_639:wo"
+      ],
+      "label": "Wolof"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:wol",
+        "ISO_639:wof",
+        "ISO_639:wo"
+      ],
+      "label": "Wolof"
+    }
+  },
+  {
+    "input": "Lojban",
+    "expected": "jbo",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "jbo",
+      "label": "lojban"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "jbo",
+      "label": "Lojban"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:jbo"
+      ],
+      "label": "lojban"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:jbo"
+      ],
+      "label": "Lojban"
+    }
+  },
+  {
+    "input": "Karelian",
+    "expected": "krl",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "krl",
+      "label": "karelian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "krl",
+      "label": "Karelian"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:krl"
+      ],
+      "label": "Karelian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:krl"
+      ],
+      "label": "Karelian"
+    }
+  },
+  {
+    "input": "Burmese",
+    "expected": "mya",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "mya",
+      "label": "burmese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "mya",
+      "label": "Burmese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:mya",
+        "ISO_639:my"
+      ],
+      "label": "Burmese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:mya",
+        "ISO_639:my"
+      ],
+      "label": "Burmese"
+    }
+  },
+  {
+    "input": "Yemba",
+    "expected": "ybb",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ybb",
+      "label": "yemba"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ybb",
+      "label": "Yemba"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ybb"
+      ],
+      "label": "Yemba"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ybb"
+      ],
+      "label": "Yemba"
+    }
+  },
+  {
+    "input": "Syriac",
+    "expected": "syr",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "syr",
+      "label": "syriac"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "syr",
+      "label": "Syriac"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:syr",
+        "ISO_639:syc"
+      ],
+      "label": "Syriac"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:syr",
+        "ISO_639:syc"
+      ],
+      "label": "Syriac"
+    }
+  },
+  {
+    "input": "Setswana",
+    "expected": "tsn",
+    "got_SIL_dice": {
+      "rank": 0.8333333333333334,
+      "iso": "tsn",
+      "label": "tswana"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "tsn",
+      "label": "tswana"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:tn",
+        "ISO_639:tsn"
+      ],
+      "label": "Setswana"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:tn",
+        "ISO_639:tsn"
+      ],
+      "label": "Setswana"
+    }
+  },
+  {
+    "input": "Tshivenda",
+    "expected": "ven",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "ven",
+      "label": "venda"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 4,
+      "iso": "scl",
+      "label": "shina"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ve",
+        "ISO_639:ven"
+      ],
+      "label": "Tshivenda"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ve",
+        "ISO_639:ven"
+      ],
+      "label": "Tshivenda"
+    }
+  },
+  {
+    "input": "Rumanian",
+    "expected": "ron",
+    "got_SIL_dice": {
+      "rank": 0.9333333333333333,
+      "iso": "rup",
+      "label": "arumanian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "ron",
+      "label": "Romanian"
+    },
+    "got_BN_dice": {
+      "rank": 1.0769230769230769,
+      "iso": [
+        "ISO_639:ron",
+        "ISO_639:ro"
+      ],
+      "label": "Rumania"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ron",
+        "ISO_639:ro"
+      ],
+      "label": "Rumanian"
+    }
+  },
+  {
+    "input": "Mooré",
+    "expected": "mos",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "moo",
+      "label": "moo"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "bvf",
+      "label": "boor"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:mos"
+      ],
+      "label": "Mooré"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:mos"
+      ],
+      "label": "Mooré"
+    }
+  },
+  {
+    "input": "Italian Sign Language",
+    "expected": "ise",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ise",
+      "label": "italian sign language"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ise",
+      "label": "Italian Sign Language"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ise",
+        "ISO_639:slf"
+      ],
+      "label": "Italian Sign Language"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ise",
+        "ISO_639:slf"
+      ],
+      "label": "Italian Sign Language"
+    }
+  },
+  {
+    "input": "Yue Chinese",
+    "expected": "yue",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "yue",
+      "label": "yue chinese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "yue",
+      "label": "Yue Chinese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:yue"
+      ],
+      "label": "Yue Chinese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:yue"
+      ],
+      "label": "Yue Chinese"
+    }
+  },
+  {
+    "input": "Achumawi",
+    "expected": "acv",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "acv",
+      "label": "achumawi"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "acv",
+      "label": "Achumawi"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:acv"
+      ],
+      "label": "Achumawi"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:acv"
+      ],
+      "label": "Achumawi"
+    }
+  },
+  {
+    "input": "Malayalam",
+    "expected": "mal",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "lkm",
+      "label": "kalaamaya"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "mal",
+      "label": "Malayalam"
+    },
+    "got_BN_dice": {
+      "rank": 1.1428571428571428,
+      "iso": [
+        "ISO_639:mal",
+        "ISO_639:ml"
+      ],
+      "label": "Malayam"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:mal",
+        "ISO_639:ml"
+      ],
+      "label": "Malayalam"
+    }
+  },
+  {
+    "input": "Achinese",
+    "expected": "ace",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ace",
+      "label": "achinese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ace",
+      "label": "Achinese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ace",
+        "ISO_639-3:ace"
+      ],
+      "label": "Achinese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ace",
+        "ISO_639-3:ace"
+      ],
+      "label": "Achinese"
+    }
+  },
+  {
+    "input": "Englisch",
+    "expected": "eng",
+    "got_SIL_dice": {
+      "rank": 0.7692307692307693,
+      "iso": "eng",
+      "label": "english"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "eng",
+      "label": "English"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "Englisch"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "Englisch"
+    }
+  },
+  {
+    "input": "Pali",
+    "expected": "pli",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "pli",
+      "label": "pali"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "pli",
+      "label": "Pali"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:pli",
+        "ISO_639:pi"
+      ],
+      "label": "pali"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:pli",
+        "ISO_639:pi"
+      ],
+      "label": "Pali"
+    }
+  },
+  {
+    "input": "Ñahñú (Otomí)",
+    "expected": "oto",
+    "got_SIL_dice": {
+      "rank": 0.35294117647058826,
+      "iso": "ttf",
+      "label": "tuotomb"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 7,
+      "iso": "las",
+      "label": "lama (togo)"
+    },
+    "got_BN_dice": {
+      "rank": 0.38095238095238093,
+      "iso": [
+        "ISO_639:omq"
+      ],
+      "label": "Otomí Mangue"
+    },
+    "got_BN_levenshtein": {
+      "rank": 8,
+      "iso": [
+        "ISO_639:otm",
+        "ISO_639:otn",
+        "ISO_639:otx"
+      ],
+      "label": "Sierra Otomí"
+    }
+  },
+  {
+    "input": "Abkhaz",
+    "expected": "abk",
+    "got_SIL_dice": {
+      "rank": 0.7692307692307693,
+      "iso": "abk",
+      "label": "abkhazian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "ahk",
+      "label": "Akha"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ab",
+        "ISO_639:abk"
+      ],
+      "label": "Abkhaz"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ab",
+        "ISO_639:abk"
+      ],
+      "label": "Abkhaz"
+    }
+  },
+  {
+    "input": "Adja",
+    "expected": "ajg",
+    "got_SIL_dice": {
+      "rank": 0.8,
+      "iso": "adj",
+      "label": "adj"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "dja",
+      "label": "dja"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ajg",
+        "ISO_639:aug"
+      ],
+      "label": "Adja"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ajg",
+        "ISO_639:aug"
+      ],
+      "label": "Adja"
+    }
+  },
+  {
+    "input": "Amahuaca",
+    "expected": "amc",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "amc",
+      "label": "amahuaca"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "amc",
+      "label": "Amahuaca"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:amc"
+      ],
+      "label": "Amahuaca"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:amc"
+      ],
+      "label": "Amahuaca"
+    }
+  },
+  {
+    "input": "Amuesha-Yanesha",
+    "expected": "ame",
+    "got_SIL_dice": {
+      "rank": 0.8571428571428571,
+      "iso": "ame",
+      "label": "yanesha'"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "luu",
+      "label": "Lumba-Yakkha"
+    },
+    "got_BN_dice": {
+      "rank": 0.9,
+      "iso": [
+        "ISO_639:ame"
+      ],
+      "label": "Yanesha"
+    },
+    "got_BN_levenshtein": {
+      "rank": 7,
+      "iso": [
+        "ISO_639:gv",
+        "ISO_639:glv"
+      ],
+      "label": "Luenga manesa"
+    }
+  },
+  {
+    "input": "Aymara",
+    "expected": "aym",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "aym",
+      "label": "aymara"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "aym",
+      "label": "Aymara"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ay",
+        "ISO_639:aym",
+        "ISO_639:ayc",
+        "ISO_639:ayr"
+      ],
+      "label": "Aymara"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ay",
+        "ISO_639:aym",
+        "ISO_639:ayc",
+        "ISO_639:ayr"
+      ],
+      "label": "Aymara"
+    }
+  },
+  {
+    "input": "Bemba",
+    "expected": "bem",
+    "got_SIL_dice": {
+      "rank": 0.75,
+      "iso": "agl",
+      "label": "fembe"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "bfp",
+      "label": "Beba"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:bem"
+      ],
+      "label": "Bemba"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:bem"
+      ],
+      "label": "Bemba"
+    }
+  },
+  {
+    "input": "Cakchiquel",
+    "expected": "cak",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "cak",
+      "label": "cakchiquel"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "cak",
+      "label": "Cakchiquel"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ckw",
+        "ISO_639:ckc",
+        "ISO_639:ckd",
+        "ISO_639:cke",
+        "ISO_639:ckf",
+        "ISO_639:cbm",
+        "ISO_639:cki",
+        "ISO_639:ckj",
+        "ISO_639:ckk",
+        "ISO_639:cak"
+      ],
+      "label": "Cakchiquel"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ckw",
+        "ISO_639:ckc",
+        "ISO_639:ckd",
+        "ISO_639:cke",
+        "ISO_639:ckf",
+        "ISO_639:cbm",
+        "ISO_639:cki",
+        "ISO_639:ckj",
+        "ISO_639:ckk",
+        "ISO_639:cak"
+      ],
+      "label": "Cakchiquel"
+    }
+  },
+  {
+    "input": "Dhivehi (Maldivian)",
+    "expected": "div",
+    "got_SIL_dice": {
+      "rank": 0.72,
+      "iso": "div",
+      "label": "maldivian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 10,
+      "iso": "div",
+      "label": "Maldivian"
+    },
+    "got_BN_dice": {
+      "rank": 0.6363636363636364,
+      "iso": [
+        "ISO_639:div",
+        "ISO_639:dv"
+      ],
+      "label": "Divehi"
+    },
+    "got_BN_levenshtein": {
+      "rank": 8,
+      "iso": [
+        "ISO_639:div",
+        "ISO_639:dv"
+      ],
+      "label": "iaith maldivian"
+    }
+  },
+  {
+    "input": "Hausa/Haoussa",
+    "expected": "hau",
+    "got_SIL_dice": {
+      "rank": 0.875,
+      "iso": "hau",
+      "label": "hausa"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "atc",
+      "label": "atsahuaca"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:hau",
+        "ISO_639:ha",
+        "ISO_639:gib"
+      ],
+      "label": "Haoussa"
+    },
+    "got_BN_levenshtein": {
+      "rank": 6,
+      "iso": [
+        "ISO_639:hau",
+        "ISO_639:ha",
+        "ISO_639:gib"
+      ],
+      "label": "Hausa bhasa"
+    }
+  },
+  {
+    "input": "Chin Hakha",
+    "expected": "cnh",
+    "got_SIL_dice": {
+      "rank": 0.8,
+      "iso": "cnh",
+      "label": "haka chin"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "cnh",
+      "label": "Chin, Haka"
+    },
+    "got_BN_dice": {
+      "rank": 0.7272727272727273,
+      "iso": [
+        "ISO_639:ahk"
+      ],
+      "label": "Akha"
+    },
+    "got_BN_levenshtein": {
+      "rank": 3,
+      "iso": [
+        "ISO_639:hak"
+      ],
+      "label": "Chino hakka"
+    }
+  },
+  {
+    "input": "Haitian Creole (Kreyol)",
+    "expected": "hat",
+    "got_SIL_dice": {
+      "rank": 0.875,
+      "iso": "hat",
+      "label": "haitian creole"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 9,
+      "iso": "hat",
+      "label": "Haitian Creole"
+    },
+    "got_BN_dice": {
+      "rank": 0.875,
+      "iso": [
+        "ISO_639:hat",
+        "ISO_639:ht"
+      ],
+      "label": "Haitian Creole"
+    },
+    "got_BN_levenshtein": {
+      "rank": 6,
+      "iso": [
+        "ISO_639:hat",
+        "ISO_639:ht"
+      ],
+      "label": "Haitian Creole French"
+    }
+  },
+  {
+    "input": "Makonde",
+    "expected": "kde",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "kde",
+      "label": "makonde"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "kde",
+      "label": "Makonde"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:kde",
+        "ISO_639:mvw"
+      ],
+      "label": "Makonde"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:kde",
+        "ISO_639:mvw"
+      ],
+      "label": "Makonde"
+    }
+  },
+  {
+    "input": "Luganda/Ganda",
+    "expected": "lug",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "lug",
+      "label": "ganda"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 5,
+      "iso": "bpd",
+      "label": "banda-banda"
+    },
+    "got_BN_dice": {
+      "rank": 1.1111111111111112,
+      "iso": [
+        "ISO_639:lug",
+        "ISO_639:lg"
+      ],
+      "label": "Luganda"
+    },
+    "got_BN_levenshtein": {
+      "rank": 4,
+      "iso": [
+        "ISO_639:lug",
+        "ISO_639:lg"
+      ],
+      "label": "Luganda kalba"
+    }
+  },
+  {
+    "input": "Lingala",
+    "expected": "lin",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "lin",
+      "label": "lingala"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "lin",
+      "label": "Lingala"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:lin",
+        "ISO_639:ln"
+      ],
+      "label": "lingala"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:lin",
+        "ISO_639:ln"
+      ],
+      "label": "Lingala"
+    }
+  },
+  {
+    "input": "Sharanahua",
+    "expected": "mcd",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "mcd",
+      "label": "sharanahua"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "mcd",
+      "label": "Sharanahua"
+    },
+    "got_BN_dice": {
+      "rank": 0.875,
+      "iso": [
+        "ISO_639:auf"
+      ],
+      "label": "Arahuana"
+    },
+    "got_BN_levenshtein": {
+      "rank": 3,
+      "iso": [
+        "ISO_639:xip",
+        "ISO_639:kaq",
+        "ISO_639:shp"
+      ],
+      "label": "Capanahua"
+    }
+  },
+  {
+    "input": "Malagasy",
+    "expected": "mlg",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "mlg",
+      "label": "malagasy"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "mlg",
+      "label": "Malagasy"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:skg",
+        "ISO_639:txy",
+        "ISO_639:bzc",
+        "ISO_639:msh",
+        "ISO_639:tdx",
+        "ISO_639:bjq",
+        "ISO_639:bmm",
+        "ISO_639:tkg",
+        "ISO_639:plt",
+        "ISO_639:xmw",
+        "ISO_639:xmv",
+        "ISO_639:mg",
+        "ISO_639:bhr",
+        "ISO_639:mlg"
+      ],
+      "label": "Malagasy"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:skg",
+        "ISO_639:txy",
+        "ISO_639:bzc",
+        "ISO_639:msh",
+        "ISO_639:tdx",
+        "ISO_639:bjq",
+        "ISO_639:bmm",
+        "ISO_639:tkg",
+        "ISO_639:plt",
+        "ISO_639:xmw",
+        "ISO_639:xmv",
+        "ISO_639:mg",
+        "ISO_639:bhr",
+        "ISO_639:mlg"
+      ],
+      "label": "Malagasy"
+    }
+  },
+  {
+    "input": "Lamnso' (Lám nso')",
+    "expected": "lns",
+    "got_SIL_dice": {
+      "rank": 0.9523809523809523,
+      "iso": "lns",
+      "label": "lamnso'"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 10,
+      "iso": "laj",
+      "label": "Lango (Uganda)"
+    },
+    "got_BN_dice": {
+      "rank": 0.8695652173913043,
+      "iso": [
+        "ISO_639:lns"
+      ],
+      "label": "Kilamnso'"
+    },
+    "got_BN_levenshtein": {
+      "rank": 9,
+      "iso": [
+        "ISO_639:lns"
+      ],
+      "label": "Lenga Lamnso'"
+    }
+  },
+  {
+    "input": "Quechua de Cotahuasi (Arequipa)",
+    "expected": "qxu",
+    "got_SIL_dice": {
+      "rank": 0.6923076923076923,
+      "iso": "qxt",
+      "label": "santa ana de tusi pasco quechua"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 17,
+      "iso": "qws",
+      "label": "Quechua, Sihuas Ancash"
+    },
+    "got_BN_dice": {
+      "rank": 0.6923076923076923,
+      "iso": [
+        "ISO_639:qxt",
+        "ISO_639:qva",
+        "ISO_639:qvn",
+        "ISO_639:qur"
+      ],
+      "label": "Santa Ana de Tusi Pasco Quechua"
+    },
+    "got_BN_levenshtein": {
+      "rank": 17,
+      "iso": [
+        "ISO_639:qvp"
+      ],
+      "label": "Quechua de Pacaraos"
+    }
+  },
+  {
+    "input": "Sundanese",
+    "expected": "sun",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "sun",
+      "label": "sundanese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "sun",
+      "label": "Sundanese"
+    },
+    "got_BN_dice": {
+      "rank": 0.9333333333333333,
+      "iso": [
+        "ISO_639:su",
+        "ISO_639:bac",
+        "ISO_639:sun"
+      ],
+      "label": "Sundanes"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:su",
+        "ISO_639:bac",
+        "ISO_639:sun"
+      ],
+      "label": "Sundanes"
+    }
+  },
+  {
+    "input": "Themne (Temne)",
+    "expected": "tem",
+    "got_SIL_dice": {
+      "rank": 0.5714285714285714,
+      "iso": "emn",
+      "label": "emn"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "chp",
+      "label": "dene suline"
+    },
+    "got_BN_dice": {
+      "rank": 0.9411764705882353,
+      "iso": [
+        "ISO_639:tem"
+      ],
+      "label": "Themne"
+    },
+    "got_BN_levenshtein": {
+      "rank": 7,
+      "iso": [
+        "ISO_639:ang"
+      ],
+      "label": "hen saesneg"
+    }
+  },
+  {
+    "input": "Toba",
+    "expected": "tob",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "tob",
+      "label": "toba"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "tob",
+      "label": "Toba"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:tob"
+      ],
+      "label": "Toba"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:tob"
+      ],
+      "label": "Toba"
+    }
+  },
+  {
+    "input": "Turkish (Türkçe)",
+    "expected": "tur",
+    "got_SIL_dice": {
+      "rank": 0.7,
+      "iso": "tur",
+      "label": "turkish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "crh",
+      "label": "Turkish, Crimean"
+    },
+    "got_BN_dice": {
+      "rank": 0.7,
+      "iso": [
+        "ISO_639:tr",
+        "ISO_639:tur"
+      ],
+      "label": "Turkish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 6,
+      "iso": [
+        "ISO_639:tr",
+        "ISO_639:tur"
+      ],
+      "label": "Türkiye Türkçesi"
+    }
+  },
+  {
+    "input": "Tzeltal",
+    "expected": "tzh",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "tzh",
+      "label": "tzeltal"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "tzh",
+      "label": "Tzeltal"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:tzh",
+        "ISO_639:tzb"
+      ],
+      "label": "Tzeltal"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:tzh",
+        "ISO_639:tzb"
+      ],
+      "label": "Tzeltal"
+    }
+  },
+  {
+    "input": "Ukrainian (Ukrayins'ka)",
+    "expected": "ukr",
+    "got_SIL_dice": {
+      "rank": 0.8275862068965517,
+      "iso": "ukr",
+      "label": "ukrainian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 12,
+      "iso": "ukl",
+      "label": "Ukrainian Sign Language"
+    },
+    "got_BN_dice": {
+      "rank": 0.8275862068965517,
+      "iso": [
+        "ISO_639:ukr",
+        "ISO_639:uk"
+      ],
+      "label": "Ukrainian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 10,
+      "iso": [
+        "ISO_639:ukr",
+        "ISO_639:uk"
+      ],
+      "label": "Ukrainian bhasa"
+    }
+  },
+  {
+    "input": "Zapoteco",
+    "expected": "zap",
+    "got_SIL_dice": {
+      "rank": 0.9230769230769231,
+      "iso": "zap",
+      "label": "zapotec"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "zap",
+      "label": "Zapotec"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:zap"
+      ],
+      "label": "Zapoteco"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:zap"
+      ],
+      "label": "Zapoteco"
+    }
+  },
+  {
+    "input": "Myanmar",
+    "expected": "mya",
+    "got_SIL_dice": {
+      "rank": 0.7058823529411765,
+      "iso": "pyx",
+      "label": "pyu (myanmar)"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "mdr",
+      "label": "Mandar"
+    },
+    "got_BN_dice": {
+      "rank": 0.8571428571428571,
+      "iso": [
+        "ISO_639:mya",
+        "ISO_639:my"
+      ],
+      "label": "Myanmarsk"
+    },
+    "got_BN_levenshtein": {
+      "rank": 2,
+      "iso": [
+        "ISO_639:mya",
+        "ISO_639:my"
+      ],
+      "label": "Myanmasa"
+    }
+  },
+  {
+    "input": "mainly English",
+    "expected": "eng",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "eng",
+      "label": "english"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 7,
+      "iso": "eng",
+      "label": "English"
+    },
+    "got_BN_dice": {
+      "rank": 0.6666666666666666,
+      "iso": [
+        "ISO_639:id",
+        "ISO_639:ind"
+      ],
+      "label": "english"
+    },
+    "got_BN_levenshtein": {
+      "rank": 5,
+      "iso": [
+        "ISO_639:ang"
+      ],
+      "label": "Old English"
+    }
+  },
+  {
+    "input": "Luxembourgish",
+    "expected": "ltz",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ltz",
+      "label": "luxembourgish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ltz",
+      "label": "Luxembourgish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ltz",
+        "ISO_639:lb"
+      ],
+      "label": "Luxembourgish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ltz",
+        "ISO_639:lb"
+      ],
+      "label": "Luxembourgish"
+    }
+  },
+  {
+    "input": "Ibibio",
+    "expected": "ibb",
+    "got_SIL_dice": {
+      "rank": 1.1428571428571428,
+      "iso": "bib",
+      "label": "bib"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ibb",
+      "label": "Ibibio"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ibb"
+      ],
+      "label": "Ibibio"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ibb"
+      ],
+      "label": "Ibibio"
+    }
+  },
+  {
+    "input": "Middle High (ca. 1050-1500)",
+    "expected": "gmh",
+    "got_SIL_dice": {
+      "rank": 0.8679245283018868,
+      "iso": "gmh",
+      "label": "German, Middle High (ca. 1050-1500)"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 6,
+      "iso": "dum",
+      "label": "Middle Dutch (ca. 1050-1350)"
+    },
+    "got_BN_dice": {
+      "rank": 0.47368421052631576,
+      "iso": [
+        "ISO_639:gmh"
+      ],
+      "label": "Middle High German"
+    },
+    "got_BN_levenshtein": {
+      "rank": 15,
+      "iso": [
+        "ISO_639:gmh"
+      ],
+      "label": "Middle High German"
+    }
+  },
+  {
+    "input": "Romansch",
+    "expected": "roh",
+    "got_SIL_dice": {
+      "rank": 0.7692307692307693,
+      "iso": "roh",
+      "label": "romansh"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "roh",
+      "label": "Romansh"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:roh",
+        "ISO_639:rm"
+      ],
+      "label": "Romansch"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:roh",
+        "ISO_639:rm"
+      ],
+      "label": "Romansch"
+    }
+  },
+  {
+    "input": "Flemish Dutch",
+    "expected": "nld",
+    "got_SIL_dice": {
+      "rank": 0.7058823529411765,
+      "iso": "nld",
+      "label": "flemish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 6,
+      "iso": "nld",
+      "label": "Flemish"
+    },
+    "got_BN_dice": {
+      "rank": 0.8695652173913043,
+      "iso": [
+        "ISO_639:vls",
+        "ISO_639:dut"
+      ],
+      "label": "Flemish-Dutch"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:vls",
+        "ISO_639:dut"
+      ],
+      "label": "Flemish-Dutch"
+    }
+  },
+  {
+    "input": "Mesopotamian Arabic",
+    "expected": "acm",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "acm",
+      "label": "mesopotamian arabic"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "acm",
+      "label": "Mesopotamian Arabic"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:acm"
+      ],
+      "label": "Mesopotamian Arabic"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:acm"
+      ],
+      "label": "Mesopotamian Arabic"
+    }
+  },
+  {
+    "input": "Palula",
+    "expected": "phl",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "phl",
+      "label": "palula"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "phl",
+      "label": "Palula"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:phl"
+      ],
+      "label": "Palula"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:phl"
+      ],
+      "label": "Palula"
+    }
+  },
+  {
+    "input": "Ngomba",
+    "expected": "jgo",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "jgo",
+      "label": "ngomba"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "jgo",
+      "label": "Ngomba"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:jgo"
+      ],
+      "label": "Ngomba"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:jgo"
+      ],
+      "label": "Ngomba"
+    }
+  },
+  {
+    "input": "Papuan-Australian (Other)",
+    "expected": "paa",
+    "got_SIL_dice": {
+      "rank": 0.5263157894736842,
+      "iso": "zma",
+      "label": "manda (australia)"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 13,
+      "iso": "zma",
+      "label": "Manda (Australia)"
+    },
+    "got_BN_dice": {
+      "rank": 0.6,
+      "iso": [
+        "ISO_639:aus"
+      ],
+      "label": "Lenghe australian-e"
+    },
+    "got_BN_levenshtein": {
+      "rank": 13,
+      "iso": [
+        "ISO_639:aus"
+      ],
+      "label": "Linguae Australianae"
+    }
+  },
+  {
+    "input": "Portguese",
+    "expected": "por",
+    "got_SIL_dice": {
+      "rank": 0.8235294117647058,
+      "iso": "por",
+      "label": "portuguese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "por",
+      "label": "Portuguese"
+    },
+    "got_BN_dice": {
+      "rank": 0.8235294117647058,
+      "iso": [
+        "ISO_639:por",
+        "ISO_639:pt"
+      ],
+      "label": "Portuguese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:por",
+        "ISO_639:pt"
+      ],
+      "label": "Portuguese"
+    }
+  },
+  {
+    "input": "Japanese…",
+    "expected": "jpn",
+    "got_SIL_dice": {
+      "rank": 0.9333333333333333,
+      "iso": "jpn",
+      "label": "japanese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "jpn",
+      "label": "Japanese"
+    },
+    "got_BN_dice": {
+      "rank": 0.9333333333333333,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "Japanese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "Japanese"
+    }
+  },
+  {
+    "input": "Romance Languages",
+    "expected": "roa",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "mis",
+      "label": "uncoded languages"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "mis",
+      "label": "uncoded languages"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:roa"
+      ],
+      "label": "RomanceLanguages"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:roa"
+      ],
+      "label": "Romance Languages"
+    }
+  },
+  {
+    "input": "English (non-native)",
+    "expected": "eng",
+    "got_SIL_dice": {
+      "rank": 0.5,
+      "iso": "eng",
+      "label": "english"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 12,
+      "iso": "lir",
+      "label": "English, Liberian"
+    },
+    "got_BN_dice": {
+      "rank": 0.6428571428571429,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "Non-English"
+    },
+    "got_BN_levenshtein": {
+      "rank": 9,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "English language"
+    }
+  },
+  {
+    "input": "japanese",
+    "expected": "jpn",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "jpn",
+      "label": "japanese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "jpn",
+      "label": "japanese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "Japanese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ja",
+        "ISO_639:jpn"
+      ],
+      "label": "japanese"
+    }
+  },
+  {
+    "input": "Contemporary American English",
+    "expected": "eng-US",
+    "got_SIL_dice": {
+      "rank": 0.5,
+      "iso": "lir",
+      "label": "liberian english"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 16,
+      "iso": "cpi",
+      "label": "Chinese Pidgin English"
+    },
+    "got_BN_dice": {
+      "rank": 0.7,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "American English"
+    },
+    "got_BN_levenshtein": {
+      "rank": 13,
+      "iso": [
+        "ISO_639:en",
+        "ISO_639:eng"
+      ],
+      "label": "American English"
+    }
+  },
+  {
+    "input": "Castillian Spanish",
+    "expected": "spa",
+    "got_SIL_dice": {
+      "rank": 0.75,
+      "iso": "spa",
+      "label": "castilian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 9,
+      "iso": "osp",
+      "label": "Old Spanish"
+    },
+    "got_BN_dice": {
+      "rank": 0.8148148148148148,
+      "iso": [
+        "ISO_639:es",
+        "ISO_639:spa"
+      ],
+      "label": "Castilliaans"
+    },
+    "got_BN_levenshtein": {
+      "rank": 6,
+      "iso": [
+        "ISO_639:es",
+        "ISO_639:spa"
+      ],
+      "label": "Castilliaans"
+    }
+  },
+  {
+    "input": "Maltan",
+    "expected": "mlt",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "mfh",
+      "label": "matal"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "imy",
+      "label": "Milyan"
+    },
+    "got_BN_dice": {
+      "rank": 0.8888888888888888,
+      "iso": [
+        "ISO_639:mt",
+        "ISO_639:mlt"
+      ],
+      "label": "Malta"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:mt",
+        "ISO_639:mlt"
+      ],
+      "label": "Malta"
+    }
+  },
+  {
+    "input": "Mandarin",
+    "expected": "cmn",
+    "got_SIL_dice": {
+      "rank": 0.9230769230769231,
+      "iso": "mqu",
+      "label": "mandari"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 1,
+      "iso": "mqu",
+      "label": "Mandari"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:cmn"
+      ],
+      "label": "Mandarin"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:cmn"
+      ],
+      "label": "Mandarin"
+    }
+  },
+  {
+    "input": "Arabic (Algeria)",
+    "expected": "arq",
+    "got_SIL_dice": {
+      "rank": 0.8148148148148148,
+      "iso": "arq",
+      "label": "algerian arabic"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 3,
+      "iso": "arq",
+      "label": "Arabic, Algerian"
+    },
+    "got_BN_dice": {
+      "rank": 0.8148148148148148,
+      "iso": [
+        "ISO_639:arq"
+      ],
+      "label": "Algerian arabic"
+    },
+    "got_BN_levenshtein": {
+      "rank": 5,
+      "iso": [
+        "ISO_639:arq"
+      ],
+      "label": "Arabeg Aljeria"
+    }
+  },
+  {
+    "input": "Portuguese(Portugal)",
+    "expected": "por",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "por",
+      "label": "portuguese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 10,
+      "iso": "por",
+      "label": "Portuguese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:por",
+        "ISO_639:pt"
+      ],
+      "label": "Portuguese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 8,
+      "iso": [
+        "ISO_639:por",
+        "ISO_639:pt"
+      ],
+      "label": "Portuguese language"
+    }
+  },
+  {
+    "input": "Chinese(Simplified)",
+    "expected": "zho",
+    "got_SIL_dice": {
+      "rank": 0.5,
+      "iso": "zho",
+      "label": "chinese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 10,
+      "iso": "och",
+      "label": "Chinese, Old"
+    },
+    "got_BN_dice": {
+      "rank": 0.5714285714285714,
+      "iso": [
+        "ISO_639:zh-Hant"
+      ],
+      "label": "Complicated Chinese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 9,
+      "iso": [
+        "ISO_639:zho",
+        "ISO_639:zh",
+        "ISO_639:cjy"
+      ],
+      "label": "Chinês simples"
+    }
+  },
+  {
+    "input": "Bihari",
+    "expected": "bih",
+    "got_SIL_dice": {
+      "rank": 0.6666666666666666,
+      "iso": "bxz",
+      "label": "binahari"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 2,
+      "iso": "beh",
+      "label": "Biali"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:hi",
+        "ISO_639:hin"
+      ],
+      "label": "Bihari"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:hi",
+        "ISO_639:hin"
+      ],
+      "label": "Bihari"
+    }
+  },
+  {
+    "input": "Afrikaans",
+    "expected": "afr",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "afr",
+      "label": "afrikaans"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "afr",
+      "label": "Afrikaans"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:afr",
+        "ISO_639:af",
+        "ISO_639-3:afr"
+      ],
+      "label": "afrikaans"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:afr",
+        "ISO_639:af",
+        "ISO_639-3:afr"
+      ],
+      "label": "Afrikaans"
+    }
+  },
+  {
+    "input": "Amele",
+    "expected": "aey",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "aey",
+      "label": "amele"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "aey",
+      "label": "Amele"
+    },
+    "got_BN_dice": {
+      "rank": 0.8,
+      "iso": [
+        "ISO_639:dml"
+      ],
+      "label": "Dameleg"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "Vikipedio:Lingvoj/ISO_639-3_ade",
+        "ISO_639:ade"
+      ],
+      "label": "Adele"
+    }
+  },
+  {
+    "input": "Telugu",
+    "expected": "tel",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "tel",
+      "label": "telugu"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "tel",
+      "label": "Telugu"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:wbq",
+        "ISO_639:te",
+        "ISO_639:tel",
+        "ISO_639:mju"
+      ],
+      "label": "Telugu"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:wbq",
+        "ISO_639:te",
+        "ISO_639:tel",
+        "ISO_639:mju"
+      ],
+      "label": "Telugu"
+    }
+  },
+  {
+    "input": "Scots",
+    "expected": "sco",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "sco",
+      "label": "scots"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "sco",
+      "label": "Scots"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:sco"
+      ],
+      "label": "Scots"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:sco"
+      ],
+      "label": "Scots"
+    }
+  },
+  {
+    "input": "romanian",
+    "expected": "ron",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ron",
+      "label": "romanian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ron",
+      "label": "romanian"
+    },
+    "got_BN_dice": {
+      "rank": 1.0769230769230769,
+      "iso": [
+        "ISO_639:ron",
+        "ISO_639:ro"
+      ],
+      "label": "romania"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ron",
+        "ISO_639:ro"
+      ],
+      "label": "romanian"
+    }
+  },
+  {
+    "input": "Aragonese",
+    "expected": "arg",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "arg",
+      "label": "aragonese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "arg",
+      "label": "Aragonese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:arg",
+        "ISO_639:an"
+      ],
+      "label": "Aragonese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:arg",
+        "ISO_639:an"
+      ],
+      "label": "Aragonese"
+    }
+  },
+  {
+    "input": "Erzya",
+    "expected": "myv",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "myv",
+      "label": "erzya"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "myv",
+      "label": "Erzya"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:myv"
+      ],
+      "label": "Erzya"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:myv"
+      ],
+      "label": "Erzya"
+    }
+  },
+  {
+    "input": "Irish",
+    "expected": "gle",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "gle",
+      "label": "irish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "gle",
+      "label": "Irish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ga",
+        "ISO_639:gle"
+      ],
+      "label": "Irish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ga",
+        "ISO_639:gle"
+      ],
+      "label": "Irish"
+    }
+  },
+  {
+    "input": "No linguistic content",
+    "expected": "zxx",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "zxx",
+      "label": "no linguistic content"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "zxx",
+      "label": "No linguistic content"
+    },
+    "got_BN_dice": {
+      "rank": 0.625,
+      "iso": [
+        "ISO_639:roa"
+      ],
+      "label": "romantico lingua"
+    },
+    "got_BN_levenshtein": {
+      "rank": 11,
+      "iso": [
+        "ISO_639:pms"
+      ],
+      "label": "lingua piemontese"
+    }
+  },
+  {
+    "input": "Traditional Chinese",
+    "expected": "zho",
+    "got_SIL_dice": {
+      "rank": 0.5217391304347826,
+      "iso": "zho",
+      "label": "chinese"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "cmn",
+      "label": "Mandarin Chinese"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:zh-Hant"
+      ],
+      "label": "Traditional Chinese"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:zh-Hant"
+      ],
+      "label": "Traditional Chinese"
+    }
+  },
+  {
+    "input": "Czech",
+    "expected": "ces",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "ces",
+      "label": "czech"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "ces",
+      "label": "Czech"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ces",
+        "ISO_639:cs"
+      ],
+      "label": "Czech"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:ces",
+        "ISO_639:cs"
+      ],
+      "label": "Czech"
+    }
+  },
+  {
+    "input": "Irish Sign Language",
+    "expected": "isg",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "isg",
+      "label": "irish sign language"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "isg",
+      "label": "Irish Sign Language"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:isg"
+      ],
+      "label": "Irish Sign Language"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:isg"
+      ],
+      "label": "Irish Sign Language"
+    }
+  },
+  {
+    "input": "Icelandic",
+    "expected": "isl",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "isl",
+      "label": "icelandic"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "isl",
+      "label": "Icelandic"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:isl",
+        "ISO_639:is"
+      ],
+      "label": "Icelandic"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:isl",
+        "ISO_639:is"
+      ],
+      "label": "Icelandic"
+    }
+  },
+  {
+    "input": "persian",
+    "expected": "fas",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "fas",
+      "label": "persian"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "fas",
+      "label": "persian"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:phv",
+        "ISO_639:tnf",
+        "ISO_639:fa",
+        "ISO_639:prp",
+        "ISO_639:drw",
+        "ISO_639:deh",
+        "ISO_639:fas",
+        "ISO_639:pes",
+        "ISO_639:prs"
+      ],
+      "label": "Persian"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:phv",
+        "ISO_639:tnf",
+        "ISO_639:fa",
+        "ISO_639:prp",
+        "ISO_639:drw",
+        "ISO_639:deh",
+        "ISO_639:fas",
+        "ISO_639:pes",
+        "ISO_639:prs"
+      ],
+      "label": "persian"
+    }
+  },
+  {
+    "input": "Spanish",
+    "expected": "spa",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "spa",
+      "label": "spanish"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "spa",
+      "label": "Spanish"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:es",
+        "ISO_639:spa"
+      ],
+      "label": "Spanish"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:es",
+        "ISO_639:spa"
+      ],
+      "label": "Spanish"
+    }
+  },
+  {
+    "input": "amazigh",
+    "expected": "ber",
+    "got_SIL_dice": {
+      "rank": 0.5454545454545454,
+      "iso": "tia",
+      "label": "tidikelt tamazight"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 3,
+      "iso": "aew",
+      "label": "ambakich"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ber"
+      ],
+      "label": "Amazigh"
+    },
+    "got_BN_levenshtein": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:ber"
+      ],
+      "label": "Amazigh"
+    }
+  },
+  {
+    "input": "Kazakh",
+    "expected": "kaz",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "kaz",
+      "label": "kazakh"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "kaz",
+      "label": "Kazakh"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:kaz",
+        "ISO_639:kk"
+      ],
+      "label": "Kazakh"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:kaz",
+        "ISO_639:kk"
+      ],
+      "label": "Kazakh"
+    }
+  },
+  {
+    "input": "Latin",
+    "expected": "lat",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "lat",
+      "label": "latin"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "lat",
+      "label": "Latin"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:lat",
+        "ISO_639:la"
+      ],
+      "label": "Latin"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:lat",
+        "ISO_639:la"
+      ],
+      "label": "Latin"
+    }
+  },
+  {
+    "input": "Hindi",
+    "expected": "hin",
+    "got_SIL_dice": {
+      "rank": 1,
+      "iso": "hin",
+      "label": "hindi"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 0,
+      "iso": "hin",
+      "label": "Hindi"
+    },
+    "got_BN_dice": {
+      "rank": 1,
+      "iso": [
+        "ISO_639:hi",
+        "ISO_639:hin"
+      ],
+      "label": "hindi"
+    },
+    "got_BN_levenshtein": {
+      "rank": 0,
+      "iso": [
+        "ISO_639:hi",
+        "ISO_639:hin"
+      ],
+      "label": "Hindi"
+    }
+  },
+  {
+    "input": "South African Zulu",
+    "expected": "zul",
+    "got_SIL_dice": {
+      "rank": 0.5789473684210527,
+      "iso": "sfs",
+      "label": "south african sign language"
+    },
+    "got_SIL_levenshtein": {
+      "rank": 8,
+      "iso": "nxl",
+      "label": "South Nuaulu"
+    },
+    "got_BN_dice": {
+      "rank": 0.7096774193548387,
+      "iso": [
+        "ISO_639:afr",
+        "ISO_639:af",
+        "ISO_639-3:afr"
+      ],
+      "label": "South African Dutch"
+    },
+    "got_BN_levenshtein": {
+      "rank": 4,
+      "iso": [
+        "ISO_639:afr",
+        "ISO_639:af",
+        "ISO_639-3:afr"
+      ],
+      "label": "South African Dutch"
+    }
+  }
+]
