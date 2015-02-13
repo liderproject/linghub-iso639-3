@@ -1,16 +1,15 @@
 var fs = require('fs')
+var readline = require('readline')
+var request = require('request')
 var parse = require('csv-parse')
 
 // found here: https://gist.github.com/doorhammer/9957864
 var similarity = require('./similarity.js')
 var levenshteinenator = require('./levenshtein.js')
 
-var SIL_INDEX = {};
-var LOW_RANKED = [];
+var SIL = {}
+SIL.index = {}
 
-// let's read the official SIL data
-// and build an index of it in memory
-// so we can search against it
 fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 'utf-8', function(err, data) {
     if(err) return console.log(err)
     parse(data, {delimiter: '\t'}, function(err, output) {
@@ -26,7 +25,7 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 
             // here we should build an index
             lang = lang.toLowerCase()
 
-            SIL_INDEX[lang] = id
+            SIL.index[lang] = id
 
             // ids in the SIL data could spread 4 columns
             var ids = []
@@ -35,7 +34,7 @@ fs.readFile('iso-639-3_Code_Tables_20150112/iso-639-3_Name_Index_20150112.tab', 
             }
 
             for(var x in ids) {
-                SIL_INDEX[ids[x]] = id
+                SIL.index[ids[x]] = id
             }
         }
         // only here SIL_INDEX is filled
@@ -59,7 +58,7 @@ function otherSILfile() {
                 // here we should build an index
                 lang = lang.toLowerCase()
 
-                SIL_INDEX[lang] = id
+                SIL.index[lang] = id
 
                 // ids in the SIL data could spread 4 columns
                 var ids = []
@@ -68,118 +67,150 @@ function otherSILfile() {
                 }
 
                 for(var x in ids) {
-                    SIL_INDEX[ids[x]] = id
+                    SIL.index[ids[x]] = id
                 }
             }
             // only here SIL_INDEX is filled
-            parseLanguageFile()
+            // now let's create the babelnet index
+            createBabelNetIndex()
         })
     })
 
 }
-
-// this is called for each row of languages.csv
-// langs is array because a cell in a row can contain
-// multiple languages such as "Italian,English"
-// therefore langs has ['Italian', 'English']
-function language(langs, done) {
-    var strToWrite = ''
-    for(var y=0; y<langs.length; y++) {
-        // run string similarity algorithm
-        // against the SIL_INDEX
-        // and see which ranks the highest
-        var str = langs[y].trim()
-        var original = str
-        str = str.toLowerCase()
-
-        // iterate SIL_INDEX - should perhaps be just search (build better index)
-        var obj = {
-            rank: 0,
-            original: original
-        };
-        if(original === "LI") {
-            obj.rank = 1
-            obj.id = "und"
-            obj.match = "LI"
-        } else if(original === "greek") {
-            obj.rank = 1
-            obj.id = "ell"
-            obj.match = "greek"
-        } else if(original == "Castilian") {
-            obj.rank = 1
-            obj.id = "spa"
-            obj.match = "spanish"
-        } else if(original == "flemish") {
-            obj.rank = 1
-            obj.id = "nld-BE"
-            obj.match = "flemish"
+function createBabelNetIndex() {
+    var rd = readline.createInterface({
+        input: fs.createReadStream('2results.json'),
+        output: process.stdout,
+        terminal: false
+    });
+    rd.on('line', function(line) {
+        // here's contents of a line
+        // {"lemma":"Anglo Saxon language","isoCodes":["ISO_639:ang"]}
+        try {
+            var obj = JSON.parse(line)
+        } catch(e) {
+            return;
         }
-        // for each word look at the SIL index
-        for(var i in SIL_INDEX) {
-            var rank = similarity.similarity(str, i);
-            //var rank = levenshteinenator.levenshteinenator(str, i);
+        BN.index.push(obj);
+    });
+    rd.on('close', function(line) {
+        // DONE
+        main()
+    })
+}
 
-            if(rank > obj.rank) {
-                obj.rank = rank
-                obj.id = SIL_INDEX[i]
-                obj.match = i
-            }
+// gets highest rankd
+SIL.dice = function(input) {
+    var highest = {
+        rank: 0,
+        iso: ''
+    }
+    for(var i in SIL.index) {
+        var rank = similarity.similarity(input, i);
+        if(rank > highest.rank) {
+            highest.rank = rank
+            highest.iso = SIL.index[i]
+            highest.label = i
         }
-        strToWrite += JSON.stringify(obj) + '\n'
     }
-    fs.appendFile('results.json', strToWrite, function(err) {
-        if(err) console.log(err)
-        done()
-    })
+    return highest;
 }
-
-function handleSplitContent(rows, idx) {
-    var row = rows[idx];
-    if(!row) return; // finished recursion
-    var langs = row[1]
-    langs = JSON.parse(langs)
-    langs = langs.split(/[,;]+/)
-    language(langs, function() {
-        // call recursively after it has written to results.json
-        handleSplitContent(rows, idx + 1)
-    })
-}
-
-function handleRowAt(rows, idx) {
-    // rows is array of arrays (rows)
-    var row = rows[idx];
-    if(!row) { // finished recursion
-        // start handling the content by splitting it 
-        // (could be the ones with commas and ;)
-        //handleSplitContent(rows, 0)
-        return;
+SIL.levenshtein = function(input) {
+    var highest = {
+        rank: 10000,
+        iso: ''
     }
-    // second column is the string
-    var langs = row[1]
-    // they're surrounded by double quotes
-    // JSON.parse thinks it's a JSON string
-    langs = JSON.parse(langs)
-    // XXX splitting by , or ; is ok in many occasion
-    // but also not ok in others. best would be to run ranking
-    // and rerun it on split only for the low ranked
-    //langs = [langs]
-    langs = langs.split(/[,;]+/)
-    
-
-    language(langs, function() {
-        // call recursively after it has written to results.json
-        handleRowAt(rows, idx + 1)
-    })
+    for(var i in SIL.index) {
+        var distArray = levenshteinenator.levenshteinenator(input, i);
+        var rank = distArray[ distArray.length - 1 ][ distArray[ distArray.length - 1 ].length - 1 ];
+        if(rank < highest.rank) {
+            highest.rank = rank
+            highest.iso = SIL.index[i]
+            highest.label = i
+        }
+    }
+    return highest;
 }
 
-function parseLanguageFile() {
-    // clear results file
-    fs.writeFile('results.json', '')
-    fs.readFile('language.csv', 'utf-8', function(err, data) {
-        if(err) return console.log(err)
-        parse(data, function(err, rows) {
-            if(err) return console.log(err)
-            handleRowAt(rows, 0)
-        })
-    })
+var BN = {}
+BN.index = []
+
+BN.dice = function(input) {
+    var highest = {
+        rank: 0,
+        iso: ''
+    }
+    for(var i=0; i<BN.index.length; i++) {
+        var obj = BN.index[i];
+
+        // let's put both lowercase and trim
+        var lemma = obj.lemma;
+
+        var rank = similarity.similarity(input, lemma);
+
+        if(rank > highest.rank) {
+            highest.rank = rank
+            highest.iso = obj.isoCodes
+            highest.label = lemma
+        }
+    }
+    return highest;
+}
+BN.levenshtein = function(input) {
+    var highest = {
+        rank: 10000,
+        iso: ''
+    }
+    for(var i=0; i<BN.index.length; i++) {
+        var obj = BN.index[i];
+
+        // let's put both lowercase and trim
+        var lemma = obj.lemma;
+
+        var distArray = levenshteinenator.levenshteinenator(input, lemma);
+        var rank = distArray[ distArray.length - 1 ][ distArray[ distArray.length - 1 ].length - 1 ];
+        if(rank < highest.rank) {
+            highest.rank = rank
+            highest.iso = obj.isoCodes
+            highest.label = lemma
+        }
+    }
+    return highest;
+}
+
+
+
+
+function main() {
+
+    var results = []
+
+    var data = fs.readFileSync('correctAnnotation.json', 'utf-8')
+    data = data.split('\n')
+
+    // now for each correct entry, test SIL and BabelNet directly
+    var results = []
+    for(var i=0; i<data.length; i++) {
+        var line = data[i]
+        try {
+            var obj = JSON.parse(line)
+        } catch(e) {
+            continue;
+        }
+        var input = obj.original
+        var expected = obj.id
+
+        var o = {
+            input: obj.original,
+            expected: obj.id,
+
+            got_SIL_dice: SIL.dice(input),
+            got_SIL_levenshtein: SIL.levenshtein(input),
+            got_BN_dice: BN.dice(input),
+            got_BN_levenshtein: BN.levenshtein(input)
+        }
+        results.push(o)
+    }
+    fs.writeFileSync('correctResults.json', JSON.stringify(results, null, 2))
+
 }
