@@ -200,7 +200,7 @@
         "ISO_639:dan",
         "ISO_639:da"
       ],
-      "label": "Danish"
+      "label": "Danish "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -231,7 +231,7 @@
         "ISO_639:olt",
         "ISO_639:lt"
       ],
-      "label": "Lithuanian"
+      "label": "Lithuanian "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -261,7 +261,7 @@
       "iso": [
         "ISO_639:jpr"
       ],
-      "label": "Judeo-Persian"
+      "label": "Judeo-Persian "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -382,7 +382,7 @@
         "ISO_639:nb",
         "ISO_639:nob"
       ],
-      "label": "Bokmål"
+      "label": "bokmål"
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -443,7 +443,7 @@
         "ISO_639:wof",
         "ISO_639:wo"
       ],
-      "label": "Wolof"
+      "label": "Wolof "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -473,7 +473,7 @@
       "iso": [
         "ISO_639:jbo"
       ],
-      "label": "lojban"
+      "label": "Lojban "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -559,7 +559,7 @@
       "iso": [
         "ISO_639:ybb"
       ],
-      "label": "Yemba"
+      "label": "Yemba "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -588,7 +588,7 @@
         "ISO_639:syr",
         "ISO_639:syc"
       ],
-      "label": "Syriac"
+      "label": "Syriac "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -648,7 +648,7 @@
         "ISO_639:ve",
         "ISO_639:ven"
       ],
-      "label": "Tshivenda"
+      "label": "Tshivenda "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -707,7 +707,7 @@
       "iso": [
         "ISO_639:mos"
       ],
-      "label": "Mooré"
+      "label": "Mooré "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -793,7 +793,7 @@
       "iso": [
         "ISO_639:acv"
       ],
-      "label": "Achumawi"
+      "label": "Achumawi "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -852,7 +852,7 @@
         "ISO_639:ace",
         "ISO_639-3:ace"
       ],
-      "label": "Achinese"
+      "label": "Achinese "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -912,7 +912,7 @@
         "ISO_639:pli",
         "ISO_639:pi"
       ],
-      "label": "pali"
+      "label": "Pali"
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -950,7 +950,7 @@
         "ISO_639:otn",
         "ISO_639:otx"
       ],
-      "label": "Sierra Otomí"
+      "label": "Eastern Otomí "
     }
   },
   {
@@ -972,7 +972,7 @@
         "ISO_639:ab",
         "ISO_639:abk"
       ],
-      "label": "Abkhaz"
+      "label": "Abkhaz "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1031,7 +1031,7 @@
       "iso": [
         "ISO_639:amc"
       ],
-      "label": "Amahuaca"
+      "label": "Amahuaca "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1091,7 +1091,7 @@
         "ISO_639:ayc",
         "ISO_639:ayr"
       ],
-      "label": "Aymara"
+      "label": "Aymara "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1122,7 +1122,7 @@
       "iso": [
         "ISO_639:bem"
       ],
-      "label": "Bemba"
+      "label": "Bemba "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1159,7 +1159,7 @@
         "ISO_639:ckk",
         "ISO_639:cak"
       ],
-      "label": "Cakchiquel"
+      "label": "Cakchiquel "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1192,12 +1192,12 @@
       "label": "Maldivian"
     },
     "got_BN_dice": {
-      "rank": 0.6363636363636364,
+      "rank": 0.72,
       "iso": [
         "ISO_639:div",
         "ISO_639:dv"
       ],
-      "label": "Divehi"
+      "label": "Maldivian "
     },
     "got_BN_levenshtein": {
       "rank": 8,
@@ -1205,7 +1205,7 @@
         "ISO_639:div",
         "ISO_639:dv"
       ],
-      "label": "iaith maldivian"
+      "label": "Dhivehi (Mahl) "
     }
   },
   {
@@ -1254,11 +1254,11 @@
       "label": "Chin, Haka"
     },
     "got_BN_dice": {
-      "rank": 0.7272727272727273,
+      "rank": 0.875,
       "iso": [
-        "ISO_639:ahk"
+        "ISO_639:cnh"
       ],
-      "label": "Akha"
+      "label": "Hakha Chin "
     },
     "got_BN_levenshtein": {
       "rank": 3,
@@ -1317,7 +1317,7 @@
         "ISO_639:kde",
         "ISO_639:mvw"
       ],
-      "label": "Makonde"
+      "label": "Makonde "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1347,7 +1347,7 @@
         "ISO_639:lug",
         "ISO_639:lg"
       ],
-      "label": "Luganda"
+      "label": "luganda"
     },
     "got_BN_levenshtein": {
       "rank": 4,
@@ -1377,7 +1377,7 @@
         "ISO_639:lin",
         "ISO_639:ln"
       ],
-      "label": "lingala"
+      "label": "Lingala "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1402,20 +1402,26 @@
       "label": "Sharanahua"
     },
     "got_BN_dice": {
-      "rank": 0.875,
+      "rank": 1,
       "iso": [
-        "ISO_639:auf"
+        "ISO_639:mcd",
+        "ISO_639:mts",
+        "ISO_639:swo",
+        "ISO_639:yaa",
+        "ISO_639:ywn"
       ],
-      "label": "Arahuana"
+      "label": "Sharanahua "
     },
     "got_BN_levenshtein": {
-      "rank": 3,
+      "rank": 1,
       "iso": [
-        "ISO_639:xip",
-        "ISO_639:kaq",
-        "ISO_639:shp"
+        "ISO_639:mcd",
+        "ISO_639:mts",
+        "ISO_639:swo",
+        "ISO_639:yaa",
+        "ISO_639:ywn"
       ],
-      "label": "Capanahua"
+      "label": "Sharanahua "
     }
   },
   {
@@ -1449,7 +1455,7 @@
         "ISO_639:bhr",
         "ISO_639:mlg"
       ],
-      "label": "Malagasy"
+      "label": "Malagasy "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1486,11 +1492,11 @@
       "label": "Lango (Uganda)"
     },
     "got_BN_dice": {
-      "rank": 0.8695652173913043,
+      "rank": 0.9523809523809523,
       "iso": [
         "ISO_639:lns"
       ],
-      "label": "Kilamnso'"
+      "label": "Lamnso' "
     },
     "got_BN_levenshtein": {
       "rank": 9,
@@ -1514,14 +1520,12 @@
       "label": "Quechua, Sihuas Ancash"
     },
     "got_BN_dice": {
-      "rank": 0.6923076923076923,
+      "rank": 0.7619047619047619,
       "iso": [
-        "ISO_639:qxt",
-        "ISO_639:qva",
-        "ISO_639:qvn",
-        "ISO_639:qur"
+        "ISO_639:quy",
+        "ISO_639:qxu"
       ],
-      "label": "Santa Ana de Tusi Pasco Quechua"
+      "label": "Cotahuasi Quechua "
     },
     "got_BN_levenshtein": {
       "rank": 17,
@@ -1545,13 +1549,13 @@
       "label": "Sundanese"
     },
     "got_BN_dice": {
-      "rank": 0.9333333333333333,
+      "rank": 1,
       "iso": [
         "ISO_639:su",
         "ISO_639:bac",
         "ISO_639:sun"
       ],
-      "label": "Sundanes"
+      "label": "Sundanese "
     },
     "got_BN_levenshtein": {
       "rank": 1,
@@ -1560,7 +1564,7 @@
         "ISO_639:bac",
         "ISO_639:sun"
       ],
-      "label": "Sundanes"
+      "label": "Sundanese "
     }
   },
   {
@@ -1581,7 +1585,7 @@
       "iso": [
         "ISO_639:tem"
       ],
-      "label": "Themne"
+      "label": "Themne "
     },
     "got_BN_levenshtein": {
       "rank": 7,
@@ -1609,7 +1613,7 @@
       "iso": [
         "ISO_639:tob"
       ],
-      "label": "Toba"
+      "label": "Toba "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1668,7 +1672,7 @@
         "ISO_639:tzh",
         "ISO_639:tzb"
       ],
-      "label": "Tzeltal"
+      "label": "Tzeltal "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1727,7 +1731,7 @@
       "iso": [
         "ISO_639:zap"
       ],
-      "label": "Zapoteco"
+      "label": "Zapoteco "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -1751,20 +1755,20 @@
       "label": "Mandar"
     },
     "got_BN_dice": {
-      "rank": 0.8571428571428571,
+      "rank": 1,
       "iso": [
         "ISO_639:mya",
         "ISO_639:my"
       ],
-      "label": "Myanmarsk"
+      "label": "Myanmar "
     },
     "got_BN_levenshtein": {
-      "rank": 2,
+      "rank": 1,
       "iso": [
         "ISO_639:mya",
         "ISO_639:my"
       ],
-      "label": "Myanmasa"
+      "label": "Myanmar "
     }
   },
   {
@@ -1844,7 +1848,7 @@
       "iso": [
         "ISO_639:ibb"
       ],
-      "label": "Ibibio"
+      "label": "Ibibio "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2016,7 +2020,7 @@
       "iso": [
         "ISO_639:jgo"
       ],
-      "label": "Ngomba"
+      "label": "Ngomba "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2040,11 +2044,11 @@
       "label": "Manda (Australia)"
     },
     "got_BN_dice": {
-      "rank": 0.6,
+      "rank": 0.6060606060606061,
       "iso": [
         "ISO_639:aus"
       ],
-      "label": "Lenghe australian-e"
+      "label": "Australian s"
     },
     "got_BN_levenshtein": {
       "rank": 13,
@@ -2169,7 +2173,7 @@
         "ISO_639:en",
         "ISO_639:eng"
       ],
-      "label": "English language"
+      "label": "English Language"
     }
   },
   {
@@ -2338,7 +2342,7 @@
       "iso": [
         "ISO_639:arq"
       ],
-      "label": "Algerian arabic"
+      "label": "Algerian Arabic"
     },
     "got_BN_levenshtein": {
       "rank": 5,
@@ -2375,7 +2379,7 @@
         "ISO_639:por",
         "ISO_639:pt"
       ],
-      "label": "Portuguese language"
+      "label": "Portugese taal"
     }
   },
   {
@@ -2458,7 +2462,7 @@
         "ISO_639:af",
         "ISO_639-3:afr"
       ],
-      "label": "afrikaans"
+      "label": "Afrikaans"
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2484,11 +2488,11 @@
       "label": "Amele"
     },
     "got_BN_dice": {
-      "rank": 0.8,
+      "rank": 1,
       "iso": [
-        "ISO_639:dml"
+        "ISO_639:aey"
       ],
-      "label": "Dameleg"
+      "label": "Amele "
     },
     "got_BN_levenshtein": {
       "rank": 1,
@@ -2610,7 +2614,7 @@
         "ISO_639:arg",
         "ISO_639:an"
       ],
-      "label": "Aragonese"
+      "label": "Aragonese "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2639,7 +2643,7 @@
       "iso": [
         "ISO_639:myv"
       ],
-      "label": "Erzya"
+      "label": "Erzya "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2695,7 +2699,7 @@
       "iso": [
         "ISO_639:zh-Hant"
       ],
-      "label": "Traditional Chinese"
+      "label": "Traditional Chinese "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2885,7 +2889,7 @@
       "iso": [
         "ISO_639:ber"
       ],
-      "label": "Amazigh"
+      "label": "Amazigh "
     },
     "got_BN_levenshtein": {
       "rank": 1,
@@ -2914,7 +2918,7 @@
         "ISO_639:kaz",
         "ISO_639:kk"
       ],
-      "label": "Kazakh"
+      "label": "Kazakh "
     },
     "got_BN_levenshtein": {
       "rank": 0,
@@ -2974,7 +2978,7 @@
         "ISO_639:hi",
         "ISO_639:hin"
       ],
-      "label": "hindi"
+      "label": "Hindi"
     },
     "got_BN_levenshtein": {
       "rank": 0,
