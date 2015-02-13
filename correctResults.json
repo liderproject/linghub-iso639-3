@@ -2650,36 +2650,6 @@
     }
   },
   {
-    "input": "Irish",
-    "expected": "gle",
-    "got_SIL_dice": {
-      "rank": 1,
-      "iso": "gle",
-      "label": "irish"
-    },
-    "got_SIL_levenshtein": {
-      "rank": 0,
-      "iso": "gle",
-      "label": "Irish"
-    },
-    "got_BN_dice": {
-      "rank": 1,
-      "iso": [
-        "ISO_639:ga",
-        "ISO_639:gle"
-      ],
-      "label": "Irish"
-    },
-    "got_BN_levenshtein": {
-      "rank": 0,
-      "iso": [
-        "ISO_639:ga",
-        "ISO_639:gle"
-      ],
-      "label": "Irish"
-    }
-  },
-  {
     "input": "No linguistic content",
     "expected": "zxx",
     "got_SIL_dice": {
