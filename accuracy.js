@@ -62,6 +62,40 @@ for(var i=0; i<arr.length; i++) {
 }
 console.log('Correct set length: ' + arr.length)
 console.log('Matches SIL dice: ' +SIL_dice.length);
+var sum = 0;
+for( var i = 0; i < SIL_dice.length; i++ ){
+        sum += parseFloat( SIL_dice[i], 10 ); //don't forget to add the base
+}
+console.log('Average correct rank: ' + (sum/SIL_dice.length))
+console.log('Smallest correct rank: ' + Math.min.apply(null, SIL_dice));
+console.log('')
+
+
 console.log('Matches SIL levenshtein: ' +SIL_levenshtein.length);
+var sum = 0;
+for( var i = 0; i < SIL_levenshtein.length; i++ ){
+        sum += parseFloat( SIL_levenshtein[i], 10 ); //don't forget to add the base
+}
+console.log('Average correct rank: ' + (sum/SIL_levenshtein.length))
+console.log('Smallest correct rank: ' + Math.min.apply(null, SIL_levenshtein));
+
+
+console.log('')
+
 console.log('Matches BN dice: ' +BN_dice.length);
+var sum = 0;
+for( var i = 0; i < BN_dice.length; i++ ){
+        sum += parseFloat( BN_dice[i], 10 ); //don't forget to add the base
+}
+console.log('Average correct rank: ' + (sum/BN_dice.length))
+console.log('Smallest correct rank: ' + Math.min.apply(null, BN_dice));
+
+console.log('')
+
 console.log('Matches BN levenshtein: ' +BN_levenshtein.length);
+var sum = 0;
+for( var i = 0; i < BN_levenshtein.length; i++ ){
+        sum += parseFloat( BN_levenshtein[i], 10 ); //don't forget to add the base
+}
+console.log('Average correct rank: ' + (sum/BN_levenshtein.length))
+console.log('Smallest correct rank: ' + Math.min.apply(null, BN_levenshtein));
