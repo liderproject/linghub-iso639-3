@@ -17,6 +17,10 @@ var levenshteinenator = (function () {
      * @return Array
      */
     function levenshteinenator(a, b) {
+        // for my purposes, comparison should not check case or whitespace
+        var a = a.replace(/\s/g, "").toLowerCase();
+        var b = b.replace(/\s/g, "").toLowerCase();
+
         var cost;
         var m = a.length;
         var n = b.length;
