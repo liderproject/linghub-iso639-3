@@ -334,31 +334,31 @@
     }
   },
   {
-    "input": "english",
+    "input": "English",
     "expected": "eng",
     "got_SIL_dice": {
       "rank": 1,
       "iso": "eng",
-      "label": "english"
+      "label": "English"
     },
     "got_SIL_levenshtein": {
       "rank": 0,
       "iso": "eng",
-      "label": "english"
+      "label": "English"
     },
     "got_BN_dice": {
       "rank": 1,
       "iso": [
-        "ISO_639:id",
-        "ISO_639:ind"
+        "ISO_639:en",
+        "ISO_639:eng"
       ],
       "label": "english"
     },
     "got_BN_levenshtein": {
       "rank": 0,
       "iso": [
-        "ISO_639:id",
-        "ISO_639:ind"
+        "ISO_639:en",
+        "ISO_639:eng"
       ],
       "label": "english"
     }
@@ -1784,10 +1784,10 @@
       "label": "english"
     },
     "got_BN_dice": {
-      "rank": 0.6666666666666666,
+      "rank": 1,
       "iso": [
-        "ISO_639:id",
-        "ISO_639:ind"
+        "ISO_639:en",
+        "ISO_639:eng"
       ],
       "label": "english"
     },
